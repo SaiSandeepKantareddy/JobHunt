@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A private-first, automatically refreshed AI and ML job shortlist.">
+  <title>Job Radar · AI/ML shortlist</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="eyebrow">PERSONAL JOB RADAR</div>
+    <h1>The right AI roles,<br><span>waiting for you.</span></h1>
+    <p>Fresh senior AI/ML openings, ranked against your experience. No paid API, no résumé uploaded, no scraping LinkedIn.</p>
+    <div class="stats" id="stats" aria-live="polite"></div>
+  </header>
+
+  <main>
+    <section class="controls" aria-label="Job filters">
+      <input id="search" type="search" placeholder="Search title, company, skill…" aria-label="Search jobs">
+      <select id="family" aria-label="Filter by role family"><option value="">All role families</option></select>
+      <select id="mode" aria-label="Filter by work mode">
+        <option value="">Any work mode</option><option value="remote">Remote</option><option value="hybrid">Hybrid</option><option value="onsite">On-site</option>
+      </select>
+      <select id="status" aria-label="Filter by your status">
+        <option value="">Any status</option><option value="saved">Saved</option><option value="applied">Applied</option><option value="hidden">Hidden</option>
+      </select>
+      <button id="export" class="secondary">Export CSV</button>
+    </section>
+
+    <div class="result-line"><span id="result-count">Loading jobs…</span><span id="updated"></span></div>
+    <section id="jobs" class="jobs" aria-live="polite"></section>
+    <div id="empty" class="empty" hidden>No roles match these filters.</div>
+  </main>
+
+  <template id="job-template">
+    <article class="job-card">
+      <div class="score" title="Deterministic résumé alignment score"><strong></strong><small>MATCH</small></div>
+      <div class="job-body">
+        <div class="job-top"><div><div class="company"></div><h2></h2></div><span class="new-badge">NEW</span></div>
+        <div class="meta"></div>
+        <div class="reasons"></div>
+        <p class="description"></p>
+        <div class="skills"></div>
+        <div class="actions">
+          <a class="apply" target="_blank" rel="noopener noreferrer">View & apply ↗</a>
+          <button data-action="saved" class="secondary">☆ Save</button>
+          <button data-action="applied" class="secondary">✓ Applied</button>
+          <button data-action="hidden" class="quiet">Hide</button>
+        </div>
+      </div>
+    </article>
+  </template>
+  <script src="app.js"></script>
+</body>
+</html>
+

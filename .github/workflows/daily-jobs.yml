@@ -1,0 +1,35 @@
+name: Refresh job radar
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 23:15 UTC is late afternoon/evening in Chicago, depending on daylight time.
+    - cron: "15 23 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-job-radar
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch and rank jobs
+        run: python job_digest.py
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
+      - name: Commit refreshed shortlist
+        run: |
+          git config user.name "job-radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/jobs.json data/new_jobs.json data/seen.json DAILY_DIGEST.md
+          git diff --cached --quiet || git commit -m "chore: refresh job shortlist"
+          git push
