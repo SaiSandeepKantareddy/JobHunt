@@ -69,7 +69,7 @@ The seen-job ledger is different: `data/seen.json` contains only public job IDs 
 
 ## Synced tracking with Supabase
 
-The dashboard can sync Saved/Applied/Hidden state through Supabase while still falling back to browser-only tracking when Supabase is not configured.
+The dashboard is currently browser-local by default. It can be wired to Supabase, but the public GitHub Pages version intentionally does not ship a Supabase browser key.
 
 Current project URL:
 
@@ -88,21 +88,19 @@ values ('your-email@example.com')
 on conflict (email) do nothing;
 ```
 
-3. In **Project Settings -> API**, copy the public publishable key or anon public key.
-4. Paste it into `sync-config.js` as `publishableKey`.
-5. In **Authentication -> URL Configuration**, add the GitHub Pages URL as an allowed redirect URL:
+3. In **Authentication -> URL Configuration**, add the GitHub Pages URL as an allowed redirect URL:
 
 ```text
 https://saisandeepkantareddy.github.io/JobHunt/
 ```
 
-6. In **Authentication -> Sign In / Providers**, keep only the login methods you need. Email magic link is enough for this project; anonymous sign-ins should stay disabled.
+4. In **Authentication -> Sign In / Providers**, keep only the login methods you need. Email magic link is enough for this project; anonymous sign-ins should stay disabled.
 
-After that, enter your email in the dashboard and use the magic link. Applied/Hidden jobs will disappear from the default inbox across signed-in browsers.
+Do not commit Supabase keys to this public repository. If synced tracking is needed, put a small backend/API layer in front of Supabase and keep server-side credentials outside GitHub Pages.
 
 Cleanup is automatic for empty rows: if you turn off every status for a job, the browser deletes that row from Supabase. Applied jobs are intentionally kept because they are the memory that prevents processed jobs from returning to your inbox.
 
-Only public Supabase browser keys belong in `sync-config.js`. Never commit a `service_role`, JWT secret, database password, personal access token, or `.env` file. The browser key is acceptable in a public static app only because `job_tracker` has RLS policies that restrict every row to the signed-in user and to emails present in `allowed_tracker_users`.
+Never commit a `service_role`, publishable key, JWT secret, database password, personal access token, or `.env` file. GitHub Pages is public static hosting, so anything the browser can use is visible to visitors.
 
 ## Social posts from hiring managers
 
