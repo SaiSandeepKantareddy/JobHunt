@@ -67,6 +67,31 @@ Saved/Applied/Hidden state lives only in that browser's `localStorage`; it is no
 
 The seen-job ledger is different: `data/seen.json` contains only public job IDs and timestamps. GitHub Actions commits it after every run, allowing the automation to remember jobs across days without storing any of your personal application decisions.
 
+## Synced tracking with Supabase
+
+The dashboard can sync Saved/Applied/Hidden state through Supabase while still falling back to browser-only tracking when Supabase is not configured.
+
+Current project URL:
+
+```js
+https://yaqjvqkdajinpckpuqzb.supabase.co
+```
+
+To finish the setup:
+
+1. In Supabase, open **SQL Editor** and run `supabase/schema.sql`.
+2. In **Project Settings -> API**, copy the public publishable key or anon public key.
+3. Paste it into `sync-config.js` as `publishableKey`.
+4. In **Authentication -> URL Configuration**, add the GitHub Pages URL as an allowed redirect URL:
+
+```text
+https://saisandeepkantareddy.github.io/JobHunt/
+```
+
+After that, enter your email in the dashboard and use the magic link. Applied/Hidden jobs will disappear from the default inbox across signed-in browsers.
+
+Cleanup is automatic for empty rows: if you turn off every status for a job, the browser deletes that row from Supabase. Applied jobs are intentionally kept because they are the memory that prevents processed jobs from returning to your inbox.
+
 ## Social posts from hiring managers
 
 FreeHire includes some community sources such as Telegram, but it does not provide comprehensive LinkedIn or X/Twitter manager-post search. Those platforms restrict automated access and should not be scraped with logged-in browser sessions.

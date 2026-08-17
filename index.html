@@ -13,6 +13,12 @@
     <h1>The right AI roles,<br><span>waiting for you.</span></h1>
     <p>Fresh senior AI/ML openings, ranked against your experience. No paid API, no résumé uploaded, no scraping LinkedIn.</p>
     <div class="stats" id="stats" aria-live="polite"></div>
+    <form class="sync-panel" id="sync-panel">
+      <span id="sync-status">Local-only tracking</span>
+      <input id="sync-email" type="email" placeholder="Email for synced tracking" autocomplete="email" aria-label="Email for synced tracking">
+      <button id="sync-submit" type="submit">Sync</button>
+      <button id="sync-signout" type="button" class="quiet" hidden>Sign out</button>
+    </form>
   </header>
 
   <main>
@@ -51,7 +57,8 @@
       </div>
     </article>
   </template>
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script src="sync-config.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
-
