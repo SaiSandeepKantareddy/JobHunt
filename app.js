@@ -95,6 +95,18 @@ async function pushLocalTracker() {
   for (const [jobId, status] of entries) await writeRemoteStatus(jobId, status);
 }
 
+async function isAllowedSyncUser() {
+  const email = String(syncUser.email || "").toLowerCase();
+  if (!email) return false;
+  const { data, error } = await supabaseClient
+    .from("allowed_tracker_users")
+    .select("email")
+    .eq("email", email)
+    .maybeSingle();
+  if (error) throw error;
+  return Boolean(data);
+}
+
 function subscribeToRemoteTracker() {
   if (syncChannel) supabaseClient.removeChannel(syncChannel);
   syncChannel = supabaseClient
@@ -117,6 +129,12 @@ function subscribeToRemoteTracker() {
 
 async function activateSync(session) {
   syncUser = session.user;
+  if (!await isAllowedSyncUser()) {
+    await supabaseClient.auth.signOut();
+    syncUser = null;
+    setSyncStatus("Email is not allowlisted for sync");
+    return;
+  }
   $("sync-email").hidden = true;
   $("sync-submit").hidden = true;
   $("sync-signout").hidden = false;

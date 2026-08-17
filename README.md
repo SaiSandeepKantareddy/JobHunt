@@ -80,19 +80,29 @@ https://yaqjvqkdajinpckpuqzb.supabase.co
 To finish the setup:
 
 1. In Supabase, open **SQL Editor** and run `supabase/schema.sql`.
-2. In **Project Settings -> API**, copy the public publishable key or anon public key.
-3. Paste it into `sync-config.js` as `publishableKey`.
-4. In **Authentication -> URL Configuration**, add the GitHub Pages URL as an allowed redirect URL:
+2. In the same SQL Editor, allow only your own sign-in email:
+
+```sql
+insert into public.allowed_tracker_users (email)
+values ('your-email@example.com')
+on conflict (email) do nothing;
+```
+
+3. In **Project Settings -> API**, copy the public publishable key or anon public key.
+4. Paste it into `sync-config.js` as `publishableKey`.
+5. In **Authentication -> URL Configuration**, add the GitHub Pages URL as an allowed redirect URL:
 
 ```text
 https://saisandeepkantareddy.github.io/JobHunt/
 ```
 
+6. In **Authentication -> Sign In / Providers**, keep only the login methods you need. Email magic link is enough for this project; anonymous sign-ins should stay disabled.
+
 After that, enter your email in the dashboard and use the magic link. Applied/Hidden jobs will disappear from the default inbox across signed-in browsers.
 
 Cleanup is automatic for empty rows: if you turn off every status for a job, the browser deletes that row from Supabase. Applied jobs are intentionally kept because they are the memory that prevents processed jobs from returning to your inbox.
 
-Only public Supabase browser keys belong in `sync-config.js`. Never commit a `service_role`, JWT secret, database password, personal access token, or `.env` file. The browser key is safe only because `job_tracker` has RLS policies that restrict every row to the signed-in user.
+Only public Supabase browser keys belong in `sync-config.js`. Never commit a `service_role`, JWT secret, database password, personal access token, or `.env` file. The browser key is acceptable in a public static app only because `job_tracker` has RLS policies that restrict every row to the signed-in user and to emails present in `allowed_tracker_users`.
 
 ## Social posts from hiring managers
 
