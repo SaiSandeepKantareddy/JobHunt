@@ -21,13 +21,15 @@ function populateFamilies() {
 }
 function filteredJobs() {
   const query = $("search").value.trim().toLowerCase();
+  const selectedStatus = $("status").value;
   return jobs.filter(job => {
     const personal = statusFor(job.id);
     const haystack = `${job.title} ${job.company} ${job.description} ${(job.skills || []).join(" ")}`.toLowerCase();
+    const processed = personal.hidden || personal.applied;
     return (!query || haystack.includes(query)) && (!$("family").value || job.family === $("family").value)
       && (!$("mode").value || job.work_mode.toLowerCase().includes($("mode").value))
-      && (!$("status").value || personal[$("status").value])
-      && ($("status").value === "hidden" || !personal.hidden);
+      && (!selectedStatus || personal[selectedStatus])
+      && (selectedStatus || !processed);
   });
 }
 function render() {
@@ -68,4 +70,3 @@ async function boot() {
 controls.forEach(control => control.addEventListener("input", render));
 $("export").addEventListener("click", exportCsv);
 boot();
-
