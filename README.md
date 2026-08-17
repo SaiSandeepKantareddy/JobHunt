@@ -92,6 +92,8 @@ After that, enter your email in the dashboard and use the magic link. Applied/Hi
 
 Cleanup is automatic for empty rows: if you turn off every status for a job, the browser deletes that row from Supabase. Applied jobs are intentionally kept because they are the memory that prevents processed jobs from returning to your inbox.
 
+Only public Supabase browser keys belong in `sync-config.js`. Never commit a `service_role`, JWT secret, database password, personal access token, or `.env` file. The browser key is safe only because `job_tracker` has RLS policies that restrict every row to the signed-in user.
+
 ## Social posts from hiring managers
 
 FreeHire includes some community sources such as Telegram, but it does not provide comprehensive LinkedIn or X/Twitter manager-post search. Those platforms restrict automated access and should not be scraped with logged-in browser sessions.
