@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-21T23:40:33+00:00",
+  "generated_at": "2026-08-22T23:36:06+00:00",
   "source": "freehire.me public API",
   "count": 122,
-  "new_count": 13,
+  "new_count": 4,
   "warnings": [],
   "jobs": [
     {
@@ -53,7 +53,7 @@
       "description": "*Location:* United States – Remote *Clearance:* Ability to obtain and maintain a Public Trust *LTS* is seeking a highly skilled *Senior Applied AI Engineer* to focus on continuously improving the intelligence behind the platform. You'll experiment with models, optimize retrieval strategies, refine agent reasoning, evaluate AI performance, and transform emerging AI capabilities into production-ready solutions. The Agentic AI platform is designed to help engineers understand, analyze, and modernize one of the most consequential legacy software systems still operating today. Our platform enables engineers to ask questions in plain English and re…",
       "experience_years_min": 5,
       "salary": null,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "sr-machine-learning-engineer-6sense-mquw6w7s",
@@ -106,14 +106,14 @@
       "is_new": false
     },
     {
-      "id": "senior-ai-engineer-backend-emumba-6thwhiqc",
-      "title": "Senior AI Engineer Backend",
-      "company": "Emumba",
-      "location": "Dallas, TX; Remote",
+      "id": "senior-cloud-agentic-ai-engineer-vanguard-yjzcrrwn",
+      "title": "Senior Cloud & Agentic AI Engineer",
+      "company": "Vanguard",
+      "location": "Dallas/Ft. Worth, TX",
       "work_mode": "hybrid",
-      "posted_at": "2026-08-08T13:45:18Z",
-      "url": "https://emumba.pinpointhq.com/en/postings/edeb914d-2763-4d7c-99fa-46de8deb76f1?utm_source=freehire.me",
-      "source": "echojobs",
+      "posted_at": "2026-08-21T00:00:00Z",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/Senior-Cloud---Agentic-AI-Engineer_180953-1?utm_source=freehire.me",
+      "source": "workday",
       "countries": [
         "us"
       ],
@@ -121,39 +121,39 @@
         "north_america"
       ],
       "family": "Agentic AI",
-      "score": 76,
+      "score": 78,
       "why": [
-        "Role match: ai engineer",
-        "Core match: generative ai, genai, rag, multi-agent, vector search",
-        "Stack match: python, aws, fastapi, distributed systems",
+        "Role match: ai engineer, agentic",
+        "Core match: generative ai, rag, retrieval augmented generation, agentic ai, multi-agent",
+        "Stack match: python, aws",
         "Target relocation market: TX, CA, or WA"
       ],
       "skills": [
+        "agentic-ai",
+        "agile",
         "ai",
         "api",
-        "autogen",
+        "automation",
         "aws",
-        "claude-code",
+        "aws-bedrock",
+        "ci-cd",
         "cloud",
         "cloud-native",
-        "crewai",
-        "distributed-systems",
-        "embeddings",
-        "fastapi",
-        "flask",
+        "cloudformation",
+        "containerization",
+        "data-science",
+        "devops",
         "generative-ai",
-        "langchain",
+        "infrastructure-as-code",
+        "java",
         "langgraph",
         "llm",
-        "llmops",
-        "microservices",
-        "python",
-        "rag"
+        "nodejs"
       ],
-      "description": "****************** Senior AI Engineer ****************** *Department:* Backend *Employment Type:* Full Time *Location:* Dallas, Texas, USA, Remote We're looking for a hands-on *AI Engineer* who combines strong backend engineering fundamentals with hands-on experience building production Generative AI systems. You'll design and ship RAG pipelines, integrate LLMs into real products, and build the backend services that support them, writing code daily, not just architecting on paper. This is a purely technical IC role, not a managerial one. You’ll lead by example, mentor through code reviews, and own end-to-end technical delivery. Key Responsibi…",
-      "experience_years_min": 5,
+      "description": "Provides advanced analysis, design, development, implementation, and support of cloud-native and AI-driven solutions that enable scalable, secure, and high-performing enterprise applications. Leverages deep expertise in AWS platform engineering, automation, and modern AI frameworks to deliver innovative products and services that enhance business outcomes and user experiences. *Responsibilities:* * Designs, develops, and supports AWS-based cloud solutions using Infrastructure as Code (Terraform, CloudFormation), automation, and CI/CD pipelines. * Builds reusable platform services, APIs, and cloud-native components that accelerate product deli…",
+      "experience_years_min": null,
       "salary": null,
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "staff-machine-learning-engineer-servicenow-julvdpmg",
@@ -355,7 +355,7 @@
       "description": "Lead ServiceNow Developer with strong AI/GenAI expertise1 We are looking for an experienced *ServiceNow Developer with strong AI/GenAI expertise* to design, develop, and implement innovative ServiceNow solutions that combine the ServiceNow platform with modern AI capabilities. The ideal candidate will have hands-on experience with *ServiceNow development, Now Assist, AI agents, Graph RAG, Agentic RAG, LangGraph, LangChain, and Neo4j* , along with strong programming skills in *Python and JavaScript*. This role will be responsible for building intelligent, context-aware solutions and AI agents that leverage enterprise knowledge, ServiceNow data…",
       "experience_years_min": 12,
       "salary": null,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "senior-software-and-ai-engineer-coreweave-5pwzyzfg",
@@ -741,55 +741,6 @@
       "is_new": false
     },
     {
-      "id": "sr-ai-engineer-samsara-ttxo2s62",
-      "title": "Sr. AI Engineer",
-      "company": "Samsara",
-      "location": "Remote - CA",
-      "work_mode": "remote",
-      "posted_at": "2026-08-20T18:53:51Z",
-      "url": "https://www.samsara.com/company/careers/roles/8083352?gh_jid=8083352&utm_source=freehire.me",
-      "source": "greenhouse",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "GenAI / LLM",
-      "score": 68,
-      "why": [
-        "Role match: ai engineer",
-        "Core match: generative ai, genai, rag, embeddings, langchain",
-        "Stack match: python",
-        "Target relocation market: TX, CA, or WA"
-      ],
-      "skills": [
-        "ai",
-        "api",
-        "cloud",
-        "crm",
-        "embeddings",
-        "generative-ai",
-        "go-to-market",
-        "langchain",
-        "llm",
-        "machine-learning",
-        "mcp",
-        "model-evaluation",
-        "observability",
-        "openai",
-        "prompt-engineering",
-        "python",
-        "rag",
-        "salesforce",
-        "vector-databases"
-      ],
-      "description": "*Who we are* Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operatio…",
-      "experience_years_min": 5,
-      "salary": null,
-      "is_new": false
-    },
-    {
       "id": "staff-applied-ai-engineer-product-agent-performance-jobgether-sbha43mx",
       "title": "Staff Applied AI Engineer, Product & Agent Performance",
       "company": "jobgether",
@@ -824,7 +775,7 @@
       "description": "*This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Staff Applied AI Engineer, Product & Agent Performance based in the United States.* This is a staff-level individual contributor role focused on making AI agents reliable, measurable, and production-ready in complex healthcare workflows. You will shape agent behavior across prompting, retrieval, context, memory, tool use, evaluation, and human escalation. Your work will directly influence how AI systems perform across real-world, high-impact use cases serving healthcare organizations. You will establish rigorous e…",
       "experience_years_min": 3,
       "salary": null,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "lead-ai-engineer-ai-solutions-delivery-lead-acosta-joqqayy5",
@@ -1491,7 +1442,7 @@
       "description": "About the Role -------------- This is a senior individual contributor role on a growing AI and Data Science team, focused on building and owning production-grade machine learning solutions in the healthcare space. You'll operate across the full ML lifecycle — from data preparation through to deployment and ongoing monitoring — with direct impact on clinical and operational outcomes. What You'll Do -------------- * Design, develop, deploy, and maintain enterprise-scale machine learning solutions end-to-end. * Build ML pipelines covering data ingestion, feature engineering, model training, evaluation, deployment, monitoring, and retraining. * D…",
       "experience_years_min": 8,
       "salary": null,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "senior-applied-ai-engineer-frontcareers-eilws5ns",
@@ -1865,6 +1816,56 @@
       "is_new": false
     },
     {
+      "id": "principal-machine-learning-engineer-the-walt-disney-company-i6o7arda",
+      "title": "Principal Machine Learning Engineer",
+      "company": "The Walt Disney Company",
+      "location": "Glendale, CA, USA",
+      "work_mode": "not specified",
+      "posted_at": "2026-08-21T00:00:00Z",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Principal-Machine-Learning-Engineer_10157433-2?utm_source=freehire.me",
+      "source": "workday",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "AI / ML Platform",
+      "score": 56,
+      "why": [
+        "Role match: machine learning",
+        "Core match: agentic ai, langgraph",
+        "Stack match: databricks, mlflow, aws, fine-tuning, distributed systems",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "agentic-ai",
+        "agile",
+        "ai",
+        "autogen",
+        "aws",
+        "backbone",
+        "cloud",
+        "crewai",
+        "data-engineering",
+        "data-pipelines",
+        "data-science",
+        "databricks",
+        "deep-learning",
+        "distributed-systems",
+        "github",
+        "kafka",
+        "kinesis",
+        "lambda",
+        "langgraph",
+        "llm"
+      ],
+      "description": "Job Posting Title: Principal Machine Learning Engineer Req ID: 10157433 Job Description: Disney Entertainment and ESPN Product & Technology Technology is at the heart of Disney’s past, present, and future. Disney Entertainment and ESPN Product & Technology is a global organization of engineers, product developers, designers, technologists, data scientists, and more – all working to build and advance the technological backbone for Disney’s media business globally. The team marries technology with creativity to build world-class products, enhance storytelling, and drive velocity, innovation, and scalability for our businesses. We are Storytelle…",
+      "experience_years_min": 10,
+      "salary": null,
+      "is_new": true
+    },
+    {
       "id": "staff-software-engineer-enterprise-genai-scale-ai-mgzxmvzv",
       "title": "Staff Software Engineer, Enterprise GenAI",
       "company": "Scale AI",
@@ -2135,7 +2136,7 @@
       "description": "****************************************************** Causal Labs — Machine Learning Infrastructure Engineer ****************************************************** *Type:* Full-time | On-site | San Francisco, CA *Compensation:* $200K–$400K + highly competitive early-stage equity *Hiring count:* 2–3 *Visa sponsorship:* Yes — open to visa transfers (e.g. OPT, H-1B transfers); can sponsor visas *Reports to:* Dar Mehta, Co-founder & CEO ----------------- About Causal Labs ----------------- Causal Labs is a research company building AI capable of (1) predicting the future and (2) identifying the optimal actions to change that future — what they c…",
       "experience_years_min": 2,
       "salary": null,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "senior-staff-machine-learning-engineer-llm-vlm-model-architecture-optimization-waymo-ieqf3aqp",
@@ -2429,7 +2430,7 @@
       "description": "Seekr builds trusted AI for mission-critical decisions. Our platform helps organizations build, govern, and deploy secure, explainable AI rooted in their own data across cloud, on-premises, edge, and air-gapped environments. We care deeply about transparency, auditability, and defensibility because high-stakes AI is only useful when people can understand and trust how it behaves. The first wave of AI was about scale. The frontier now is reliable AI: systems that are not only capable, but understandable, testable, and dependable in real decisions. At Seekr, explainability is not a reporting layer added after deployment; it is a core product an…",
       "experience_years_min": 8,
       "salary": null,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ai-engineer-research-scientist-senior-staff-explainable-ai-seekr-nnvxtnq4",
@@ -2474,7 +2475,7 @@
       "description": "*Seekr's Mission:* Seekr builds trusted AI for mission-critical decisions. Our platform helps organizations build, govern, and deploy secure, explainable AI rooted in their own data across cloud, on-premises, edge, and air-gapped environments. We care deeply about transparency, auditability, and defensibility because high-stakes AI is only useful when people can understand and trust how it behaves. *About the Opportunity:* The first wave of AI was about scale. The frontier now is reliable AI: systems that are not only capable, but understandable, testable, and dependable in real decisions. At Seekr, explainability is not a reporting layer add…",
       "experience_years_min": null,
       "salary": null,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "machine-learning-engineer-simulation-realism-waymo-sh3juouy",
@@ -2807,7 +2808,7 @@
       "description": "*POS-22209* *Principal Machine Learning Engineer* HubSpot is an all-in-one marketing, sales, and service software platform that helps businesses grow and succeed. With a user-friendly interface and powerful tools, HubSpot enables businesses to attract, engage, and delight customers, ultimately driving growth and increasing revenue. From marketing automation to CRM, HubSpot offers a comprehensive solution that empowers businesses to succeed in the digital age. The AI Platform Group at HubSpot delivers the ML and AI foundations that enable product teams across the company to create easy, accurate, and consistent AI features for our millions of …",
       "experience_years_min": null,
       "salary": null,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "staff-machine-learning-engineer-paypal-jh2aawy3",
@@ -2982,62 +2983,12 @@
       "is_new": false
     },
     {
-      "id": "applied-ai-ml-lead-multiple-positions-available-jpmorganchase-wxdh3vuk",
-      "title": "Applied AI & ML Lead [Multiple Positions Available]",
-      "company": "JPMorganChase",
-      "location": "Palo Alto, CA, United States",
-      "work_mode": "not specified",
-      "posted_at": "2026-08-11T00:00:00Z",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210774267?utm_source=freehire.me",
-      "source": "oracle",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "Machine Learning",
-      "score": 49,
-      "why": [
-        "Role match: applied ai",
-        "Core match: embeddings",
-        "Stack match: python, pytorch, tensorflow, kubernetes",
-        "Target relocation market: TX, CA, or WA"
-      ],
-      "skills": [
-        "ai",
-        "airflow",
-        "bigquery",
-        "ci-cd",
-        "dask",
-        "data-pipelines",
-        "deep-learning",
-        "docker",
-        "embeddings",
-        "feature-engineering",
-        "kafka",
-        "keras",
-        "kubernetes",
-        "machine-learning",
-        "matplotlib",
-        "neural-networks",
-        "plotly",
-        "pyspark",
-        "python",
-        "pytorch"
-      ],
-      "description": "DESCRIPTION: Duties: Design and develop advanced machine learning (ML) models to detect fraudulent merchant activity and assess payer risk. Engineer graph-based features and embeddings by constructing transaction-level payment graphs across cross-functional teams and applying Graph Neural Networks (GNN) to generate features for fraud detection models. Extract and compute graph connectivity metrics such as PageRank, centrality scores, community detection and label propagation algorithms to identify fraudulent clusters and potential fraud rings within the merchant network. Track and report rule-level model performance metrics, ensuring model in…",
-      "experience_years_min": 2,
-      "salary": null,
-      "is_new": false
-    },
-    {
       "id": "senior-director-of-engineering-generative-ai-roblox-i5klq54e",
       "title": "Senior Director of Engineering, Generative AI ",
       "company": "Roblox",
       "location": "San Mateo, CA, United States",
       "work_mode": "not specified",
-      "posted_at": "2026-08-21T19:56:37Z",
+      "posted_at": "2026-08-22T18:31:06Z",
       "url": "https://careers.roblox.com/jobs/8131695?gh_jid=8131695&utm_source=freehire.me",
       "source": "greenhouse",
       "countries": [
@@ -3320,47 +3271,6 @@
       "is_new": false
     },
     {
-      "id": "sr-staff-machine-learning-systems-engineer-hims-and-hers-cxqcuz37",
-      "title": "Sr. Staff Machine Learning Systems Engineer",
-      "company": "hims-and-hers",
-      "location": "US Remote",
-      "work_mode": "remote",
-      "posted_at": "2026-08-18T20:59:38Z",
-      "url": "https://jobs.ashbyhq.com/hims-and-hers/87e928dc-746c-49b2-ba23-06ad6865d0a2?utm_source=freehire.me",
-      "source": "ashby",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "Machine Learning",
-      "score": 47,
-      "why": [
-        "Role match: machine learning",
-        "Core match: llm",
-        "Stack match: python, databricks, mlflow",
-        "Remote US/North America — verify eligibility"
-      ],
-      "skills": [
-        "ai",
-        "data-engineering",
-        "data-ingestion",
-        "data-pipelines",
-        "data-science",
-        "databricks",
-        "fintech",
-        "llm",
-        "machine-learning",
-        "mlflow",
-        "python"
-      ],
-      "description": "Hims & Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatment to delivery. No two people are the same, so we provide access to personalized care designed for results. By normalizing health & wellness challenges and innovating on their solutions, we’re making better health outcomes easier to achieve. Hims & Hers is a public company, traded on the NYSE under the ticker symbol “HIMS.” To learn more about the brand…",
-      "experience_years_min": 10,
-      "salary": null,
-      "is_new": false
-    },
-    {
       "id": "senior-machine-learning-engineer-xpeng-dzcdga4f",
       "title": "Senior Machine Learning Engineer",
       "company": "XPENG",
@@ -3530,6 +3440,55 @@
       ],
       "description": "*This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Software Engineer, AI/ML Platform based in the United States.* This is a senior engineering opportunity focused on building the infrastructure that powers machine learning at fleet scale for advanced humanoid robotics. You will architect and develop foundational platforms spanning data processing, model training, simulation, evaluation, deployment, and observability. Your work will enable AI researchers and robotics engineers to develop and operationalize sophisticated models and end-to-end robotic policies…",
       "experience_years_min": 2,
+      "salary": null,
+      "is_new": false
+    },
+    {
+      "id": "senior-machine-learning-engineer-ii-flightaware-remote-rtx-qdqrzf7g",
+      "title": "Senior Machine Learning Engineer II - FlightAware (Remote)",
+      "company": "RTX",
+      "location": "US-CA-REMOTE",
+      "work_mode": "remote",
+      "posted_at": "2026-08-21T00:00:00Z",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-REMOTE/Senior-Machine-Learning-Engineer-II---FlightAware--Remote-_01868549?utm_source=freehire.me",
+      "source": "workday",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Machine Learning",
+      "score": 46,
+      "why": [
+        "Role match: machine learning",
+        "Stack match: python, pytorch, tensorflow, kubernetes, aws",
+        "Remote US/North America — verify eligibility"
+      ],
+      "skills": [
+        "agile",
+        "airflow",
+        "aws",
+        "cloud",
+        "dagster",
+        "deep-learning",
+        "elasticsearch",
+        "etl",
+        "grafana",
+        "keras",
+        "kubernetes",
+        "machine-learning",
+        "neural-networks",
+        "observability",
+        "prometheus",
+        "python",
+        "pytorch",
+        "spark",
+        "tensorflow",
+        "time-series"
+      ],
+      "description": "*Date Posted:* 2026-08-21&#xa;&#xa; *Country:* United States of America&#xa;&#xa; *Location:* US-CA-REMOTE&#xa;&#xa; *Position Role Type:* Remote&#xa;&#xa; *U.S. Citizen, U.S. Person, or Immigration Status Requirements:* Must be authorized to work in the U.S. without the company’s immigration sponsorship now or in the future. The company will not offer immigration sponsorship for this position.​ The company will not seek an export authorization for this role.&#xa;&#xa; *Security Clearance Type:* None/Not Required&#xa;&#xa; *Security Clearance Status:* Not Required As a Machine Learning Engineer on the Aviation Intelligence team, you will be b…",
+      "experience_years_min": 5,
       "salary": null,
       "is_new": true
     },
@@ -4004,6 +3963,46 @@
       "is_new": false
     },
     {
+      "id": "lead-machine-learning-engineer-ml-infrastructure-samsara-rhnhthda",
+      "title": "Lead Machine Learning Engineer - ML Infrastructure ",
+      "company": "Samsara",
+      "location": "Remote - US",
+      "work_mode": "remote",
+      "posted_at": "2026-08-22T18:33:45Z",
+      "url": "https://www.samsara.com/company/careers/roles/7721193?gh_jid=7721193&utm_source=freehire.me",
+      "source": "greenhouse",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "AI / ML Platform",
+      "score": 43,
+      "why": [
+        "Role match: machine learning",
+        "Core match: llm",
+        "Stack match: kubernetes",
+        "Remote US/North America — verify eligibility"
+      ],
+      "skills": [
+        "ai",
+        "cloud",
+        "developer-experience",
+        "distributed-training",
+        "feature-engineering",
+        "kubernetes",
+        "llm",
+        "machine-learning",
+        "observability",
+        "spark"
+      ],
+      "description": "*Who we are* Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operatio…",
+      "experience_years_min": 10,
+      "salary": null,
+      "is_new": false
+    },
+    {
       "id": "applied-ai-engineering-lead-peregrine-technologies-blzi3qki",
       "title": "Applied AI Engineering Lead",
       "company": "Peregrine Technologies",
@@ -4036,46 +4035,6 @@
       ],
       "description": "Backed by leading Silicon Valley investors, Peregrine helps public safety organizations, state and local and governments, federal agencies , and private-sector institutions address society’s challenges with unprecedented speed and accuracy. Our AI-enabled platform turns siloed and disconnected data into operational intelligence — instantly surfacing mission-critical information to empower better, faster decisions that improve outcomes at every touchpoint. Today Peregrine supports hundreds of customers across 30+ states and two countries, serving more than 125 million people — and we’re amplifying our impact as we expand into the enterprise an…",
       "experience_years_min": null,
-      "salary": null,
-      "is_new": false
-    },
-    {
-      "id": "lead-machine-learning-engineer-ml-infrastructure-samsara-rhnhthda",
-      "title": "Lead Machine Learning Engineer - ML Infrastructure ",
-      "company": "Samsara",
-      "location": "Remote - US",
-      "work_mode": "remote",
-      "posted_at": "2026-08-20T18:53:47Z",
-      "url": "https://www.samsara.com/company/careers/roles/7721193?gh_jid=7721193&utm_source=freehire.me",
-      "source": "greenhouse",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "AI / ML Platform",
-      "score": 43,
-      "why": [
-        "Role match: machine learning",
-        "Core match: llm",
-        "Stack match: kubernetes",
-        "Remote US/North America — verify eligibility"
-      ],
-      "skills": [
-        "ai",
-        "cloud",
-        "developer-experience",
-        "distributed-training",
-        "feature-engineering",
-        "kubernetes",
-        "llm",
-        "machine-learning",
-        "observability",
-        "spark"
-      ],
-      "description": "*Who we are* Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operatio…",
-      "experience_years_min": 10,
       "salary": null,
       "is_new": false
     },
@@ -4115,7 +4074,7 @@
       "description": "*Team Overview:* The AI Agent Platform & Expertise Graph Team is a self-embedded group of application engineers and AI engineers building the core agentic platforms and product features that power LinkedIn's hiring and job-seeker experiences. We sit at the intersection of applied AI and product engineering, owning systems end-to-end from foundational platforms to member-facing experiences. We're building LinkedIn's Expertise Graph, a new long-term moat that lets professionals demonstrate expertise once and reuse it everywhere, and a new AI Assessment Platform powering AI interviews and skill assessments across LinkedIn hiring and seeker produ…",
       "experience_years_min": 1,
       "salary": null,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "sr-machine-learning-engineer-machine-learning-dyno-therapeutics-6v4abhuv",
@@ -4167,7 +4126,7 @@
       "company": "Roblox",
       "location": "San Mateo, CA, United States",
       "work_mode": "not specified",
-      "posted_at": "2026-08-21T20:10:17Z",
+      "posted_at": "2026-08-22T18:45:05Z",
       "url": "https://careers.roblox.com/jobs/7629843?gh_jid=7629843&utm_source=freehire.me",
       "source": "greenhouse",
       "countries": [
@@ -4529,7 +4488,7 @@
       "company": "Roblox",
       "location": "San Mateo, CA, United States",
       "work_mode": "not specified",
-      "posted_at": "2026-08-21T20:08:47Z",
+      "posted_at": "2026-08-22T18:42:37Z",
       "url": "https://careers.roblox.com/jobs/8047877?gh_jid=8047877&utm_source=freehire.me",
       "source": "greenhouse",
       "countries": [
@@ -4754,7 +4713,7 @@
       "company": "Roblox",
       "location": "San Mateo, CA, United States",
       "work_mode": "not specified",
-      "posted_at": "2026-08-21T20:04:49Z",
+      "posted_at": "2026-08-22T18:38:54Z",
       "url": "https://careers.roblox.com/jobs/8010058?gh_jid=8010058&utm_source=freehire.me",
       "source": "greenhouse",
       "countries": [
@@ -4782,12 +4741,48 @@
       "is_new": false
     },
     {
+      "id": "staff-machine-learning-engineer-edge-ai-samsara-prn2mdi7",
+      "title": "Staff Machine Learning Engineer - Edge AI",
+      "company": "Samsara",
+      "location": "Remote - US",
+      "work_mode": "remote",
+      "posted_at": "2026-08-22T18:36:32Z",
+      "url": "https://www.samsara.com/company/careers/roles/7266357?gh_jid=7266357&utm_source=freehire.me",
+      "source": "greenhouse",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Machine Learning",
+      "score": 38,
+      "why": [
+        "Role match: machine learning",
+        "Stack match: python",
+        "Remote US/North America — verify eligibility"
+      ],
+      "skills": [
+        "ai",
+        "cloud",
+        "computer-vision",
+        "cpp",
+        "machine-learning",
+        "python",
+        "rust"
+      ],
+      "description": "*Who we are* Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operatio…",
+      "experience_years_min": 8,
+      "salary": null,
+      "is_new": false
+    },
+    {
       "id": "principal-machine-learning-engineer-content-safety-roblox-oyys4jni",
       "title": "Principal Machine Learning Engineer, Content Safety",
       "company": "Roblox",
       "location": "San Mateo, CA, United States",
       "work_mode": "not specified",
-      "posted_at": "2026-08-21T20:00:10Z",
+      "posted_at": "2026-08-22T18:35:13Z",
       "url": "https://careers.roblox.com/jobs/8073283?gh_jid=8073283&utm_source=freehire.me",
       "source": "greenhouse",
       "countries": [
@@ -4818,40 +4813,42 @@
       "is_new": false
     },
     {
-      "id": "staff-machine-learning-engineer-edge-ai-samsara-prn2mdi7",
-      "title": "Staff Machine Learning Engineer - Edge AI",
-      "company": "Samsara",
-      "location": "Remote - US",
-      "work_mode": "remote",
-      "posted_at": "2026-08-20T18:53:43Z",
-      "url": "https://www.samsara.com/company/careers/roles/7266357?gh_jid=7266357&utm_source=freehire.me",
-      "source": "greenhouse",
+      "id": "machine-learning-director-payjoy-ojqvm7ov",
+      "title": "Machine Learning Director",
+      "company": "payjoy",
+      "location": "San Francisco, CA",
+      "work_mode": "hybrid",
+      "posted_at": "2026-08-21T17:29:13Z",
+      "url": "https://jobs.lever.co/payjoy/ef757e82-ae68-4588-9740-a038c4842e76?utm_source=freehire.me",
+      "source": "lever",
       "countries": [
         "us"
       ],
       "regions": [
         "north_america"
       ],
-      "family": "Machine Learning",
+      "family": "AI / ML Platform",
       "score": 38,
       "why": [
         "Role match: machine learning",
-        "Stack match: python",
-        "Remote US/North America — verify eligibility"
+        "Stack match: model serving",
+        "Target relocation market: TX, CA, or WA"
       ],
       "skills": [
         "ai",
-        "cloud",
-        "computer-vision",
-        "cpp",
+        "api",
+        "assembly",
+        "data-science",
+        "etl",
+        "llm",
         "machine-learning",
-        "python",
-        "rust"
+        "mlops",
+        "statistics"
       ],
-      "description": "*Who we are* Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing — and we are excited to help digitally transform their operatio…",
-      "experience_years_min": 8,
+      "description": "*About PayJoy* PayJoy, a Public Benefit Corporation, is a mission-first credit provider dedicated to helping under-served customers in emerging markets to achieve financial stability and success. Our patented technology for secured credit provides an on-ramp for new customers to enter the credit system. Through PayJoy’s point-of-sale financing and card offerings, customers gain access to a modern quality of life. PayJoy’s credit also allows our customers to seize opportunities as micro-entrepreneurs, and acts as insurance for tough times. Through our cutting-edge machine learning, data science, and anti-fraud AI, we have served over 18 millio…",
+      "experience_years_min": 4,
       "salary": null,
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "senior-machine-learning-engineer-robotics-waymo-i5ikij3r",
@@ -5000,7 +4997,7 @@
       "company": "Roblox",
       "location": "San Mateo, CA, United States",
       "work_mode": "not specified",
-      "posted_at": "2026-08-21T20:12:33Z",
+      "posted_at": "2026-08-22T18:47:27Z",
       "url": "https://careers.roblox.com/jobs/7351202?gh_jid=7351202&utm_source=freehire.me",
       "source": "greenhouse",
       "countries": [
@@ -5039,7 +5036,7 @@
       "company": "Roblox",
       "location": "San Mateo, CA, United States",
       "work_mode": "not specified",
-      "posted_at": "2026-08-21T20:12:05Z",
+      "posted_at": "2026-08-22T18:47:00Z",
       "url": "https://careers.roblox.com/jobs/7351220?gh_jid=7351220&utm_source=freehire.me",
       "source": "greenhouse",
       "countries": [
@@ -5096,7 +5093,7 @@
       "description": "Collectors is the leading creator of innovative technology that provides value-added services for collectors worldwide. We grade, authenticate, vault, and sell millions of record-setting collectibles, all while modernizing and digitalizing the process to further our mission of helping collectors pursue their passions. We’re always on the lookout for talented people to join our growing team. Our services span collectible trading cards, autographs, comic books, coins, video games, event tickets, and memorabilia. Our subsidiaries include PSA, PCGS, Beckett, SGC, and Card Ladder. Since our founding in 1986, we have graded and authenticated millio…",
       "experience_years_min": null,
       "salary": null,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "senior-engineer-applied-ai-collectorsuniverse-ypusg5zk",
@@ -5131,7 +5128,7 @@
       "description": "Collectors is the leading creator of innovative technology that provides value-added services for collectors worldwide. We grade, authenticate, vault, and sell millions of record-setting collectibles, all while modernizing and digitalizing the process to further our mission of helping collectors pursue their passions. We’re always on the lookout for talented people to join our growing team. Our services span collectible trading cards, autographs, comic books, coins, video games, event tickets, and memorabilia. Our subsidiaries include PSA, PCGS, Beckett, SGC, and Card Ladder. Since our founding in 1986, we have graded and authenticated millio…",
       "experience_years_min": null,
       "salary": null,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "staff-machine-learning-gai-search-relevance-moveworks-servicenow-t62tewyy",
@@ -5224,7 +5221,7 @@
       "description": "A fast-growing B2B SaaS company operating in the property management space is rethinking how software gets built from the ground up. This is a full-time, 100% remote opportunity for a Staff AI Engineer to join a small, high-velocity team that is using AI-native development workflows and agentic coding tools to transform the software development lifecycle. This role is open to candidates anywhere in the US. This team heavily utilizes and builds with AI tools. If you are an engineer who has alrea…",
       "experience_years_min": null,
       "salary": null,
-      "is_new": true
+      "is_new": false
     }
   ]
 }
