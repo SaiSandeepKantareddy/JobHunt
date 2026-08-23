@@ -1,29 +1,24 @@
 # Daily AI/ML job shortlist
 
-Generated: 2026-08-22T23:36:06+00:00
-Matches: **122** · New since last run: **4**
+Generated: 2026-08-23T23:36:37+00:00
+Matches: **125** · New since last run: **3**
 
 Open `index.html` through a web server for filters and private browser-only tracking.
 
 ## Best new matches
 
-### 78 · [Senior Cloud & Agentic AI Engineer](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/Senior-Cloud---Agentic-AI-Engineer_180953-1?utm_source=freehire.me) — Vanguard
+### 66 · [Lead Applied AI & Machine Learning Engineer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210779359?utm_source=freehire.me) — JPMorganChase
 
-Dallas/Ft. Worth, TX · Agentic AI · 2026-08-21T00:00:00Z  
-Role match: ai engineer, agentic; Core match: generative ai, rag, retrieval augmented generation, agentic ai, multi-agent
+Plano, TX, United States · Agentic AI · 2026-08-13T00:00:00Z  
+Role match: machine learning, applied ai; Core match: generative ai, large language model, retrieval augmented generation, agentic ai
 
-### 56 · [Principal Machine Learning Engineer](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Principal-Machine-Learning-Engineer_10157433-2?utm_source=freehire.me) — The Walt Disney Company
+### 62 · [Senior ML/AI Engineer](https://jobs.ashbyhq.com/clera/c9a14d99-1b5f-413c-9ae4-da5ea27ced0d?utm_source=freehire.me) — clera
 
-Glendale, CA, USA · AI / ML Platform · 2026-08-21T00:00:00Z  
-Role match: machine learning; Core match: agentic ai, langgraph
+New York · Agentic AI · 2026-08-23T17:06:12Z  
+Role match: ai engineer; Core match: llm, rag, agentic ai, langchain
 
-### 46 · [Senior Machine Learning Engineer II - FlightAware (Remote)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-REMOTE/Senior-Machine-Learning-Engineer-II---FlightAware--Remote-_01868549?utm_source=freehire.me) — RTX
+### 47 · [Senior Lead Software Engineer - Data / Machine Learning Operations](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210691782?utm_source=freehire.me) — JPMorganChase
 
-US-CA-REMOTE · Machine Learning · 2026-08-21T00:00:00Z  
-Role match: machine learning; Stack match: python, pytorch, tensorflow, kubernetes, aws
-
-### 38 · [Machine Learning Director](https://jobs.lever.co/payjoy/ef757e82-ae68-4588-9740-a038c4842e76?utm_source=freehire.me) — payjoy
-
-San Francisco, CA · AI / ML Platform · 2026-08-21T17:29:13Z  
-Role match: machine learning; Stack match: model serving
+Plano, TX, United States · Machine Learning · 2026-08-20T00:00:00Z  
+Role match: machine learning; Core match: rag
 
