@@ -1,18 +1,68 @@
 {
-  "generated_at": "2026-08-23T23:36:37+00:00",
+  "generated_at": "2026-08-24T23:37:14+00:00",
   "source": "freehire.me public API",
-  "count": 125,
-  "new_count": 3,
+  "count": 123,
+  "new_count": 6,
   "warnings": [],
   "jobs": [
     {
-      "id": "lead-applied-ai-machine-learning-engineer-jpmorganchase-q3kweomz",
+      "id": "senior-ai-engineer-crateandbarrel-jgatwps3",
+      "title": "Senior AI Engineer",
+      "company": "crateandbarrel",
+      "location": "Remote - Illinois",
+      "work_mode": "remote",
+      "posted_at": "2026-08-24T00:00:00Z",
+      "url": "https://crateandbarrel.wd1.myworkdayjobs.com/CBH/job/Remote---Illinois/Senior-AI-Engineer_R25984-1?utm_source=freehire.me",
+      "source": "workday",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Agentic AI",
+      "score": 67,
+      "why": [
+        "Role match: ai engineer",
+        "Core match: agentic ai, multi-agent, langchain",
+        "Stack match: python, pytorch, tensorflow, mlflow, kubernetes",
+        "Remote US/North America — verify eligibility"
+      ],
+      "skills": [
+        "agentic-ai",
+        "agile",
+        "ai",
+        "autogen",
+        "aws",
+        "azure",
+        "bigquery",
+        "ci-cd",
+        "cloud",
+        "containerization",
+        "csharp",
+        "data-engineering",
+        "deep-learning",
+        "devops",
+        "distributed-training",
+        "docker",
+        "gcp",
+        "gke",
+        "kubeflow",
+        "kubernetes"
+      ],
+      "description": "We inspire purpose-filled living that brings joy to the modern home. With a team of more than 8,000 associates spanning 130 store and distribution locations across the U.S. and Canada, we achieve together, drive results and innovate to inspire. Drawn together by a shared passion for our customers and a spirit of fun, we deliver high-quality home furnishings that are expertly designed, responsibly sourced and bring beauty and function to people’s homes. From the day we opened our first store in Chicago in 1962 to the digital innovations that engage millions of customers today, our iconic brand is nearly 60 years in the making—and our story is …",
+      "experience_years_min": 5,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "lead-applied-ai-machine-learning-engineer-jp-morgan-chase-er2cekir",
       "title": "Lead Applied AI & Machine Learning Engineer",
-      "company": "JPMorganChase",
+      "company": "JP Morgan Chase",
       "location": "Plano, TX, United States",
       "work_mode": "not specified",
       "posted_at": "2026-08-13T00:00:00Z",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210779359?utm_source=freehire.me",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779359?utm_source=freehire.me",
       "source": "oracle",
       "countries": [
         "us"
@@ -51,14 +101,14 @@
       "is_new": true
     },
     {
-      "id": "senior-ml-ai-engineer-clera-4acgyg2o",
-      "title": "Senior ML/AI Engineer",
-      "company": "clera",
-      "location": "New York",
-      "work_mode": "remote",
-      "posted_at": "2026-08-23T17:06:12Z",
-      "url": "https://jobs.ashbyhq.com/clera/c9a14d99-1b5f-413c-9ae4-da5ea27ced0d?utm_source=freehire.me",
-      "source": "ashby",
+      "id": "staff-ai-engineer-hybrid-stryker-ztcosdpn",
+      "title": "Staff AI Engineer (Hybrid)",
+      "company": "Stryker",
+      "location": "Menlo Park, California",
+      "work_mode": "not specified",
+      "posted_at": "2026-08-24T00:00:00Z",
+      "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Menlo-Park-California/Staff-AI-Engineer--Hybrid-_R571006?utm_source=freehire.me",
+      "source": "workday",
       "countries": [
         "us"
       ],
@@ -66,41 +116,134 @@
         "north_america"
       ],
       "family": "Agentic AI",
-      "score": 62,
+      "score": 59,
       "why": [
         "Role match: ai engineer",
-        "Core match: llm, rag, agentic ai, langchain",
-        "Stack match: python, pytorch, tensorflow",
-        "Remote US/North America — verify eligibility"
+        "Core match: generative ai, genai, llm",
+        "Stack match: python, fine-tuning, multimodal, nlp",
+        "Target relocation market: TX, CA, or WA"
       ],
       "skills": [
+        "acceptance-criteria",
         "agentic-ai",
         "ai",
-        "anomaly-detection",
-        "feature-engineering",
-        "langchain",
+        "cloud",
+        "cpp",
+        "generative-ai",
         "llm",
         "machine-learning",
-        "python",
-        "pytorch",
-        "rag",
-        "sql",
-        "tensorflow",
-        "time-series"
+        "nlp",
+        "python"
       ],
-      "description": "About the Role -------------- This is a senior individual contributor role on the core AI team of an early-stage, AI-native consumer intelligence platform. You'll design and deploy the intelligent systems — from demand forecasting models to agentic reasoning architectures — that deliver real, measurable value for large enterprise retail clients. The work sits squarely at the intersection of applied research and production-grade deployment. What You'll Do -------------- * Design, build, and deploy ML models for demand forecasting, time series prediction, consumer sentiment analysis, and anomaly detection at enterprise scale. * Develop and iter…",
-      "experience_years_min": 3,
+      "description": "Work Flexibility: Hybrid We're hiring a *Staff AI Engineer* to build GenAI and voice agents for medical devices, deployed both on-device and in the cloud. You'll own the technical direction for these systems — connecting clinical use cases to the models behind them (ASR, TTS, SLMs, speech-to-speech) while working within tight on-device limits la tency, memory, and reliability. This is a hands-on applied ML role, and the core challenge is making stochastic models behave predictably enough for clinical use: bounding them with deterministic architecture, building evaluation sets and frameworks, and designing safety guardrails that hold up in a r…",
+      "experience_years_min": 2,
       "salary": null,
       "is_new": true
     },
     {
-      "id": "senior-lead-software-engineer-data-machine-learning-operations-jpmorganchase-baj34vka",
+      "id": "staff-machine-learning-engineer-pricing-go-fund-me-sk3lyk5q",
+      "title": "Staff Machine Learning Engineer (Pricing)",
+      "company": "Go Fund Me",
+      "location": "San Francisco, CA",
+      "work_mode": "not specified",
+      "posted_at": "2026-08-24T19:36:13Z",
+      "url": "https://job-boards.greenhouse.io/gofundme/jobs/7915173?utm_source=freehire.me",
+      "source": "greenhouse",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Machine Learning",
+      "score": 52,
+      "why": [
+        "Role match: machine learning",
+        "Stack match: python, pytorch, tensorflow, databricks, kubernetes",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "ab-testing",
+        "api",
+        "api-design",
+        "aws",
+        "ci-cd",
+        "containerization",
+        "data-engineering",
+        "data-quality",
+        "data-science",
+        "databricks",
+        "docker",
+        "fastapi",
+        "feature-engineering",
+        "github",
+        "kubernetes",
+        "machine-learning",
+        "observability",
+        "python",
+        "pytorch",
+        "scikit-learn"
+      ],
+      "description": "*Want to help us help others? We’re hiring!* GoFundMe is the world’s most powerful community for good, dedicated to helping people help each other. By uniting individuals and nonprofits in one place, GoFundMe makes it easy and safe for people to ask for help and support causes – for themselves and each other. Together, our community has raised more than $40 billion since 2010. Join GoFundMe as our next *Staff Machine Learning Engineer (Pricing)*. In this role, you will design, develop, and deploy machine learning systems that power pricing and monetization programs across GoFundMe such as personalized donation and checkout experiences, donati…",
+      "experience_years_min": 7,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "lead-ai-engineer-business-operations-hybrid-or-remote-afl-b3fjoea4",
+      "title": "Lead AI Engineer, Business Operations (Hybrid or Remote)",
+      "company": "AFL",
+      "location": "Dallas, Texas, United States",
+      "work_mode": "not specified",
+      "posted_at": "2026-08-24T17:14:32Z",
+      "url": "https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=0e0c78e0-dce7-4ea0-95b0-987394a17878&utm_source=freehire.me",
+      "source": "ukg",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Agentic AI",
+      "score": 50,
+      "why": [
+        "Role match: ai engineer",
+        "Core match: llm, agentic ai",
+        "Stack match: python, fine-tuning",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "agentic-ai",
+        "ai",
+        "ai-enablement",
+        "analytics",
+        "api",
+        "api-design",
+        "backbone",
+        "cloud",
+        "data-governance",
+        "data-quality",
+        "fiber",
+        "llm",
+        "observability",
+        "prompt-engineering",
+        "python",
+        "solution-design",
+        "workflow-orchestration"
+      ],
+      "description": "AFL manufactures industry-leading fiber optic cable, connectivity and accessories and provides engineering and installation services for some of the largest telecom customers in the world. Our company was founded in 1984 with a single fiber optic cable and today, we manufacture thousands of products, generate an excess of $4B in revenue, and employ approximately 11,000 associates worldwide. At AFL, we recognize that our employees are our greatest asset. We hire and train each individual, investing in them to ensure success in their careers. With a commitment to professional development and growth, let us connect you to your next career opport…",
+      "experience_years_min": 7,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "senior-lead-software-engineer-data-machine-learning-operations-jp-morgan-chase-luvdz2c2",
       "title": "Senior Lead Software Engineer - Data / Machine Learning Operations",
-      "company": "JPMorganChase",
+      "company": "JP Morgan Chase",
       "location": "Plano, TX, United States",
       "work_mode": "not specified",
       "posted_at": "2026-08-20T00:00:00Z",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210691782?utm_source=freehire.me",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210691782?utm_source=freehire.me",
       "source": "oracle",
       "countries": [
         "us"
