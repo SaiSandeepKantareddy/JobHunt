@@ -1,44 +1,39 @@
 # Daily AI/ML job shortlist
 
-Generated: 2026-09-06T00:59:47+00:00
-Matches: **93** · New since last run: **7**
+Generated: 2026-09-07T01:02:10+00:00
+Matches: **97** · New since last run: **6**
 
 Open `index.html` through a web server for filters and private browser-only tracking.
 
 ## Best new matches
 
-### 71 · [Senior Software Engineer, Backend (Applied AI)](https://www.whatjobs.com/pub_api__cpl__3038711911__7065?geoID=19&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me) — Far Coder
+### 72 · [Senior AI Engineer](https://jobs.lever.co/jobgether/ed995e21-3eec-4ab0-84d5-3976348f4617?utm_source=freehire.me) — jobgether
 
-Kentucky, United States · Agentic AI · 2026-09-05T22:19:59Z  
-Role match: applied ai; Core match: generative ai, llm, retrieval augmented generation, langchain, langgraph
+US · Agentic AI · 2026-09-04T06:24:54Z  
+Role match: ai engineer; Core match: generative ai, llm, rag, retrieval augmented generation, agentic ai
 
-### 63 · [Senior Staff Software Engineer - Agentic Automation](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Staff-Software-Engineer---Agentic-Automation_JR2024734?utm_source=freehire.me) — NVIDIA
+### 70 · [Senior Artificial Intelligence/Machine Learning Engineer](https://jobs.lever.co/jobgether/039eb14e-e227-4cc1-8869-d3e141042978?utm_source=freehire.me) — jobgether
 
-US, CA, Santa Clara · Agentic AI · 2026-09-04T00:00:00Z  
-Role match: agentic; Core match: llm, rag, agentic ai, multi-agent, mcp
+US · Agentic AI · 2026-09-01T06:10:57Z  
+Role match: machine learning, artificial intelligence; Core match: generative ai, rag, agentic ai, mcp
+
+### 64 · [Staff Machine Learning Research Scientist Agent Post-training - Enterprise GenAI](https://job-boards.greenhouse.io/scaleai/jobs/4625337005?utm_source=freehire.me) — Scale AI
+
+San Francisco, CA; New York, NY · Agentic AI · 2026-09-04T18:17:30Z  
+Role match: machine learning, genai; Core match: generative ai, genai, llm, multi-agent
 
 ### 62 · [Staff Applied AI Engineer](https://job-boards.greenhouse.io/doximity/jobs/8024477?utm_source=freehire.me) — Doximity
 
 San Francisco, CA or Remote (U.S.) · GenAI / LLM · 2026-09-04T20:59:07Z  
 Role match: ai engineer, applied ai; Core match: large language model, llm
 
-### 56 · [Senior GenAI / ML Engineer - Secret clearance](https://apply.workable.com/j/C184A6847D?utm_source=freehire.me) — PGTEK
+### 58 · [AI Engineer, Principal](https://jobs.gainwelltechnologies.com/job/Montgomery-AI-Engineer%2C-Principal-AL-36106/1426354600/?utm_source=freehire.me) — Gainwell Technologies
 
-United States · RAG & Retrieval · 2026-09-05T00:00:00Z  
-Role match: ml engineer, genai; Core match: genai, rag
+Location not listed · GenAI / LLM · 2026-09-05T00:00:00Z  
+Role match: ai engineer; Core match: generative ai, genai
 
-### 56 · [Lead AI Engineer](https://careers.teksystems.com/us/en/job/TESYUSJP006267868ENUS?utm_source=freehire.me) — TEKsystems
+### 40 · [Staff Machine Learning Engineer](https://himalayas.app/companies/canadascout/jobs/staff-machine-learning-engineer?utm_source=freehire.me) — Canadascout
 
-Hanover, Maryland · GenAI / LLM · 2026-09-04T17:48:57Z  
-Role match: ai engineer; Core match: generative ai, langchain
-
-### 44 · [Sr Machine Learning Engineer](https://paypal.eightfold.ai/careers/job/274922260675?utm_source=freehire.me) — PayPal
-
-San Jose, California, United States of America · Machine Learning · 2026-09-04T00:00:00Z  
-Role match: machine learning; Stack match: pytorch, tensorflow, azure, aws
-
-### 42 · [Senior Machine Learning Engineer, Sentry Tower](https://himalayas.app/companies/anduril/jobs/senior-machine-learning-engineer-sentry-tower?utm_source=freehire.me) — Anduril
-
-United States · Machine Learning · 2026-09-05T20:30:16Z  
-Role match: machine learning; Stack match: python, pytorch, tensorflow
+United States · RAG & Retrieval · 2026-09-06T00:42:49Z  
+Role match: machine learning; Stack match: pytorch, tensorflow
 
