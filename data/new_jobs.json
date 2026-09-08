@@ -1,284 +1,98 @@
 {
-  "generated_at": "2026-09-07T01:02:10+00:00",
+  "generated_at": "2026-09-08T01:13:33+00:00",
   "source": "freehire.me public API",
   "count": 97,
-  "new_count": 6,
+  "new_count": 2,
   "warnings": [],
   "jobs": [
     {
-      "id": "senior-ai-engineer-jobgether-izg4rdhc",
-      "title": "Senior AI Engineer",
-      "company": "jobgether",
-      "location": "US",
-      "work_mode": "remote",
-      "posted_at": "2026-09-04T06:24:54Z",
-      "url": "https://jobs.lever.co/jobgether/ed995e21-3eec-4ab0-84d5-3976348f4617?utm_source=freehire.me",
-      "source": "lever",
+      "id": "senior-software-engineer-machine-learning-infrastructure-atoms-ev7uhpko",
+      "title": "Senior Software Engineer - Machine Learning Infrastructure",
+      "company": "atoms",
+      "location": "San Francisco, CA",
+      "work_mode": "not specified",
+      "posted_at": "2026-09-07T19:52:11Z",
+      "url": "https://job-boards.greenhouse.io/atoms/jobs/8373608002?utm_source=freehire.me",
+      "source": "greenhouse",
       "countries": [
         "us"
       ],
       "regions": [
         "north_america"
       ],
-      "family": "Agentic AI",
-      "score": 72,
+      "family": "GenAI / LLM",
+      "score": 54,
       "why": [
-        "Role match: ai engineer",
-        "Core match: generative ai, llm, rag, retrieval augmented generation, agentic ai",
-        "Stack match: python, fine-tuning",
-        "Remote US/North America — verify eligibility"
+        "Role match: machine learning",
+        "Core match: genai, llm",
+        "Stack match: python, kubernetes, azure, model serving",
+        "Target relocation market: TX, CA, or WA"
       ],
       "skills": [
-        "agentic-ai",
         "ai",
-        "bash",
+        "automation",
+        "azure",
         "cloud",
-        "data-engineering",
-        "fine-tuning",
+        "docker",
         "gcp",
-        "gdpr",
-        "gemini",
         "generative-ai",
-        "langchain",
-        "llamaindex",
+        "java",
+        "kubernetes",
         "llm",
         "machine-learning",
-        "mlops",
-        "neural-networks",
-        "observability",
-        "pgvector",
-        "pinecone",
-        "prompt-engineering"
+        "python"
       ],
-      "description": "*This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior AI Engineer based in United States.* The Senior AI Engineer will play a key role in designing and delivering production-grade Generative AI solutions for real-world business challenges. You will own the full lifecycle of AI features, from early prototypes through scalable, reliable production services. The role focuses heavily on document intelligence, Retrieval-Augmented Generation, semantic search, and agentic workflows. You will combine deep expertise in LLM technologies with strong software engineering …",
-      "experience_years_min": 5,
+      "description": "*Who we are* Atoms is building the machines that power the next era of progress. Over the last decade, software has transformed the digital world. But the physical world, where food is made, minerals are mined, goods are moved, and industries are run, remains far less intelligent, far less efficient, and far more constrained. We’re changing that. Atoms builds Physical AI— real-world robots for the industries that move civilization forward, starting with food, mining, and transport. Our systems are designed to understand, predict, and control the real world with precision, turning complex physical operations into something more reliable, more …",
+      "experience_years_min": 3,
       "salary": null,
       "is_new": true
     },
     {
-      "id": "senior-artificial-intelligence-machine-learning-engineer-jobgether-wh34k76c",
-      "title": "Senior Artificial Intelligence/Machine Learning Engineer",
-      "company": "jobgether",
-      "location": "US",
+      "id": "machine-learning-engineer-syngenta-group-fue2k4rt",
+      "title": "Machine Learning Engineer",
+      "company": "Syngenta Group",
+      "location": "Remote, NC, us",
       "work_mode": "remote",
-      "posted_at": "2026-09-01T06:10:57Z",
-      "url": "https://jobs.lever.co/jobgether/039eb14e-e227-4cc1-8869-d3e141042978?utm_source=freehire.me",
-      "source": "lever",
+      "posted_at": "2026-09-03T13:53:07Z",
+      "url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000147259662-machine-learning-engineer?utm_source=freehire.me",
+      "source": "smartrecruiters",
       "countries": [
         "us"
       ],
       "regions": [
-        "global",
         "north_america"
       ],
-      "family": "Agentic AI",
-      "score": 70,
+      "family": "Machine Learning",
+      "score": 48,
       "why": [
-        "Role match: machine learning, artificial intelligence",
-        "Core match: generative ai, rag, agentic ai, mcp",
-        "Stack match: python, kubernetes, distributed systems",
+        "Role match: machine learning",
+        "Stack match: python, pytorch, tensorflow, mlflow, azure",
         "Remote US/North America — verify eligibility"
       ],
       "skills": [
-        "agentic-ai",
+        "agile",
         "ai",
-        "ai-enablement",
-        "analytics",
-        "api",
-        "atlassian",
-        "automation",
-        "bitbucket",
+        "airflow",
+        "aws",
+        "azure",
         "ci-cd",
         "cloud",
         "cloud-native",
-        "confluence",
-        "data-engineering",
-        "data-lineage",
-        "data-quality",
-        "data-science",
-        "devops",
-        "devsecops",
-        "distributed-computing",
-        "distributed-systems"
-      ],
-      "description": "*This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Artificial Intelligence/Machine Learning Engineer based in United States.* This is a senior platform engineering opportunity focused on accelerating enterprise adoption of Generative AI, machine learning, data science, and advanced analytics. You will lead the automation of complex AI and data platforms, creating scalable capabilities that improve developer productivity and operational efficiency. The role spans infrastructure provisioning, CI/CD, governance, observability, testing, deployment automation, a…",
-      "experience_years_min": 10,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "staff-machine-learning-research-scientist-agent-post-training-enterprise-genai-scale-ai-p5veaget",
-      "title": "Staff Machine Learning Research Scientist Agent Post-training - Enterprise GenAI",
-      "company": "Scale AI",
-      "location": "San Francisco, CA; New York, NY",
-      "work_mode": "not specified",
-      "posted_at": "2026-09-04T18:17:30Z",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4625337005?utm_source=freehire.me",
-      "source": "greenhouse",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "Agentic AI",
-      "score": 64,
-      "why": [
-        "Role match: machine learning, genai",
-        "Core match: generative ai, genai, llm, multi-agent",
-        "Target relocation market: TX, CA, or WA"
-      ],
-      "skills": [
-        "ai",
-        "cybersecurity",
-        "firewall",
-        "generative-ai",
-        "llm",
-        "machine-learning",
-        "rlhf"
-      ],
-      "description": "AI is becoming vitally important in every function of our society. At Scale, our mission is to accelerate the development of AI applications. For 9 years, Scale has been the leading AI data foundry, helping fuel the most exciting advancements in AI, including generative AI, defense applications, and autonomous vehicles. With our recent investment from Meta, we are doubling down on building out state of the art post-training algorithms to reach the performance necessary for complex agents in enterprises around the world. The Enterprise ML Research Lab works on the front lines of this AI revolution. We are working on an arsenal of proprietary r…",
-      "experience_years_min": 5,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "staff-applied-ai-engineer-doximity-uhpehgve",
-      "title": "Staff Applied AI Engineer",
-      "company": "Doximity",
-      "location": "San Francisco, CA or Remote (U.S.)",
-      "work_mode": "remote",
-      "posted_at": "2026-09-04T20:59:07Z",
-      "url": "https://job-boards.greenhouse.io/doximity/jobs/8024477?utm_source=freehire.me",
-      "source": "greenhouse",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "GenAI / LLM",
-      "score": 62,
-      "why": [
-        "Role match: ai engineer, applied ai",
-        "Core match: large language model, llm",
-        "Stack match: python, pytorch, tensorflow, fine-tuning",
-        "Target relocation market: TX, CA, or WA"
-      ],
-      "skills": [
-        "ai",
-        "analytics",
-        "data-ingestion",
-        "data-science",
-        "data-visualization",
-        "deep-learning",
-        "fine-tuning",
-        "git",
-        "github",
-        "llm",
-        "machine-learning",
-        "oop",
-        "python",
-        "pytorch",
-        "reinforcement-learning",
-        "sql",
-        "tensorflow",
-        "unix"
-      ],
-      "description": "Doximity is transforming the healthcare industry. Join our mission to help every physician be more productive and provide better care for their patients. As medicine's largest network in the United States, there's an elevated level of responsibility in everything we do. We don't take that responsibility lightly and are committed to building diverse teams with an inclusive culture that can make a direct impact on the healthcare system. One of Doximity's core values is stretching ourselves. Even if you don't check off all the boxes below we encourage you to apply. Doximity is full of exceptional people who bring their own unique experiences to …",
-      "experience_years_min": 5,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "ai-engineer-principal-gainwell-technologies-dqvcljrn",
-      "title": "AI Engineer, Principal",
-      "company": "Gainwell Technologies",
-      "location": "Location not listed",
-      "work_mode": "remote",
-      "posted_at": "2026-09-05T00:00:00Z",
-      "url": "https://jobs.gainwelltechnologies.com/job/Montgomery-AI-Engineer%2C-Principal-AL-36106/1426354600/?utm_source=freehire.me",
-      "source": "successfactors",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "GenAI / LLM",
-      "score": 58,
-      "why": [
-        "Role match: ai engineer",
-        "Core match: generative ai, genai",
-        "Stack match: python, pytorch, tensorflow, azure, aws",
-        "Remote US/North America — verify eligibility"
-      ],
-      "skills": [
-        "ai",
-        "analytics",
-        "automation",
-        "aws",
-        "azure",
-        "cloud",
         "computer-vision",
+        "containerization",
         "data-engineering",
+        "data-pipelines",
         "data-science",
         "deep-learning",
-        "feature-engineering",
+        "docker",
+        "elt",
+        "etl",
         "gcp",
-        "generative-ai",
-        "hadoop",
-        "hipaa",
-        "llm",
-        "machine-learning",
-        "mlops",
-        "nlp",
-        "nosql"
+        "git",
+        "image-processing"
       ],
-      "description": "Be part of a team that unleashes the power of leading-edge technologies to help improve the health and well-being of those most vulnerable in our country and communities. Working at Gainwell carries its rewards. You’ll have an incredible opportunity to grow your career in a company that values work flexibility, learning, and career development. You’ll add to your technical credentials and certifications while enjoying a generous, flexible vacation policy and educational assistance. We also have comprehensive leadership and technical development academies to help build your skills and capabilities. --------- *Summary* --------- Gainwell Techno…",
-      "experience_years_min": 5,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "staff-machine-learning-engineer-canadascout-juxphpes",
-      "title": "Staff Machine Learning Engineer",
-      "company": "Canadascout",
-      "location": "United States",
-      "work_mode": "remote",
-      "posted_at": "2026-09-06T00:42:49Z",
-      "url": "https://himalayas.app/companies/canadascout/jobs/staff-machine-learning-engineer?utm_source=freehire.me",
-      "source": "himalayas",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "RAG & Retrieval",
-      "score": 40,
-      "why": [
-        "Role match: machine learning",
-        "Stack match: pytorch, tensorflow",
-        "Remote US/North America — verify eligibility"
-      ],
-      "skills": [
-        "ab-testing",
-        "ai",
-        "android",
-        "deep-learning",
-        "distributed-training",
-        "feature-engineering",
-        "ios",
-        "machine-learning",
-        "mlops",
-        "neural-networks",
-        "pytorch",
-        "recommendation-systems",
-        "tensorflow"
-      ],
-      "description": "We offer a hybrid work environment. Most US-based positions can alsobeperformed remotely (any exceptions will be noted in the Minimum Qualifications below.) Our Mission: ------------ To actively connect people to their next great opportunity. Who We Are: ----------- ZipRecruiter is a leading online employment marketplace. Powered by AI-driven smart matching technology, the company actively connects millions of all-sized businesses and job seekers through innovative mobile, web, and email services, as well as through partnerships with the best job boards on the web. ZipRecruiter has the #1 rated job search app on iOS & Android. *Summary* : At …",
-      "experience_years_min": 8,
+      "description": "At Syngenta, we are building the most collaborative and trusted team in agriculture to provide leading seeds innovations that enhance the prosperity of farmers worldwide. Our Data Science and Engineering team in R&D Digital is seeking a motivated Machine Learning Engineer who will drive the development and deployment of advanced computer vision and machine learning solutions, with an initial focus on leveraging imagery and sensor data to accelerate breeding programs and bring superior seeds to market faster. As an individual contributor, you will use your technical expertise and scientific rigor to transform raw imagery and other diverse data…",
+      "experience_years_min": null,
       "salary": null,
       "is_new": true
     }
