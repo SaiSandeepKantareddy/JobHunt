@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-08T01:13:33+00:00",
+  "generated_at": "2026-09-09T01:15:42+00:00",
   "source": "freehire.me public API",
-  "count": 97,
-  "new_count": 2,
+  "count": 112,
+  "new_count": 17,
   "warnings": [],
   "jobs": [
     {
@@ -406,14 +406,14 @@
       "is_new": false
     },
     {
-      "id": "senior-data-scientist-machine-learning-ai-team-velocity-7ki4cvma",
-      "title": "Senior Data Scientist – Machine Learning & AI",
-      "company": "Team Velocity",
-      "location": "Remote, Continental U.S., VA",
+      "id": "senior-ai-engineer-air-yeefinuo",
+      "title": "Senior AI Engineer",
+      "company": "Air",
+      "location": "Arlington, Virginia, United States; Pittsburgh, Pennsylvania, United States; Remote",
       "work_mode": "remote",
-      "posted_at": "2026-09-02T12:05:14Z",
-      "url": "https://teamvelocitymarketing.hrmdirect.com/employment/job-opening.php?req=3790676&req_loc=1435729&utm_source=freehire.me",
-      "source": "hrmdirect",
+      "posted_at": "2026-09-08T18:29:42Z",
+      "url": "https://job-boards.greenhouse.io/air/jobs/4397696009?utm_source=freehire.me",
+      "source": "greenhouse",
       "countries": [
         "us"
       ],
@@ -421,39 +421,36 @@
         "north_america"
       ],
       "family": "Agentic AI",
-      "score": 69,
+      "score": 70,
       "why": [
-        "Role match: machine learning",
-        "Core match: generative ai, rag, embeddings, langchain, langgraph",
-        "Stack match: python, mlflow, azure, aws",
+        "Role match: ai engineer",
+        "Core match: llm, agentic ai, ai agent, multi-agent",
+        "Stack match: python, kubernetes, azure, aws, model serving",
         "Remote US/North America — verify eligibility"
       ],
       "skills": [
-        "ab-testing",
+        "agentic-ai",
         "ai",
-        "airflow",
-        "analytics",
+        "api",
         "aws",
         "azure",
-        "causal-inference",
-        "ci-cd",
         "cloud",
-        "data-engineering",
-        "data-quality",
-        "data-science",
-        "dbt",
-        "deep-learning",
-        "embeddings",
-        "feature-engineering",
+        "distributed-systems",
+        "event-driven-architecture",
+        "fine-tuning",
         "gcp",
-        "generative-ai",
-        "kubeflow",
-        "langchain"
+        "kubernetes",
+        "llm",
+        "machine-learning",
+        "networking",
+        "observability",
+        "python",
+        "reinforcement-learning"
       ],
-      "description": "*Senior Data Scientist – Machine Learning & AI Remote | Full-Time | $160,000–$190,000* Team Velocity is seeking a *Senior Data Scientist* to develop and deploy machine learning, predictive analytics, and AI solutions that improve customer engagement, marketing performance, operational efficiency, and business intelligence. This is a hands-on role for an experienced data scientist who can take models from *data exploration and development through production deployment, monitoring, and optimization*. You will partner with Product, Data Engineering, Software Engineering, Analytics, and business leadership to deliver measurable business impact. *…",
+      "description": "--------------------- *Company Description* --------------------- Air is the leader in Enterprise Readiness. Our mission is to establish readiness as a real-time condition that is continuously achieved. Today, a dangerous Readiness Gap exists between what the front line needs and what is delivered. Our AI-native platform, Air Enterprise Readiness, aligns development, production, delivery, and sustainment into one coordinated execution system for government agencies and industrial suppliers. By revealing true capacity, exposing real constraints, coordinating resources, and executing at the speed of operational demands, the front line gets what…",
       "experience_years_min": 5,
       "salary": null,
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "senior-software-engineer-applied-ai-lila-sciences-nh556mil",
@@ -683,6 +680,55 @@
       "is_new": false
     },
     {
+      "id": "ai-engineer-blee-q4jcmjsb",
+      "title": "Senior AI Engineer",
+      "company": "blee",
+      "location": "San Francisco",
+      "work_mode": "hybrid",
+      "posted_at": "2026-09-08T14:29:36Z",
+      "url": "https://jobs.ashbyhq.com/blee/24010e52-d18f-49a9-bd95-2e5af8a05cb0?utm_source=freehire.me",
+      "source": "ashby",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Agentic AI",
+      "score": 63,
+      "why": [
+        "Role match: ai engineer",
+        "Core match: llm, rag, multi-agent",
+        "Stack match: python, pytorch, tensorflow, model serving, fine-tuning",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "ab-testing",
+        "ai",
+        "api",
+        "data-pipelines",
+        "distributed-systems",
+        "feature-engineering",
+        "fine-tuning",
+        "fintech",
+        "huggingface",
+        "llm",
+        "machine-learning",
+        "microservices",
+        "model-evaluation",
+        "prompt-engineering",
+        "prototyping",
+        "python",
+        "pytorch",
+        "rag",
+        "tensorflow"
+      ],
+      "description": "*Why Blee:* Blee is an AI-first marketing content compliance platform. PayPal, NerdWallet, and Brex already trust us. We're YC-backed, founded by an ex-Adobe marketing ops leader and former lawyer, and we're defining a category that didn't exist two years ago—across Fintech, Financial Services, CPG, Travel, and Life Sciences.. With offices in San Francisco and New York, we value in-person work but offer remote-opportunities for the right people. No matter where you join us, you can expect quarterly off-sites and opportunities to join other offices when you feel it’s important. You’ll be joining a team that values clarity, ownership, and share…",
+      "experience_years_min": 5,
+      "salary": null,
+      "is_new": true
+    },
+    {
       "id": "senior-machine-learning-engineer-rubrik-wu6qzr4e",
       "title": "Senior Machine Learning Engineer",
       "company": "Rubrik",
@@ -731,6 +777,56 @@
       "experience_years_min": 2,
       "salary": null,
       "is_new": false
+    },
+    {
+      "id": "senior-machine-learning-engineer-air-etpfnhwj",
+      "title": "Senior Machine Learning Engineer ",
+      "company": "Air",
+      "location": "Arlington, Virginia, United States; Pittsburgh, Pennsylvania, United States; Remote",
+      "work_mode": "remote",
+      "posted_at": "2026-09-08T19:43:10Z",
+      "url": "https://job-boards.greenhouse.io/air/jobs/4398322009?utm_source=freehire.me",
+      "source": "greenhouse",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "AI / ML Platform",
+      "score": 62,
+      "why": [
+        "Role match: machine learning",
+        "Core match: llm, multi-agent",
+        "Stack match: python, kubernetes, azure, aws, model serving",
+        "Remote US/North America — verify eligibility"
+      ],
+      "skills": [
+        "agentic-ai",
+        "ai",
+        "api",
+        "aws",
+        "azure",
+        "cloud",
+        "data-pipelines",
+        "deep-learning",
+        "distributed-systems",
+        "distributed-training",
+        "fine-tuning",
+        "gcp",
+        "kubernetes",
+        "llm",
+        "llmops",
+        "machine-learning",
+        "model-deployment",
+        "model-evaluation",
+        "observability",
+        "python"
+      ],
+      "description": "--------------------- *Company Description* --------------------- Air is the leader in Enterprise Readiness. Our mission is to establish readiness as a real-time condition that is continuously achieved. Today, a dangerous Readiness Gap exists between what the front line needs and what is delivered. Our AI-native platform, Air Enterprise Readiness, aligns development, production, delivery, and sustainment into one coordinated execution system for government agencies and industrial suppliers. By revealing true capacity, exposing real constraints, coordinating resources, and executing at the speed of operational demands, the front line gets what…",
+      "experience_years_min": 5,
+      "salary": null,
+      "is_new": true
     },
     {
       "id": "staff-applied-ai-engineer-doximity-uhpehgve",
@@ -947,6 +1043,55 @@
       ],
       "description": "*About Scale* At Scale AI, our mission is to accelerate the development of AI applications. For 8 years, Scale has been the leading AI data foundry, helping fuel the most exciting advancements in AI, including: generative AI, defense applications, and autonomous vehicles. With our recent Series F round, we’re accelerating the abundance of frontier data to pave the road to Artificial General Intelligence (AGI), and building upon our prior model evaluation work with enterprise customers and governments, to deepen our capabilities and offerings for both public and private evaluations. *About the ACE team* The Agent Capabilities & Environments (A…",
       "experience_years_min": 8,
+      "salary": null,
+      "is_new": false
+    },
+    {
+      "id": "senior-applied-ai-engineer-frontcareers-eilws5ns",
+      "title": "Senior Applied AI Engineer",
+      "company": "frontcareers",
+      "location": "San Francisco, CA",
+      "work_mode": "hybrid",
+      "posted_at": "2026-09-08T20:54:39Z",
+      "url": "https://jobs.ashbyhq.com/frontcareers/ac0d7219-d569-481f-bda9-efd755ffd715?utm_source=freehire.me",
+      "source": "ashby",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Agentic AI",
+      "score": 58,
+      "why": [
+        "Role match: ai engineer, applied ai",
+        "Core match: generative ai, rag",
+        "Stack match: python, fine-tuning",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "agentic-ai",
+        "ai",
+        "atlassian",
+        "deep-learning",
+        "fine-tuning",
+        "generative-ai",
+        "llm",
+        "machine-learning",
+        "maven",
+        "nodejs",
+        "okta",
+        "pagerduty",
+        "python",
+        "rag",
+        "reinforcement-learning",
+        "saas",
+        "salesforce",
+        "typescript",
+        "zoom"
+      ],
+      "description": "Front is the customer operations platform built for B2B complexity, keeping every team, tool, and customer conversation in sync so companies can scale without losing connection. Others handle simple interactions. Front handles the coordination and context behind complex B2B customer relationships. Over 9,000 companies, including Uber Freight, Navan, and Stripe, rely on Front because it's the only one that can run the operational layer that makes customer-facing work actually succeed. Backed by Sequoia Capital and Salesforce Ventures, Front has raised $204M from leading venture capital firms and independent investors including top executives a…",
+      "experience_years_min": 5,
       "salary": null,
       "is_new": false
     },
@@ -1178,43 +1323,6 @@
       "is_new": false
     },
     {
-      "id": "senior-artificial-intelligence-machine-learning-engineer-ciklum-x56ih37u",
-      "title": "Senior Artificial Intelligence/Machine Learning Engineer",
-      "company": "Ciklum",
-      "location": "United States",
-      "work_mode": "remote",
-      "posted_at": "2026-08-26T00:00:00Z",
-      "url": "https://ialmme.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4398?utm_source=freehire.me",
-      "source": "oracle",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "RAG & Retrieval",
-      "score": 56,
-      "why": [
-        "Role match: machine learning, artificial intelligence",
-        "Core match: llm, rag",
-        "Stack match: python",
-        "Remote US/North America — verify eligibility"
-      ],
-      "skills": [
-        "ai",
-        "api",
-        "llm",
-        "machine-learning",
-        "python",
-        "rag",
-        "typescript"
-      ],
-      "description": "*Ciklum* is looking for a *Senior AI/Machine Learning Engineer* to join our team full-time in the ** US . We are a custom product engineering company that supports both multinational organizations and scaling startups to solve their most complex business challenges. With a global team of over 4,000 highly skilled developers, consultants, analysts and product owners, we engineer technology that redefines industries and shapes the way people live. *About the role:* Builds the agents, models, and integrations on the platform's templates — the hands that turn use cases into production systems. *Responsibilities:* * Build and ship LLM-powered agen…",
-      "experience_years_min": 8,
-      "salary": null,
-      "is_new": false
-    },
-    {
       "id": "senior-staff-machine-learning-engineer-agentic-systems-moveworks-servicenow-nw64bkad",
       "title": "Senior Staff Machine Learning Engineer, Agentic Systems - Moveworks",
       "company": "ServiceNow",
@@ -1410,8 +1518,50 @@
       "company": "atoms",
       "location": "San Francisco, CA",
       "work_mode": "not specified",
-      "posted_at": "2026-09-07T19:52:11Z",
+      "posted_at": "2026-09-08T22:37:46Z",
       "url": "https://job-boards.greenhouse.io/atoms/jobs/8373608002?utm_source=freehire.me",
+      "source": "greenhouse",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "GenAI / LLM",
+      "score": 54,
+      "why": [
+        "Role match: machine learning",
+        "Core match: genai, llm",
+        "Stack match: python, kubernetes, azure, model serving",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "ai",
+        "automation",
+        "azure",
+        "cloud",
+        "docker",
+        "gcp",
+        "generative-ai",
+        "java",
+        "kubernetes",
+        "llm",
+        "machine-learning",
+        "python"
+      ],
+      "description": "*Who we are* Atoms is building the machines that power the next era of progress. Over the last decade, software has transformed the digital world. But the physical world, where food is made, minerals are mined, goods are moved, and industries are run, remains far less intelligent, far less efficient, and far more constrained. We’re changing that. Atoms builds Physical AI— real-world robots for the industries that move civilization forward, starting with food, mining, and transport. Our systems are designed to understand, predict, and control the real world with precision, turning complex physical operations into something more reliable, more …",
+      "experience_years_min": 3,
+      "salary": null,
+      "is_new": false
+    },
+    {
+      "id": "senior-software-engineer-machine-learning-infrastructure-atoms-careers-page-7tnqy6vs",
+      "title": "Senior Software Engineer - Machine Learning Infrastructure",
+      "company": "ATOMS Careers page",
+      "location": "San Francisco, CA",
+      "work_mode": "not specified",
+      "posted_at": "2026-09-08T22:37:46Z",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8583304002?utm_source=freehire.me",
       "source": "greenhouse",
       "countries": [
         "us"
@@ -1481,6 +1631,53 @@
       "experience_years_min": 7,
       "salary": null,
       "is_new": false
+    },
+    {
+      "id": "lead-software-engineer-python-aws-agentic-ai-adk-langgraph-jp-morgan-chase-zhaca7we",
+      "title": "Lead Software Engineer – Python, AWS, Agentic AI (ADK/LangGraph)",
+      "company": "JP Morgan Chase",
+      "location": "Plano, TX, United States",
+      "work_mode": "not specified",
+      "posted_at": "2026-09-08T00:00:00Z",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210787645?utm_source=freehire.me",
+      "source": "oracle",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Agentic AI",
+      "score": 52,
+      "why": [
+        "Role match: agentic",
+        "Core match: agentic ai, langgraph",
+        "Stack match: python, aws, fastapi",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "agentic-ai",
+        "agile",
+        "ai",
+        "api",
+        "api-design",
+        "automation",
+        "aws",
+        "ci-cd",
+        "cloud",
+        "fastapi",
+        "langgraph",
+        "microservices",
+        "postgresql",
+        "python",
+        "sdlc",
+        "sql",
+        "test-automation"
+      ],
+      "description": "Be an integral part of an agile team that's constantly pushing the envelope to enhance, build, and deliver top-notch technology products. As a Lead Software Engineer at JPMorganChase within Cloud Foundation Services, you are a hands-on technical leader on an agile team that works to enhance, build, and deliver trusted market-leading technology products in a secure, stable, and scalable way. You will drive business impact by owning end-to-end design and delivery of critical systems and leading engineering execution. You will apply strong technical expertise in API design and production AI application development (ADK/LangGraph) to solve comple…",
+      "experience_years_min": 6,
+      "salary": null,
+      "is_new": true
     },
     {
       "id": "machine-learning-engineer-simulation-realism-waymo-sh3juouy",
@@ -1610,6 +1807,49 @@
       "experience_years_min": 2,
       "salary": null,
       "is_new": false
+    },
+    {
+      "id": "principal-ai-engineer-wells-fargo-g72ku2z4",
+      "title": "Principal AI Engineer",
+      "company": "Wells Fargo",
+      "location": "SAN FRANCISCO, CA",
+      "work_mode": "hybrid",
+      "posted_at": "2026-09-08T00:00:00Z",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/Principal-AI-Engineer_R-573382?utm_source=freehire.me",
+      "source": "workday",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Agentic AI",
+      "score": 50,
+      "why": [
+        "Role match: ai engineer",
+        "Core match: llm, agentic ai",
+        "Stack match: azure, aws",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "agentic-ai",
+        "agile",
+        "ai",
+        "automation",
+        "aws",
+        "azure",
+        "cloud",
+        "cloud-native",
+        "gcp",
+        "llm",
+        "observability",
+        "prototyping",
+        "regulatory-compliance"
+      ],
+      "description": "*About this role:* Wells Fargo is seeking a Principal Engineer to join our AI Platforms and Enterprise Execution Group as part of Consumer Technology. Learn more about the career areas and business divisions at wellsfargojobs.com. This role focuses on designing and delivering enterprise‑scale strategic initiatives in reusable AI patterns that deliver business and customer value. This is a hands‑on, business facing, Principal Engineer role for a technical leader who designs, builds, and scales AI‑driven platforms, while operating at enterprise scope. The Principal Engineer serves as a technical authority who codes, prototypes, and reviews arch…",
+      "experience_years_min": 3,
+      "salary": null,
+      "is_new": true
     },
     {
       "id": "sr-machine-learning-engineer-marketplace-ml-platform-waymo-yaw5uqjo",
@@ -1742,12 +1982,203 @@
       "is_new": false
     },
     {
+      "id": "staff-machine-learning-engineer-voice-ai-together-ai-ycwhbobl",
+      "title": "Staff Machine Learning Engineer, Voice AI ",
+      "company": "Together AI",
+      "location": "San Francisco",
+      "work_mode": "not specified",
+      "posted_at": "2026-09-08T23:12:01Z",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5140763007?utm_source=freehire.me",
+      "source": "greenhouse",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "GenAI / LLM",
+      "score": 49,
+      "why": [
+        "Role match: machine learning",
+        "Core match: llm",
+        "Stack match: python, pytorch, model serving, fine-tuning",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "ai",
+        "api",
+        "cloud",
+        "cuda",
+        "fine-tuning",
+        "llm",
+        "machine-learning",
+        "python",
+        "pytorch",
+        "reinforcement-learning",
+        "salesforce",
+        "serverless",
+        "signal-processing",
+        "tensorrt",
+        "vllm",
+        "zoom"
+      ],
+      "description": "*About the Role* ---------------- Together AI is building the best inference infrastructure for voice applications. Our Voice AI platform powers production-grade, real-time voice agents and applications — serving speech-to-text and text-to-speech models with best-in-class latency and reliability. We're looking for a Staff ML Engineer to drive the model serving layer for voice workloads. You'll work hands-on with inference engines like TRT-LLM and SGLang to optimize how we serve models like Whisper, Parakeet, Orpheus, and Kokoro — pushing latency and throughput to the frontier. You'll profile GPU utilization, design batching strategies for str…",
+      "experience_years_min": 8,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "senior-machine-learning-engineer-voice-ai-together-ai-j2kxu6fl",
+      "title": "Senior Machine Learning Engineer, Voice AI ",
+      "company": "Together AI",
+      "location": "San Francisco",
+      "work_mode": "not specified",
+      "posted_at": "2026-09-08T23:11:35Z",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5088817007?utm_source=freehire.me",
+      "source": "greenhouse",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "GenAI / LLM",
+      "score": 49,
+      "why": [
+        "Role match: machine learning",
+        "Core match: llm",
+        "Stack match: python, pytorch, model serving, fine-tuning",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "ai",
+        "api",
+        "cloud",
+        "cuda",
+        "fine-tuning",
+        "llm",
+        "machine-learning",
+        "model-evaluation",
+        "python",
+        "pytorch",
+        "reinforcement-learning",
+        "salesforce",
+        "serverless",
+        "signal-processing",
+        "tensorrt",
+        "vllm",
+        "zoom"
+      ],
+      "description": "*About the Role* ---------------- Together AI is building the best inference infrastructure for voice applications. Our Voice AI platform powers production-grade, real-time voice agents and applications — serving speech-to-text and text-to-speech models with best-in-class latency and reliability. We're looking for a Senior ML Engineer to drive the model serving layer for voice workloads. You'll work hands-on with inference engines like TRT-LLM and SGLang to optimize how we serve models like Whisper, Parakeet, Orpheus, and Kokoro — pushing latency and throughput to the frontier. You'll profile GPU utilization, design batching strategies for st…",
+      "experience_years_min": 5,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "senior-engineer-i-ii-machine-learning-lila-sciences-ywbjpxx4",
+      "title": "Senior Machine Learning Engineer, Physical Sciences",
+      "company": "LILA Sciences",
+      "location": "Cambridge, MA USA; San Francisco, CA USA",
+      "work_mode": "not specified",
+      "posted_at": "2026-09-08T21:24:35Z",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4116513009?utm_source=freehire.me",
+      "source": "greenhouse",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "RAG & Retrieval",
+      "score": 49,
+      "why": [
+        "Role match: machine learning",
+        "Core match: rag",
+        "Stack match: python, pytorch, multimodal, fastapi",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "ai",
+        "ci-cd",
+        "cloud",
+        "cuda",
+        "data-ingestion",
+        "distributed-training",
+        "fastapi",
+        "feature-engineering",
+        "grpc",
+        "huggingface",
+        "llm",
+        "machine-learning",
+        "model-deployment",
+        "observability",
+        "python",
+        "pytorch",
+        "rag",
+        "triton",
+        "workflow-orchestration"
+      ],
+      "description": "*Your Impact at LILA* This Machine Learning Engineer for the Physical Sciences team focuses on building and operating end-to-end, scalable machine learning workflows that solve a diversity scientific use cases in materials, chemistry and physical sciences. Your work will advance research efforts on state-of-the-art algorithms to build towards scientific superintelligence across today’s greatest challenges in physical sciences. *What You'll Be Building* * Design, implement, and maintain end‑to‑end ML pipelines (data ingestion, feature engineering, training, evaluation, deployment, monitoring). * Productionize models and services with robust te…",
+      "experience_years_min": null,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "senior-machine-learning-engineer-carbon-mapper-rqq45oyj",
+      "title": "Senior Machine Learning Engineer",
+      "company": "Carbon Mapper",
+      "location": "Remote",
+      "work_mode": "remote",
+      "posted_at": "2026-09-08T19:01:33Z",
+      "url": "https://jobs.gusto.com/postings/carbon-mapper-inc-senior-machine-learning-engineer-cd086718-8f3e-4fce-94ff-4427d7a05aac?utm_source=freehire.me",
+      "source": "gusto",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Machine Learning",
+      "score": 48,
+      "why": [
+        "Role match: machine learning",
+        "Stack match: python, pytorch, tensorflow, kubernetes, azure",
+        "Remote US/North America — verify eligibility"
+      ],
+      "skills": [
+        "ai",
+        "automation",
+        "aws",
+        "azure",
+        "cloud",
+        "cloud-native",
+        "containerization",
+        "data-engineering",
+        "data-pipelines",
+        "data-quality",
+        "deep-learning",
+        "docker",
+        "gcp",
+        "gis",
+        "kubernetes",
+        "machine-learning",
+        "mlops",
+        "numpy",
+        "observability",
+        "process-improvement"
+      ],
+      "description": "Help ensure our core data products meet a reliable baseline of quality, latency, and cost as we scale. *Senior Machine Learning Engineer* *About Carbon Mapper* Carbon Mapper is a non-profit organization based in Pasadena, CA with the mission to drive greenhouse gas emission reductions by making methane and carbon dioxide data accessible and actionable. We leverage remote sensing technology to detect, pinpoint, and quantify methane and carbon dioxide (CO2) emissions at the scale of individual facilities. All of our methane and CO2 data is made publicly available for non-commercial use on our Carbon Mapper Data Portal to provide decisionmakers …",
+      "experience_years_min": null,
+      "salary": null,
+      "is_new": true
+    },
+    {
       "id": "senior-director-of-engineering-generative-ai-roblox-i5klq54e",
       "title": "Senior Director of Engineering, Generative AI ",
       "company": "Roblox",
       "location": "San Mateo, CA, United States",
       "work_mode": "not specified",
-      "posted_at": "2026-09-07T18:31:57Z",
+      "posted_at": "2026-09-08T18:32:40Z",
       "url": "https://careers.roblox.com/jobs/8131695?gh_jid=8131695&utm_source=freehire.me",
       "source": "greenhouse",
       "countries": [
@@ -1778,6 +2209,41 @@
       "experience_years_min": 5,
       "salary": null,
       "is_new": false
+    },
+    {
+      "id": "principal-machine-learning-engineer-conversational-ai-modeling-and-learning-amazon-4ywdxn2c",
+      "title": "Principal Machine Learning Engineer, Conversational AI Modeling and Learning",
+      "company": "Amazon",
+      "location": "Bellevue, Washington, USA",
+      "work_mode": "not specified",
+      "posted_at": "2026-09-08T00:00:00Z",
+      "url": "https://www.amazon.jobs/en/jobs/10532198/principal-machine-learning-engineer-conversational-ai-modeling-and-learning?utm_source=freehire.me",
+      "source": "amazon",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Agentic AI",
+      "score": 48,
+      "why": [
+        "Role match: machine learning",
+        "Core match: llm, agentic ai",
+        "Stack match: distributed systems",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "agentic-ai",
+        "ai",
+        "distributed-systems",
+        "llm",
+        "reinforcement-learning"
+      ],
+      "description": "Alexa AI is building the next generation of Alexa+, Amazon's LLM-powered conversational assistant, and its future is agentic: LLM systems that reason and act over dozens of chained inferences, coupled to real environments where their actions persist. Making these agents smarter, faster, and cheaper is as much a systems problem as a modeling problem - agent performance depends on the model, the harness, the evaluation infrastructure, and the serving stack co-designed together. We are looking for a Principal Engineer to lead the engineering of this agentic platform. You will own the architecture that turns research into production capability: l…",
+      "experience_years_min": null,
+      "salary": null,
+      "is_new": true
     },
     {
       "id": "machine-learning-engineer-syngenta-group-fue2k4rt",
@@ -1826,7 +2292,7 @@
       "description": "At Syngenta, we are building the most collaborative and trusted team in agriculture to provide leading seeds innovations that enhance the prosperity of farmers worldwide. Our Data Science and Engineering team in R&D Digital is seeking a motivated Machine Learning Engineer who will drive the development and deployment of advanced computer vision and machine learning solutions, with an initial focus on leveraging imagery and sensor data to accelerate breeding programs and bring superior seeds to market faster. As an individual contributor, you will use your technical expertise and scientific rigor to transform raw imagery and other diverse data…",
       "experience_years_min": null,
       "salary": null,
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "staff-applied-ml-engineer-coreweave-7ezf36kn",
@@ -2215,6 +2681,48 @@
       "is_new": false
     },
     {
+      "id": "machine-learning-engineer-mapping-waymo-37onud4o",
+      "title": "Staff Machine Learning Engineer, Mapping",
+      "company": "waymo",
+      "location": "Mountain View, CA, USA",
+      "work_mode": "hybrid",
+      "posted_at": "2026-09-08T20:34:56Z",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=7429791&utm_source=freehire.me",
+      "source": "greenhouse",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "GenAI / LLM",
+      "score": 45,
+      "why": [
+        "Role match: machine learning",
+        "Core match: generative ai",
+        "Stack match: pytorch, tensorflow",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "ai",
+        "automation",
+        "computer-vision",
+        "cpp",
+        "data-mining",
+        "deep-learning",
+        "generative-ai",
+        "gis",
+        "jax",
+        "machine-learning",
+        "pytorch",
+        "tensorflow"
+      ],
+      "description": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo’s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously driving over 100 million miles on public roads and tens…",
+      "experience_years_min": 8,
+      "salary": null,
+      "is_new": true
+    },
+    {
       "id": "senior-machine-learning-engineer-search-index-wayve-qgxx4ozw",
       "title": "Senior Machine Learning Engineer, Search & Index",
       "company": "Wayve",
@@ -2410,6 +2918,91 @@
       "is_new": false
     },
     {
+      "id": "senior-software-engineer-machine-learning-ziprecruiter-r2lyhlhw",
+      "title": "Senior Software Engineer, Machine Learning",
+      "company": "ziprecruiter",
+      "location": "Remote",
+      "work_mode": "remote",
+      "posted_at": "2026-09-08T20:35:43Z",
+      "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/5167472?utm_source=freehire.me",
+      "source": "greenhouse",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "global",
+        "north_america",
+        "us"
+      ],
+      "family": "Machine Learning",
+      "score": 44,
+      "why": [
+        "Role match: machine learning",
+        "Stack match: pytorch, tensorflow, fine-tuning, nlp",
+        "Remote US/North America — verify eligibility"
+      ],
+      "skills": [
+        "ai",
+        "android",
+        "deep-learning",
+        "fine-tuning",
+        "ios",
+        "machine-learning",
+        "neural-networks",
+        "nlp",
+        "oop",
+        "pytorch",
+        "scikit-learn",
+        "spacy",
+        "tensorflow"
+      ],
+      "description": "We offer a hybrid work environment. Most US-based positions can also ** be ** performed remotely (any exceptions will be noted in the Minimum Qualifications below.) *Our Mission:* To actively connect people to their next great opportunity. *Who We Are:* ZipRecruiter is a leading online employment marketplace. Powered by AI-driven smart matching technology, the company actively connects millions of all-sized businesses and job seekers through innovative mobile, web, and email services, as well as through partnerships with the best job boards on the web. ZipRecruiter has the #1 rated job search app on iOS & Android. *Summary:* At ZipRecruiter, …",
+      "experience_years_min": 3,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "applied-ai-engineer-praecipio-apdu6gmn",
+      "title": "Applied AI Engineer",
+      "company": "praecipio",
+      "location": "Chicago, IL",
+      "work_mode": "remote",
+      "posted_at": "2026-09-08T13:35:05Z",
+      "url": "https://jobs.ashbyhq.com/praecipio/ac0c2324-4f27-48b1-9bc2-4f724c6f822c?utm_source=freehire.me",
+      "source": "ashby",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Agentic AI",
+      "score": 44,
+      "why": [
+        "Role match: ai engineer, applied ai",
+        "Remote US/North America — verify eligibility"
+      ],
+      "skills": [
+        "agentic-ai",
+        "ai",
+        "api",
+        "atlassian",
+        "bitbucket",
+        "claude-code",
+        "devops",
+        "etl",
+        "git",
+        "github",
+        "gitlab",
+        "linux",
+        "unix"
+      ],
+      "description": "******************* Applied AI Engineer ******************* You are a builder. Your deliverable is a running system, not a framework or a strategy deck. Praecipio delivers AI-native services to enterprise clients: agentic workflow deployments, integrations, and hands-on builds. We also run the same transformation internally, building the agentic systems that change how our own delivery, sales, and operations teams work. Everyone on this team does both. The internal work is where we prove what is possible; the client work is where it pays. You will work alongside a technical lead who defines the architecture and an enablement lead who drives a…",
+      "experience_years_min": null,
+      "salary": null,
+      "is_new": true
+    },
+    {
       "id": "senior-ai-ml-engineer-chime-h3vtxomp",
       "title": "Senior AI/ML Engineer",
       "company": "Chime",
@@ -2575,13 +3168,13 @@
       "is_new": false
     },
     {
-      "id": "senior-machine-learning-engineer-atoms-careers-page-wv3snsww",
+      "id": "senior-machine-learning-engineer-atoms-nkcguglj",
       "title": "Senior Machine Learning Engineer",
-      "company": "ATOMS Careers page",
+      "company": "atoms",
       "location": "Mountain View, CA",
       "work_mode": "not specified",
-      "posted_at": "2026-09-07T22:06:43Z",
-      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8583282002?utm_source=freehire.me",
+      "posted_at": "2026-09-08T22:37:48Z",
+      "url": "https://job-boards.greenhouse.io/atoms/jobs/8517777002?utm_source=freehire.me",
       "source": "greenhouse",
       "countries": [
         "us"
@@ -2620,13 +3213,13 @@
       "is_new": false
     },
     {
-      "id": "senior-machine-learning-engineer-atoms-nkcguglj",
+      "id": "senior-machine-learning-engineer-atoms-careers-page-wv3snsww",
       "title": "Senior Machine Learning Engineer",
-      "company": "atoms",
+      "company": "ATOMS Careers page",
       "location": "Mountain View, CA",
       "work_mode": "not specified",
-      "posted_at": "2026-09-07T22:06:23Z",
-      "url": "https://job-boards.greenhouse.io/atoms/jobs/8517777002?utm_source=freehire.me",
+      "posted_at": "2026-09-08T22:37:48Z",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8583282002?utm_source=freehire.me",
       "source": "greenhouse",
       "countries": [
         "us"
@@ -2740,12 +3333,146 @@
       "is_new": false
     },
     {
+      "id": "staff-machine-learning-infrastructure-engineer-atoms-careers-page-dbotgsxx",
+      "title": "Staff Machine Learning Infrastructure Engineer",
+      "company": "ATOMS Careers page",
+      "location": "San Francisco, CA",
+      "work_mode": "not specified",
+      "posted_at": "2026-09-08T22:37:48Z",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8616821002?utm_source=freehire.me",
+      "source": "greenhouse",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "AI / ML Platform",
+      "score": 42,
+      "why": [
+        "Role match: machine learning",
+        "Stack match: python, mlflow, kubernetes",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "ai",
+        "automation",
+        "ci-cd",
+        "cloud",
+        "data-engineering",
+        "data-ingestion",
+        "data-pipelines",
+        "distributed-computing",
+        "java",
+        "kubernetes",
+        "machine-learning",
+        "mlflow",
+        "mlops",
+        "neural-networks",
+        "observability",
+        "python",
+        "rust"
+      ],
+      "description": "*Who we are* Atoms is building the machines that power the next era of progress. Over the last decade, software has transformed the digital world. But the physical world, where food is made, minerals are mined, goods are moved, and industries are run, remains far less intelligent, far less efficient, and far more constrained. We’re changing that. Atoms builds Physical AI— real-world robots for the industries that move civilization forward, starting with food, mining, and transport. Our systems are designed to understand, predict, and control the real world with precision, turning complex physical operations into something more reliable, more …",
+      "experience_years_min": 8,
+      "salary": null,
+      "is_new": false
+    },
+    {
+      "id": "staff-machine-learning-infrastructure-engineer-atoms-n7affyoh",
+      "title": "Staff Machine Learning Infrastructure Engineer",
+      "company": "atoms",
+      "location": "San Francisco, CA",
+      "work_mode": "not specified",
+      "posted_at": "2026-09-08T22:37:48Z",
+      "url": "https://job-boards.greenhouse.io/atoms/jobs/8616815002?utm_source=freehire.me",
+      "source": "greenhouse",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "AI / ML Platform",
+      "score": 42,
+      "why": [
+        "Role match: machine learning",
+        "Stack match: python, mlflow, kubernetes",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "ai",
+        "automation",
+        "ci-cd",
+        "cloud",
+        "data-engineering",
+        "data-ingestion",
+        "data-pipelines",
+        "distributed-computing",
+        "java",
+        "kubernetes",
+        "machine-learning",
+        "mlflow",
+        "mlops",
+        "neural-networks",
+        "observability",
+        "python",
+        "rust"
+      ],
+      "description": "*Who we are* Atoms is building the machines that power the next era of progress. Over the last decade, software has transformed the digital world. But the physical world, where food is made, minerals are mined, goods are moved, and industries are run, remains far less intelligent, far less efficient, and far more constrained. We’re changing that. Atoms builds Physical AI— real-world robots for the industries that move civilization forward, starting with food, mining, and transport. Our systems are designed to understand, predict, and control the real world with precision, turning complex physical operations into something more reliable, more …",
+      "experience_years_min": 8,
+      "salary": null,
+      "is_new": false
+    },
+    {
+      "id": "staff-software-engineer-machine-learning-ziprecruiter-2fnldin5",
+      "title": "Staff Software Engineer, Machine Learning",
+      "company": "ziprecruiter",
+      "location": "Santa Monica, CA",
+      "work_mode": "hybrid",
+      "posted_at": "2026-09-08T20:41:38Z",
+      "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/5167496?utm_source=freehire.me",
+      "source": "greenhouse",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "global",
+        "north_america"
+      ],
+      "family": "Machine Learning",
+      "score": 42,
+      "why": [
+        "Role match: machine learning",
+        "Stack match: pytorch, tensorflow, nlp",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "ai",
+        "android",
+        "data-pipelines",
+        "deep-learning",
+        "ios",
+        "machine-learning",
+        "neural-networks",
+        "nlp",
+        "pytorch",
+        "scikit-learn",
+        "spacy",
+        "tensorflow"
+      ],
+      "description": "We offer a hybrid work environment. Most US-based positions can also ** be ** performed remotely (any exceptions will be noted in the Minimum Qualifications below.) *Our Mission:* To actively connect people to their next great opportunity. *Who We Are:* ZipRecruiter is a leading online employment marketplace. Powered by AI-driven smart matching technology, the company actively connects millions of all-sized businesses and job seekers through innovative mobile, web, and email services, as well as through partnerships with the best job boards on the web. ZipRecruiter has the #1 rated job search app on iOS & Android. *Summary:* With data such as…",
+      "experience_years_min": 7,
+      "salary": null,
+      "is_new": true
+    },
+    {
       "id": "principal-machine-learning-engineer-embodied-ai-and-smart-npcs-roblox-tmfz3leb",
       "title": "Principal Machine Learning Engineer, Embodied AI and Smart NPCs",
       "company": "Roblox",
       "location": "San Mateo, CA, United States",
       "work_mode": "not specified",
-      "posted_at": "2026-09-07T18:42:05Z",
+      "posted_at": "2026-09-08T06:43:23Z",
       "url": "https://careers.roblox.com/jobs/7629843?gh_jid=7629843&utm_source=freehire.me",
       "source": "greenhouse",
       "countries": [
@@ -3217,127 +3944,6 @@
       "is_new": false
     },
     {
-      "id": "senior-software-engineer-machine-learning-ads-discord-gl6kbre7",
-      "title": "Senior Software Engineer, Machine Learning (Ads)",
-      "company": "Discord",
-      "location": "San Francisco Bay Area",
-      "work_mode": "not specified",
-      "posted_at": "2026-09-02T16:36:22Z",
-      "url": "https://job-boards.greenhouse.io/discord/jobs/8644780002?utm_source=freehire.me",
-      "source": "greenhouse",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "AI / ML Platform",
-      "score": 42,
-      "why": [
-        "Role match: machine learning",
-        "Stack match: python, pytorch, tensorflow",
-        "Target relocation market: TX, CA, or WA"
-      ],
-      "skills": [
-        "ab-testing",
-        "deep-learning",
-        "distributed-computing",
-        "machine-learning",
-        "python",
-        "pytorch",
-        "recommendation-systems",
-        "tensorflow",
-        "transformers"
-      ],
-      "description": "Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: *play video games.* Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games. We are looking for a Senior Software Engineer specializing in Machine Learning to join our Revenue ML team at Discord. This team partners with our revenue product groups, focusing on both consumer revenue and our emerging Ads initiative. This role will specifically contribute t…",
-      "experience_years_min": 3,
-      "salary": null,
-      "is_new": false
-    },
-    {
-      "id": "senior-software-engineer-scalable-machine-learning-latitude-ai-3insvatk",
-      "title": "Senior Software Engineer - Scalable Machine Learning",
-      "company": "Latitude AI",
-      "location": "Pittsburgh, PA, Palo Alto, CA, Detroit, MI",
-      "work_mode": "not specified",
-      "posted_at": "2026-09-02T12:26:42Z",
-      "url": "https://job-boards.greenhouse.io/latitude/jobs/7947434?utm_source=freehire.me",
-      "source": "greenhouse",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "AI / ML Platform",
-      "score": 42,
-      "why": [
-        "Role match: machine learning",
-        "Stack match: python, pytorch, distributed systems",
-        "Target relocation market: TX, CA, or WA"
-      ],
-      "skills": [
-        "ai",
-        "cloud",
-        "computer-vision",
-        "cpp",
-        "dagster",
-        "data-pipelines",
-        "distributed-systems",
-        "distributed-training",
-        "machine-learning",
-        "mlops",
-        "model-deployment",
-        "python",
-        "pytorch",
-        "workflow-orchestration"
-      ],
-      "description": "Latitude AI () is building the future of Ford’s autonomy roadmap to make travel safer, less stressful, and more enjoyable for everyone. Bringing this vision to scale, our fully in-house developed hands-free ADAS platform will debut on the all-new Ford Fathom in 2027. When you join the Latitude team, you’ll work alongside leading experts across machine learning and robotics, cloud platforms, mapping, sensors and compute systems, test operations, systems and safety engineering – *all dedicated to redefining the relationship between people and their vehicles for millions of customers.* As a Ford Motor Company subsidiary, we operate independently…",
-      "experience_years_min": 2,
-      "salary": null,
-      "is_new": false
-    },
-    {
-      "id": "senior-staff-software-engineer-unified-modeling-machine-learning-perception-latitude-ai-x5u2gzpo",
-      "title": "Senior / Staff Software Engineer- Unified Modeling (Machine Learning - Perception))",
-      "company": "Latitude AI",
-      "location": "Palo Alto, CA, Pittsburgh, PA, Detroit, MI, Remote",
-      "work_mode": "remote",
-      "posted_at": "2026-09-02T12:25:46Z",
-      "url": "https://job-boards.greenhouse.io/latitude/jobs/7375459?utm_source=freehire.me",
-      "source": "greenhouse",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "Machine Learning",
-      "score": 42,
-      "why": [
-        "Role match: machine learning",
-        "Stack match: python, pytorch, tensorflow",
-        "Target relocation market: TX, CA, or WA"
-      ],
-      "skills": [
-        "ai",
-        "cloud",
-        "computer-vision",
-        "cpp",
-        "deep-learning",
-        "lidar",
-        "machine-learning",
-        "prototyping",
-        "python",
-        "pytorch",
-        "tensorflow"
-      ],
-      "description": "Latitude AI () is building the future of Ford’s autonomy roadmap to make travel safer, less stressful, and more enjoyable for everyone. Bringing this vision to scale, our fully in-house developed hands-free ADAS platform will debut on the all-new Ford Fathom in 2027. When you join the Latitude team, you’ll work alongside leading experts across machine learning and robotics, cloud platforms, mapping, sensors and compute systems, test operations, systems and safety engineering – *all dedicated to redefining the relationship between people and their vehicles for millions of customers.* As a Ford Motor Company subsidiary, we operate independently…",
-      "experience_years_min": 5,
-      "salary": null,
-      "is_new": false
-    },
-    {
       "id": "lead-audio-ml-engineer-hark-eptocrln",
       "title": "Lead Audio ML Engineer",
       "company": "Hark",
@@ -3448,13 +4054,13 @@
       "is_new": false
     },
     {
-      "id": "senior-machine-learning-engineering-manager-safety-ai-systems-roblox-eeoatdlg",
-      "title": "Senior Machine Learning Engineering Manager, Safety AI Systems",
-      "company": "Roblox",
-      "location": "San Mateo, CA, United States",
-      "work_mode": "not specified",
-      "posted_at": "2026-09-07T18:40:49Z",
-      "url": "https://careers.roblox.com/jobs/8047877?gh_jid=8047877&utm_source=freehire.me",
+      "id": "staff-machine-learning-engineer-ziprecruiter-mcferq4k",
+      "title": "Staff Machine Learning Engineer, Recommendations",
+      "company": "ziprecruiter",
+      "location": "Remote, Santa Monica, CA",
+      "work_mode": "remote",
+      "posted_at": "2026-09-08T20:33:54Z",
+      "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8174570?utm_source=freehire.me",
       "source": "greenhouse",
       "countries": [
         "us"
@@ -3462,25 +4068,30 @@
       "regions": [
         "north_america"
       ],
-      "family": "Machine Learning",
+      "family": "RAG & Retrieval",
       "score": 40,
       "why": [
         "Role match: machine learning",
-        "Stack match: multimodal, distributed systems",
+        "Stack match: pytorch, tensorflow",
         "Target relocation market: TX, CA, or WA"
       ],
       "skills": [
+        "ab-testing",
         "ai",
-        "cloud",
-        "data-pipelines",
-        "data-quality",
-        "data-science",
-        "distributed-systems",
+        "android",
+        "deep-learning",
+        "distributed-training",
+        "feature-engineering",
+        "ios",
         "machine-learning",
-        "microservices"
+        "mlops",
+        "neural-networks",
+        "pytorch",
+        "recommendation-systems",
+        "tensorflow"
       ],
-      "description": "Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences– all created by our global community of developers and creators. At Roblox, we’re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the world, and on any device. ** We’re on a mission to connect a billion people with optimism and civility, and looking for amazing talent to help us get there. A career at Roblox means you’ll be working to shape the future of human …",
-      "experience_years_min": 2,
+      "description": "We offer a hybrid work environment. Most US-based positions can also ** be ** performed remotely (any exceptions will be noted in the Minimum Qualifications below.) *Our Mission:* To actively connect people to their next great opportunity. *Who We Are:* ZipRecruiter is a leading online employment marketplace. Powered by AI-driven smart matching technology, the company actively connects millions of all-sized businesses and job seekers through innovative mobile, web, and email services, as well as through partnerships with the best job boards on the web. ZipRecruiter has the #1 rated job search app on iOS & Android. *Summary* : At ZipRecruiter,…",
+      "experience_years_min": 8,
       "salary": null,
       "is_new": false
     },
@@ -3490,7 +4101,7 @@
       "company": "Anduril Industries",
       "location": "Costa Mesa, California, United States",
       "work_mode": "not specified",
-      "posted_at": "2026-09-07T13:25:05Z",
+      "posted_at": "2026-09-08T11:05:20Z",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5185886007?gh_jid=5185886007&utm_source=freehire.me",
       "source": "greenhouse",
       "countries": [
@@ -3530,6 +4141,43 @@
       ],
       "description": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, senso…",
       "experience_years_min": null,
+      "salary": null,
+      "is_new": false
+    },
+    {
+      "id": "senior-machine-learning-engineering-manager-safety-ai-systems-roblox-eeoatdlg",
+      "title": "Senior Machine Learning Engineering Manager, Safety AI Systems",
+      "company": "Roblox",
+      "location": "San Mateo, CA, United States",
+      "work_mode": "not specified",
+      "posted_at": "2026-09-08T06:41:59Z",
+      "url": "https://careers.roblox.com/jobs/8047877?gh_jid=8047877&utm_source=freehire.me",
+      "source": "greenhouse",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Machine Learning",
+      "score": 40,
+      "why": [
+        "Role match: machine learning",
+        "Stack match: multimodal, distributed systems",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "ai",
+        "cloud",
+        "data-pipelines",
+        "data-quality",
+        "data-science",
+        "distributed-systems",
+        "machine-learning",
+        "microservices"
+      ],
+      "description": "Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences– all created by our global community of developers and creators. At Roblox, we’re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the world, and on any device. ** We’re on a mission to connect a billion people with optimism and civility, and looking for amazing talent to help us get there. A career at Roblox means you’ll be working to shape the future of human …",
+      "experience_years_min": 2,
       "salary": null,
       "is_new": false
     },
@@ -3616,48 +4264,6 @@
       ],
       "description": "---------------------------------------- *Who are we and why should you join us?* ---------------------------------------- BetterHelp is on a mission to remove the traditional barriers to therapy and make mental health care more accessible to everyone. Founded in 2013, we are now the world’s largest online therapy service, providing affordable and convenient therapy across the globe. Our network of over 30,000 licensed therapists has helped millions of people take ownership of their mental health and change their lives forever. And we’re not stopping there – as the unmet need for mental health services continues to grow, BetterHelp is committ…",
       "experience_years_min": 6,
-      "salary": null,
-      "is_new": false
-    },
-    {
-      "id": "staff-machine-learning-engineer-ziprecruiter-mcferq4k",
-      "title": "Staff Machine Learning Engineer",
-      "company": "ziprecruiter",
-      "location": "Remote, Santa Monica, CA",
-      "work_mode": "remote",
-      "posted_at": "2026-09-03T15:37:52Z",
-      "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8174570?utm_source=freehire.me",
-      "source": "greenhouse",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "RAG & Retrieval",
-      "score": 40,
-      "why": [
-        "Role match: machine learning",
-        "Stack match: pytorch, tensorflow",
-        "Target relocation market: TX, CA, or WA"
-      ],
-      "skills": [
-        "ab-testing",
-        "ai",
-        "android",
-        "deep-learning",
-        "distributed-training",
-        "feature-engineering",
-        "ios",
-        "machine-learning",
-        "mlops",
-        "neural-networks",
-        "pytorch",
-        "recommendation-systems",
-        "tensorflow"
-      ],
-      "description": "We offer a hybrid work environment. Most US-based positions can also ** be ** performed remotely (any exceptions will be noted in the Minimum Qualifications below.) *Our Mission:* To actively connect people to their next great opportunity. *Who We Are:* ZipRecruiter is a leading online employment marketplace. Powered by AI-driven smart matching technology, the company actively connects millions of all-sized businesses and job seekers through innovative mobile, web, and email services, as well as through partnerships with the best job boards on the web. ZipRecruiter has the #1 rated job search app on iOS & Android. *Summary* : At ZipRecruiter,…",
-      "experience_years_min": 8,
       "salary": null,
       "is_new": false
     },
@@ -3809,48 +4415,12 @@
       "is_new": false
     },
     {
-      "id": "principal-machine-learning-engineer-content-safety-roblox-oyys4jni",
-      "title": "Principal Machine Learning Engineer, Content Safety",
-      "company": "Roblox",
-      "location": "San Mateo, CA, United States",
-      "work_mode": "not specified",
-      "posted_at": "2026-09-07T18:34:37Z",
-      "url": "https://careers.roblox.com/jobs/8073283?gh_jid=8073283&utm_source=freehire.me",
-      "source": "greenhouse",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "Machine Learning",
-      "score": 38,
-      "why": [
-        "Role match: machine learning",
-        "Stack match: lora",
-        "Target relocation market: TX, CA, or WA"
-      ],
-      "skills": [
-        "ai",
-        "computer-vision",
-        "data-pipelines",
-        "data-science",
-        "machine-learning",
-        "quantization",
-        "strategic-planning"
-      ],
-      "description": "Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences– all created by our global community of developers and creators. At Roblox, we’re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the world, and on any device. ** We’re on a mission to connect a billion people with optimism and civility, and looking for amazing talent to help us get there. A career at Roblox means you’ll be working to shape the future of human …",
-      "experience_years_min": 3,
-      "salary": null,
-      "is_new": false
-    },
-    {
       "id": "senior-quality-engineer-applied-ai-anduril-industries-aaho5h6m",
       "title": "Senior Quality Engineer, Applied AI",
       "company": "Anduril Industries",
       "location": "Costa Mesa, California, United States",
       "work_mode": "not specified",
-      "posted_at": "2026-09-07T11:57:41Z",
+      "posted_at": "2026-09-08T23:05:08Z",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5223335007?gh_jid=5223335007&utm_source=freehire.me",
       "source": "greenhouse",
       "countries": [
@@ -3887,6 +4457,77 @@
       ],
       "description": "Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, senso…",
       "experience_years_min": 8,
+      "salary": null,
+      "is_new": false
+    },
+    {
+      "id": "principal-machine-learning-researcher-physical-ai-freeform-mjx5tc2i",
+      "title": "Principal Machine Learning Researcher (Physical AI)",
+      "company": "Freeform",
+      "location": "Los Angeles, CA (On-site)",
+      "work_mode": "onsite",
+      "posted_at": "2026-09-08T17:57:44Z",
+      "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7989254003?utm_source=freehire.me",
+      "source": "greenhouse",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Machine Learning",
+      "score": 38,
+      "why": [
+        "Role match: machine learning",
+        "Stack match: python",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "ai",
+        "anomaly-detection",
+        "cpp",
+        "machine-learning",
+        "python",
+        "reinforcement-learning"
+      ],
+      "description": "----------------------------------------------------- *PRINCIPAL MACHINE LEARNING RESEARCHER (PHYSICAL AI)* ----------------------------------------------------- Freeform builds AI-native manufacturing systems that unify software, hardware, and physics to produce industrial-scale parts at the speed of human ideation. By treating manufacturing as a single integrated system, we unlock a new era of innovation where complex hardware is designed, built, and scaled without limits. This architecture enables continuous generation of petabyte-scale, high-fidelity data capturing the physics of metal printing - from in-situ process signals and machine s…",
+      "experience_years_min": 5,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "principal-machine-learning-engineer-content-safety-roblox-oyys4jni",
+      "title": "Principal Machine Learning Engineer, Content Safety",
+      "company": "Roblox",
+      "location": "San Mateo, CA, United States",
+      "work_mode": "not specified",
+      "posted_at": "2026-09-08T06:34:56Z",
+      "url": "https://careers.roblox.com/jobs/8073283?gh_jid=8073283&utm_source=freehire.me",
+      "source": "greenhouse",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Machine Learning",
+      "score": 38,
+      "why": [
+        "Role match: machine learning",
+        "Stack match: lora",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "ai",
+        "computer-vision",
+        "data-pipelines",
+        "data-science",
+        "machine-learning",
+        "quantization",
+        "strategic-planning"
+      ],
+      "description": "Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences– all created by our global community of developers and creators. At Roblox, we’re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the world, and on any device. ** We’re on a mission to connect a billion people with optimism and civility, and looking for amazing talent to help us get there. A career at Roblox means you’ll be working to shape the future of human …",
+      "experience_years_min": 3,
       "salary": null,
       "is_new": false
     },
@@ -3998,12 +4639,53 @@
       "is_new": false
     },
     {
+      "id": "senior-software-engineer-enterprise-ai-platform-openart-4t6uxdj5",
+      "title": "Senior Software Engineer, Enterprise AI Platform",
+      "company": "openart",
+      "location": "San Carlos, California, USA",
+      "work_mode": "hybrid",
+      "posted_at": "2026-09-08T22:34:53Z",
+      "url": "https://jobs.ashbyhq.com/openart/0416bb67-4064-42e1-a847-135a24bf9640?utm_source=freehire.me",
+      "source": "ashby",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "AI / ML Platform",
+      "score": 36,
+      "why": [
+        "Role match: ai platform",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "ai",
+        "api",
+        "claude-code",
+        "cloud",
+        "data-modeling",
+        "gdpr",
+        "nextjs",
+        "observability",
+        "rbac",
+        "react",
+        "saml",
+        "soc-2",
+        "sso"
+      ],
+      "description": "************************************************ Senior Software Engineer, Enterprise AI Platform ************************************************ *🎨 About OpenArt* ----------------- OpenArt is an AI storytelling and visual creation platform used by millions of creators worldwide. We're building the next generation of creative tools powered by cutting-edge AI — enabling anyone to create videos, visuals, characters, and stories with unprecedented speed and imagination. We believe the future of creativity is AI-native, and we're shaping that future. *🚀 Why Join OpenArt* -------------------- * *Brand-new function, real mandate* — enterprise and …",
+      "experience_years_min": 5,
+      "salary": null,
+      "is_new": true
+    },
+    {
       "id": "principal-machine-learning-infrastructure-engineer-ads-discovery-roblox-dwqlvwkq",
       "title": "Principal Machine Learning Infrastructure Engineer, Ads & Discovery",
       "company": "Roblox",
       "location": "San Mateo, CA, United States",
       "work_mode": "not specified",
-      "posted_at": "2026-09-07T18:43:19Z",
+      "posted_at": "2026-09-08T06:44:32Z",
       "url": "https://careers.roblox.com/jobs/7351202?gh_jid=7351202&utm_source=freehire.me",
       "source": "greenhouse",
       "countries": [
@@ -4042,7 +4724,7 @@
       "company": "Roblox",
       "location": "San Mateo, CA, United States",
       "work_mode": "not specified",
-      "posted_at": "2026-09-07T18:42:45Z",
+      "posted_at": "2026-09-08T06:44:08Z",
       "url": "https://careers.roblox.com/jobs/7351220?gh_jid=7351220&utm_source=freehire.me",
       "source": "greenhouse",
       "countries": [
