@@ -1,18 +1,68 @@
 {
-  "generated_at": "2026-09-19T01:11:39+00:00",
+  "generated_at": "2026-09-20T01:11:24+00:00",
   "source": "freehire.me public API",
-  "count": 96,
-  "new_count": 10,
+  "count": 97,
+  "new_count": 4,
   "warnings": [],
   "jobs": [
     {
-      "id": "principal-ai-engineer-shusa-74xt4nj3",
-      "title": "Principal AI Engineer",
-      "company": "shusa",
-      "location": "Dallas, TX",
+      "id": "staff-applied-ai-scientist-poshmark-eurjrgcz",
+      "title": "Staff Applied AI Scientist ",
+      "company": "Poshmark",
+      "location": "US California (Redwood City) - Office",
+      "work_mode": "hybrid",
+      "posted_at": "2026-09-18T23:29:07Z",
+      "url": "https://jobs.ashbyhq.com/poshmark/a223ec7e-1eef-49a4-a724-5d4bec709b91?utm_source=freehire.me",
+      "source": "ashby",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "GenAI / LLM",
+      "score": 59,
+      "why": [
+        "Role match: applied ai",
+        "Core match: genai, rag, retrieval augmented generation",
+        "Stack match: python, pytorch, tensorflow, fine-tuning",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "ab-testing",
+        "ai",
+        "computer-vision",
+        "data-science",
+        "deep-learning",
+        "fine-tuning",
+        "generative-ai",
+        "llm",
+        "machine-learning",
+        "peft",
+        "pyspark",
+        "python",
+        "pytorch",
+        "rag",
+        "recommendation-systems",
+        "scala",
+        "spark",
+        "sql",
+        "statistics",
+        "tensorflow"
+      ],
+      "description": "-------------- About Poshmark -------------- *Poshmark is the leading fashion marketplace where style comes alive through discovery, self-expression, and human connection.* Powered by a vibrant community of 165 million members, Poshmark brings real people and taste to shopping through a social experience shaped by shared discovery. Buying and selling fashion feels simple, joyful, and personal, while every item tells its own story. Poshmark empowers sellers to grow meaningful businesses, keeps fashion in circulation longer, and gives shoppers access to unique and trusted finds, from everyday pieces to one-of-a-kind vintage and luxury. --------…",
+      "experience_years_min": 5,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "forward-deployed-engineering-lead-svp-applied-ai-engineering-citi-7vcpwf4y",
+      "title": "Forward Deployed Engineering Lead (SVP - Applied AI & Engineering)",
+      "company": "Citi",
+      "location": "Irving Texas United States",
       "work_mode": "not specified",
-      "posted_at": "2026-09-17T00:00:00Z",
-      "url": "https://shusa.wd5.myworkdayjobs.com/External/job/Dallas-TX/Principal-AI-Engineer_REQ-037402-1?utm_source=freehire.me",
+      "posted_at": "2026-09-18T00:00:00Z",
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Forward-Deployed-Engineering-Lead--SVP---Applied-AI---Engineering-_26995159?utm_source=freehire.me",
       "source": "workday",
       "countries": [
         "us"
@@ -20,268 +70,92 @@
       "regions": [
         "north_america"
       ],
-      "family": "RAG & Retrieval",
-      "score": 72,
-      "why": [
-        "Role match: ai engineer",
-        "Core match: llm, rag, retrieval augmented generation, langchain",
-        "Stack match: python, pytorch, tensorflow, databricks, mlflow",
-        "Target relocation market: TX, CA, or WA"
-      ],
-      "skills": [
-        "agentic-ai",
-        "ai",
-        "api",
-        "aws",
-        "azure",
-        "cybersecurity",
-        "data-science",
-        "databricks",
-        "distributed-training",
-        "huggingface",
-        "kubernetes",
-        "langchain",
-        "llm",
-        "machine-learning",
-        "mlflow",
-        "mlops",
-        "observability",
-        "okta",
-        "python",
-        "pytorch"
-      ],
-      "description": "*Job Functions, Duties, Responsibilities and Position Qualifications:* *We're not just a workplace - we're a Great Place to Work certified employer!* Proudly certified as a Great Place to Work, we are dedicated to creating a supportive and inclusive environment. At Sonic Healthcare USA, we emphasize teamwork and innovation. Check out our job openings and advance your career with a company that values its team members! Sonic Healthcare USA is seeking a Principal AI Engineer to lead the design, development, and deployment of enterprise AI solutions. This is a senior technical leadership role for a hands-on engineer who can define AI architectur…",
-      "experience_years_min": 4,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "senior-ai-ml-applied-scientist-remote-unitedhealth-group-7ntsaguz",
-      "title": "Senior AI/ML Applied Scientist - Remote",
-      "company": "UnitedHealth Group",
-      "location": "Bellevue, Washington, United States",
-      "work_mode": "not specified",
-      "posted_at": "2026-09-14T00:00:00Z",
-      "url": "https://careers.unitedhealthgroup.com/job/bellevue/senior-ai-ml-applied-scientist-remote/34088/100629316256?utm_source=freehire.me",
-      "source": "radancy",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "RAG & Retrieval",
-      "score": 66,
-      "why": [
-        "Role match: applied scientist",
-        "Core match: generative ai, genai, llm, rag",
-        "Stack match: pytorch, tensorflow, fine-tuning, multimodal, nlp",
-        "Target relocation market: TX, CA, or WA"
-      ],
-      "skills": [
-        "ai",
-        "analytics",
-        "cybersecurity",
-        "data-analytics",
-        "deep-learning",
-        "fine-tuning",
-        "generative-ai",
-        "llm",
-        "machine-learning",
-        "nlp",
-        "pytorch",
-        "rag",
-        "statistics",
-        "tensorflow"
-      ],
-      "description": "Optum Tech is a global leader in health care innovation. Our teams develop cutting-edge solutions that help people live healthier lives and help make the health system work better for everyone. From advanced data analytics and AI to cybersecurity, we use innovative approaches to solve some of health care's most complex challenges. Your contributions here have the potential to change lives. Ready to build the next breakthrough? Join us to start *Caring. Connecting. Growing together.* Optum AI is UnitedHealth Group's enterprise AI team. We are AI/ML scientists and engineers with deep expertise in AI/ML engineering for health care. We develop AI…",
-      "experience_years_min": 3,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "senior-software-engineer-agentic-infrastructure-handshake-m3eb2h5y",
-      "title": "Senior Software Engineer, Agentic Infrastructure",
-      "company": "Handshake",
-      "location": "San Francisco, CA",
-      "work_mode": "onsite",
-      "posted_at": "2026-09-18T20:15:40Z",
-      "url": "https://jobs.ashbyhq.com/handshake/1aa9394e-0080-42b2-8402-f2f5fe7fa15b?utm_source=freehire.me",
-      "source": "ashby",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
       "family": "Agentic AI",
-      "score": 50,
+      "score": 59,
       "why": [
-        "Role match: agentic",
-        "Core match: llm, rag",
-        "Stack match: kubernetes, distributed systems",
+        "Role match: applied ai",
+        "Core match: agentic ai, model context protocol, mcp",
+        "Stack match: python, kubernetes, aws, distributed systems",
         "Target relocation market: TX, CA, or WA"
       ],
       "skills": [
+        "accessibility",
         "agentic-ai",
         "ai",
+        "ansible",
         "api",
+        "api-design",
+        "artifactory",
+        "authentication",
+        "aws",
+        "bigquery",
+        "bitbucket",
+        "cassandra",
+        "ci-cd",
         "cloud",
+        "cloud-native",
+        "cloudformation",
+        "container-security",
+        "containerization",
         "data-modeling",
-        "developer-experience",
-        "distributed-systems",
-        "docker",
-        "elasticsearch",
-        "event-driven-architecture",
-        "gcp",
-        "graphql",
-        "kubernetes",
-        "llm",
-        "machine-learning",
-        "nextjs",
-        "observability",
-        "postgresql",
-        "redis",
-        "terraform"
+        "datadog"
       ],
-      "description": "***************** *About Handshake* ***************** Handshake was founded on a simple belief that everyone deserves a path to a great career, regardless of where they went to school or who they know. Today, we power 25 million job seekers, 1 million+ employers, and 1,600 educational institutions. In 2025, we started Handshake AI and built the fastest-growing AI data business in history. We work directly with frontier AI lab researchers to create evaluations, publish benchmarks, and push the boundary of data. We’ve grown from $0 to ~$1B run rate and pay ~$60M to over 30K individuals every month. *Why join Handshake now:* * Shape how every ca…",
-      "experience_years_min": 5,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "senior-software-engineer-ai-ironclad-d763p2j3",
-      "title": "Senior Software Engineer, Agentic Search",
-      "company": "Ironclad",
-      "location": "San Francisco",
-      "work_mode": "hybrid",
-      "posted_at": "2026-09-18T13:56:04Z",
-      "url": "https://jobs.ashbyhq.com/ironcladhq/fa6f1cdc-4e73-4041-a8cc-aeb26a75e647?utm_source=freehire.me",
-      "source": "ashby",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "Agentic AI",
-      "score": 48,
-      "why": [
-        "Role match: agentic",
-        "Core match: llm, reranking",
-        "Stack match: nlp",
-        "Target relocation market: TX, CA, or WA"
-      ],
-      "skills": [
-        "agentic-ai",
-        "ai",
-        "ai-enablement",
-        "anthropic",
-        "api",
-        "contract-lifecycle-management",
-        "design-patterns",
-        "elasticsearch",
-        "llm",
-        "machine-learning",
-        "maven",
-        "nlp",
-        "openai",
-        "opensearch",
-        "recommendation-systems",
-        "solr"
-      ],
-      "description": "Build AI contracting at enterprise scale. Ship it fast. Ironclad is building AI on one of the most consequential datasets in enterprise software: over 2 billion contracts across thousands of the world's largest organizations. Contracts run every dollar, deal, and business relationship on the planet, and the AI transformation of this space is still largely uncharted. Engineers here are building agentic solutions to problems that haven't been solved yet, in a category that's still being defined. The feedback loop is short, the data is rich, and the people closest to the work are the ones deciding what gets built next. That ability to deliver im…",
-      "experience_years_min": 4,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "senior-staff-machine-learning-engineer-model-dev-arteraai-nwlubspm",
-      "title": "Senior/Staff Machine Learning Engineer (Model Dev)",
-      "company": "ArteraAI",
-      "location": "Remote-US",
-      "work_mode": "remote",
-      "posted_at": "2026-09-18T20:43:30Z",
-      "url": "https://jobs.lever.co/artera/5263bd60-3a9c-4686-ba86-2a00201c0cf0?utm_source=freehire.me",
-      "source": "lever",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "Machine Learning",
-      "score": 46,
-      "why": [
-        "Role match: machine learning",
-        "Stack match: pytorch, tensorflow, kubernetes, aws, multimodal",
-        "Remote US/North America — verify eligibility"
-      ],
-      "skills": [
-        "ai",
-        "aws",
-        "cloud",
-        "deep-learning",
-        "kubernetes",
-        "machine-learning",
-        "prototyping",
-        "pytorch",
-        "regulatory-compliance",
-        "tensorflow",
-        "workflow-orchestration"
-      ],
-      "description": "*About Us:* Artera is an artificial intelligence company dedicated to transforming cancer care. We’ve developed foundation models that analyze clinical and pathology data, generating actionable insights that guide therapy selection and improve outcomes for cancer patients. By continuously improving these models, we aim to uncover the biological mechanisms driving cancer progression. We're looking for an experienced machine learning engineer to own AI biomarker development end to end — from problem framing with clinical and biostatistics partners, through model development and validation, to regulatory submission and production deployment. Bey…",
-      "experience_years_min": 2,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "staff-ml-engineer-aws-trainium-sagemaker-jobgether-eesxrlju",
-      "title": "Staff ML Engineer – AWS Trainium & SageMaker",
-      "company": "jobgether",
-      "location": "US",
-      "work_mode": "remote",
-      "posted_at": "2026-09-18T02:39:55Z",
-      "url": "https://jobs.lever.co/jobgether/0acc1319-e1f7-4f99-8b1d-5fcb6cb0e2fd?utm_source=freehire.me",
-      "source": "lever",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "Machine Learning",
-      "score": 44,
-      "why": [
-        "Role match: ml engineer",
-        "Stack match: python, pytorch, aws, distributed systems",
-        "Remote US/North America — verify eligibility"
-      ],
-      "skills": [
-        "ai",
-        "aws",
-        "cloud",
-        "distributed-systems",
-        "distributed-training",
-        "gdpr",
-        "machine-learning",
-        "python",
-        "pytorch",
-        "sagemaker"
-      ],
-      "description": "*This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Staff ML Engineer – AWS Trainium & SageMaker based in United States.* As a Staff ML Engineer, you will design, train, optimize, and operate production machine learning workloads on AWS Trainium and Amazon SageMaker. You will work deeply across the ML stack, from PyTorch training code and distributed execution to accelerator hardware and compiler behavior. The role requires understanding how training workloads behave on custom silicon rather than treating infrastructure as a black box. You will diagnose complex tra…",
+      "description": "*About Citi:* Citi, the leading global bank, has approximately 200 million customer accounts and does business in more than 160 countries and jurisdictions. Citi provides consumers, corporations, governments, and institutions with a broad range of financial products and services, including consumer banking and credit, corporate and investment banking, securities brokerage, transaction services, and wealth management. As a bank with a brain and a soul, Citi creates economic value that is systemically responsible and in our clients' best interests. As a financial institution that touches every region of the world and every sector that shapes yo…",
       "experience_years_min": null,
       "salary": null,
       "is_new": true
     },
     {
-      "id": "machine-learning-engineer-perception-waymo-7lcdkkrx",
-      "title": "Machine Learning Engineer, Perception",
-      "company": "waymo",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "id": "intermediate-senior-software-engineer-cortex-llm-training-platform-snowflake-hq7mw67r",
+      "title": "Intermediate/ Senior Software Engineer - Cortex LLM Training Platform",
+      "company": "Snowflake",
+      "location": "US-WA-Bellevue",
       "work_mode": "hybrid",
-      "posted_at": "2026-09-18T17:08:17Z",
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8212478&utm_source=freehire.me",
+      "posted_at": "2026-09-17T18:50:39Z",
+      "url": "https://jobs.ashbyhq.com/snowflake/55e9aa63-e7b6-43b7-9ca7-8cc398dbbb00?utm_source=freehire.me",
+      "source": "ashby",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Agentic AI",
+      "score": 47,
+      "why": [
+        "Role match: llm",
+        "Core match: llm",
+        "Stack match: pytorch, kubernetes, distributed systems",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "agentic-ai",
+        "ai",
+        "api",
+        "cuda",
+        "deepspeed",
+        "distributed-systems",
+        "kubernetes",
+        "llm",
+        "machine-learning",
+        "pytorch",
+        "serverless",
+        "snowflake",
+        "vllm"
+      ],
+      "description": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function,…",
+      "experience_years_min": 3,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "staff-software-engineer-agentic-software-security-verkada-itaocjbn",
+      "title": "Staff+ Software Engineer, Agentic Software Security",
+      "company": "Verkada",
+      "location": "San Mateo, CA United States",
+      "work_mode": "not specified",
+      "posted_at": "2026-09-10T21:49:30Z",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5226046007?utm_source=freehire.me",
       "source": "greenhouse",
       "countries": [
         "us"
@@ -289,137 +163,21 @@
       "regions": [
         "north_america"
       ],
-      "family": "Machine Learning",
-      "score": 42,
+      "family": "Agentic AI",
+      "score": 41,
       "why": [
-        "Role match: machine learning",
-        "Stack match: python, pytorch, fine-tuning",
+        "Role match: agentic",
+        "Core match: agentic ai",
         "Target relocation market: TX, CA, or WA"
       ],
       "skills": [
+        "agentic-ai",
         "ai",
-        "computer-vision",
-        "cpp",
-        "deep-learning",
-        "fine-tuning",
-        "jax",
-        "machine-learning",
-        "model-evaluation",
-        "python",
-        "pytorch"
+        "automation",
+        "sdlc"
       ],
-      "description": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo’s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously driving over 100 million miles on public roads and tens…",
-      "experience_years_min": 3,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "staff-software-engineer-machine-learning-canadascout-6faa5mzi",
-      "title": "Staff Software Engineer, Machine Learning",
-      "company": "Canadascout",
-      "location": "United States",
-      "work_mode": "remote",
-      "posted_at": "2026-09-17T20:37:27Z",
-      "url": "https://himalayas.app/companies/canadascout/jobs/staff-software-engineer-machine-learning-9704712704?utm_source=freehire.me",
-      "source": "himalayas",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "Machine Learning",
-      "score": 42,
-      "why": [
-        "Role match: machine learning",
-        "Stack match: pytorch, tensorflow, nlp",
-        "Remote US/North America — verify eligibility"
-      ],
-      "skills": [
-        "ai",
-        "android",
-        "data-pipelines",
-        "deep-learning",
-        "ios",
-        "machine-learning",
-        "neural-networks",
-        "nlp",
-        "pytorch",
-        "scikit-learn",
-        "spacy",
-        "tensorflow"
-      ],
-      "description": "We offer a hybrid work environment. Most US-based positions can alsobeperformed remotely (any exceptions will be noted in the Minimum Qualifications below.) Our Mission: ------------ To actively connect people to their next great opportunity. *Who We Are:* ZipRecruiter is a leading online employment marketplace. Powered by AI-driven smart matching technology, the company actively connects millions of all-sized businesses and job seekers through innovative mobile, web, and email services, as well as through partnerships with the best job boards on the web. ZipRecruiter has the #1 rated job search app on iOS & Android. *Summary:* With data such…",
+      "description": "*Who We Are* ------------ Verkada is transforming how organizations protect their people and places with an integrated, privacy-sensitive AI-powered platform that includes solutions for video security, access control, air quality sensors, alarms, intercoms, and visitor management. We’ve got serious momentum in the market: more than 30,000 customers (including 100+ of the Fortune 500), a $5.8B valuation, more than $1 billion in annualized bookings, and backing from CapitalG, Sequoia Capital, General Catalyst, Felicis Ventures, Next47 and more. Physical AI is one of the most consequential technology shifts of our time, and Verkada is at the cen…",
       "experience_years_min": 7,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "staff-machine-learning-software-engineer-wayve-vtsrvysu",
-      "title": "Staff Machine Learning Software Engineer",
-      "company": "wayve",
-      "location": "Sunnyvale, California USA",
-      "work_mode": "hybrid",
-      "posted_at": "2026-09-18T09:09:00Z",
-      "url": "https://jobs.ashbyhq.com/wayve/1f0b9aa9-10fc-4a4b-927f-b3b7175132e2?utm_source=freehire.me",
-      "source": "ashby",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "Machine Learning",
-      "score": 38,
-      "why": [
-        "Role match: machine learning",
-        "Stack match: multimodal",
-        "Target relocation market: TX, CA, or WA"
-      ],
-      "skills": [
-        "ai",
-        "data-ingestion",
-        "developer-experience",
-        "distributed-training",
-        "machine-learning"
-      ],
-      "description": "About the role -------------- We are looking for an ML Software Engineer to join the Multi-Embodiment Generalist Agent (MEGA) team within Wayve Science as a founding member. MEGA is building foundation models for general-purpose robots: models that learn from large-scale video, language, and robot-interaction data, then generalize across tasks and embodiments—including mobile manipulators, dual-arm platforms, and humanoids. Our aim is to build agents that can perceive, reason about, and act reliably in the physical world. You will design and build the software systems that enable MEGA's machine learning research. This includes scalable ML pip…",
-      "experience_years_min": null,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "senior-machine-learning-engineer-clinical-team-midjourney-l2p6gt2z",
-      "title": "Senior Machine Learning Engineer (Clinical Team)",
-      "company": "Midjourney",
-      "location": "San Francisco Bay Area Hybrid",
-      "work_mode": "hybrid",
-      "posted_at": "2026-09-18T00:17:33Z",
-      "url": "https://jobs.ashbyhq.com/midjourney/9beaa654-e136-4e6d-b51b-4c5b3ccb7e2b?utm_source=freehire.me",
-      "source": "ashby",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "Machine Learning",
-      "score": 38,
-      "why": [
-        "Role match: machine learning",
-        "Stack match: pytorch",
-        "Target relocation market: TX, CA, or WA"
-      ],
-      "skills": [
-        "cloud",
-        "deep-learning",
-        "hipaa",
-        "machine-learning",
-        "pytorch",
-        "signal-processing"
-      ],
-      "description": "What you’ll do -------------- * Own the tissue-class segmentation and labeling models for the ultrasound CT clinical analysis layer, and the pipelines that make them trainable and verifiable. * Retune across 2D per-slice, 3D volumetric, and 2D×3D fusion as reconstructed image inputs are continuously updated, and clinical indications for use expand. * Define training/evaluation pipelines, datasets, and metrics from the ground up or from open source; map model behavior to user needs and design requirements. * Work with data labeling contractors, expert clinicians, and our internal cloud/data teams on labeling specs, QC, and dataset versioning. …",
-      "experience_years_min": null,
       "salary": null,
       "is_new": true
     }
