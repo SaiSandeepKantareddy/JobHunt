@@ -1,29 +1,29 @@
 # Daily AI/ML job shortlist
 
-Generated: 2026-09-20T01:11:24+00:00
-Matches: **97** · New since last run: **4**
+Generated: 2026-09-21T01:07:35+00:00
+Matches: **99** · New since last run: **4**
 
 Open `index.html` through a web server for filters and private browser-only tracking.
 
 ## Best new matches
 
-### 59 · [Staff Applied AI Scientist ](https://jobs.ashbyhq.com/poshmark/a223ec7e-1eef-49a4-a724-5d4bec709b91?utm_source=freehire.me) — Poshmark
+### 58 · [Principal, AI Engineer](https://jobs.gainwelltechnologies.com/job/Any-city-Principal%2C-AI-Engineer-TX-99999/1430800900/?utm_source=freehire.me) — Gainwell Technologies
 
-US California (Redwood City) - Office · GenAI / LLM · 2026-09-18T23:29:07Z  
-Role match: applied ai; Core match: genai, rag, retrieval augmented generation
+Location not listed · GenAI / LLM · 2026-09-19T00:00:00Z  
+Role match: ai engineer; Core match: generative ai, genai
 
-### 59 · [Forward Deployed Engineering Lead (SVP - Applied AI & Engineering)](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Forward-Deployed-Engineering-Lead--SVP---Applied-AI---Engineering-_26995159?utm_source=freehire.me) — Citi
+### 47 · [Staff Tech Lead Manager, Machine Learning, Simulator Evaluation ](https://careers.withwaymo.com/jobs?gh_jid=8209790&utm_source=freehire.me) — waymo
 
-Irving Texas United States · Agentic AI · 2026-09-18T00:00:00Z  
-Role match: applied ai; Core match: agentic ai, model context protocol, mcp
+Mountain View, California, United States; San Francisco, California, United States. · GenAI / LLM · 2026-09-17T18:34:35Z  
+Role match: machine learning; Core match: generative ai
 
-### 47 · [Intermediate/ Senior Software Engineer - Cortex LLM Training Platform](https://jobs.ashbyhq.com/snowflake/55e9aa63-e7b6-43b7-9ca7-8cc398dbbb00?utm_source=freehire.me) — Snowflake
+### 43 · [Senior AI Engineer](https://jobs.ashbyhq.com/clera/2f64b057-e507-4874-83a2-6bba8511da01?utm_source=freehire.me) — clera
 
-US-WA-Bellevue · Agentic AI · 2026-09-17T18:50:39Z  
-Role match: llm; Core match: llm
+San Francisco · RAG & Retrieval · 2026-09-20T17:44:36Z  
+Role match: ai engineer; Core match: llm
 
-### 41 · [Staff+ Software Engineer, Agentic Software Security](https://job-boards.greenhouse.io/verkada/jobs/5226046007?utm_source=freehire.me) — Verkada
+### 43 · [Senior Founding AI Engineer](https://jobs.ashbyhq.com/clera/71a4ac4a-6b77-4547-bb14-6996c20edefa?utm_source=freehire.me) — clera
 
-San Mateo, CA United States · Agentic AI · 2026-09-10T21:49:30Z  
-Role match: agentic; Core match: agentic ai
+San Francisco · GenAI / LLM · 2026-09-20T17:15:20Z  
+Role match: ai engineer; Core match: llm
 
