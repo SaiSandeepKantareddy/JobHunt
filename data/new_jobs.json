@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-26T01:35:47+00:00",
+  "generated_at": "2026-09-27T01:28:40+00:00",
   "source": "freehire.me public API",
-  "count": 109,
-  "new_count": 8,
+  "count": 103,
+  "new_count": 2,
   "warnings": [],
   "jobs": [
     {
-      "id": "senior-manager-applied-ai-thermo-fisher-scientific-y74yhwtb",
-      "title": "Senior Manager, Applied AI",
-      "company": "Thermo Fisher Scientific",
-      "location": "Remote, North Carolina, USA",
+      "id": "principal-machine-learning-engineer-amgen-rswnxeel",
+      "title": "Principal Machine Learning Engineer",
+      "company": "Amgen",
+      "location": "United States - Remote",
       "work_mode": "remote",
       "posted_at": "2026-09-25T00:00:00Z",
-      "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Senior-Manager--Applied-AI_R-01368757?utm_source=freehire.me",
+      "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Principal-Machine-Learning-Engineer_R-256661?utm_source=freehire.me",
       "source": "workday",
       "countries": [
         "us"
@@ -20,354 +20,88 @@
       "regions": [
         "north_america"
       ],
-      "family": "Agentic AI",
-      "score": 67,
+      "family": "GenAI / LLM",
+      "score": 72,
       "why": [
-        "Role match: applied ai",
-        "Core match: generative ai, large language model, rag, retrieval augmented generation, agentic ai",
+        "Role match: machine learning",
+        "Core match: generative ai, genai, llm, rag, langchain",
         "Stack match: python, azure, aws",
         "Remote US/North America — verify eligibility"
       ],
       "skills": [
-        "agentic-ai",
+        "agile",
         "ai",
         "api",
-        "automation",
         "aws",
         "azure",
         "cloud",
-        "data-governance",
-        "data-pipelines",
+        "containerization",
+        "data-ingestion",
         "data-quality",
         "data-science",
-        "gcp",
-        "generative-ai",
-        "llm",
-        "machine-learning",
-        "observability",
-        "python",
-        "rag",
-        "regulatory-compliance",
-        "solution-design"
-      ],
-      "description": "*Work Schedule* Standard (Mon-Fri) *Environmental Conditions* Office *Job Description* Today, biotech and biopharmaceutical companies face significant challenges in drug development. At Clinical Research Group (CRG), part of Thermo Fisher Scientific, our Drug Development Digital Solutions are transforming clinical research through purpose-built, CRO-owned technology integrated across the clinical development journey. Our AI-enabled solutions help enable faster study startups, smarter site selection, cleaner data, greater transparency and streamlined regulatory compliance. We are seeking a *Senior Manager, Applied AI* to provide technical and …",
-      "experience_years_min": 7,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "member-of-technical-staff-backend-product-goaly-st5tf7ed",
-      "title": "Founding Senior Applied AI Engineer",
-      "company": "Goaly",
-      "location": "Palo Alto, CA, USA",
-      "work_mode": "onsite",
-      "posted_at": "2026-09-24T23:04:02Z",
-      "url": "https://jobs.ashbyhq.com/goaly/70f6bbdd-e300-4a47-9875-ba2dfa4ded18?utm_source=freehire.me",
-      "source": "ashby",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "Agentic AI",
-      "score": 60,
-      "why": [
-        "Role match: ai engineer, applied ai",
-        "Core match: llm, mcp",
-        "Stack match: python, model serving, fine-tuning",
-        "Target relocation market: TX, CA, or WA"
-      ],
-      "skills": [
-        "agentic-ai",
-        "ai",
-        "api",
-        "api-documentation",
-        "cloud",
+        "deep-learning",
+        "devops",
         "docker",
-        "fine-tuning",
-        "interaction-design",
-        "linux",
-        "llm",
-        "machine-learning",
-        "mcp",
-        "python",
-        "rust",
-        "typescript"
-      ],
-      "description": "---------- *About us* ---------- *We’re building toward a world where every company can become its own AI lab.* Goaly is a stealth AI startup founded by ex-Meta Superintelligence Labs engineers and researchers. Our mission is to dramatically lower the cost, time, and talent barriers to building proprietary AI — and make each generation of models faster and cheaper to build than the last. Backed by leading AI investors and endorsed by frontier AI researchers and builders, we’re looking for exceptional new grads who want to work on hard, foundational AI systems problems with outsized ownership from day one. -------------- About the role -------…",
-      "experience_years_min": 5,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "sr-ai-ml-engineer-remote-nationwide-or-office-based-in-mn-dc-unitedhealth-group-5vm23g2n",
-      "title": "Sr AI/ML Engineer Remote Nationwide or Office-Based in MN/DC",
-      "company": "UnitedHealth Group",
-      "location": "Tempe, Arizona, United States",
-      "work_mode": "remote",
-      "posted_at": "2026-09-25T00:00:00Z",
-      "url": "https://careers.unitedhealthgroup.com/job/tempe/sr-ai-ml-engineer-remote-nationwide-or-office-based-in-mn-dc/34088/101133711504?utm_source=freehire.me",
-      "source": "radancy",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "AI / ML Platform",
-      "score": 56,
-      "why": [
-        "Role match: ml engineer",
-        "Core match: generative ai, llm",
-        "Stack match: python, databricks, azure, aws, nlp",
-        "Remote US/North America — verify eligibility"
-      ],
-      "skills": [
-        "ai",
-        "analytics",
-        "automation",
-        "aws",
-        "azure",
-        "ci-cd",
-        "cloud",
-        "cybersecurity",
-        "data-analytics",
-        "data-engineering",
-        "data-pipelines",
-        "databricks",
-        "distributed-computing",
+        "feature-engineering",
         "gcp",
         "generative-ai",
-        "llm",
-        "machine-learning",
-        "mlops",
-        "nlp",
-        "pyspark"
+        "github",
+        "github-actions",
+        "java",
+        "kubeflow"
       ],
-      "description": "Optum Tech is a global leader in health care innovation. Our teams develop cutting-edge solutions that help people live healthier lives and help make the health system work better for everyone. From advanced data analytics and AI to cybersecurity, we use innovative approaches to solve some of health care's most complex challenges. Your contributions here have the potential to change lives. Ready to build the next breakthrough? Join us to start *Caring. Connecting. Growing together.* The Sr AI/ML Engineer will design, develop, deploy, and support enterprise AI/ML solutions that improve clinical outcomes, patient engagement, operational efficie…",
+      "description": "----------------- *Career Category* ----------------- Information Systems ----------------- *Job Description* ----------------- ---------------------------------------- Join Amgen’s Mission of Serving Patients ---------------------------------------- At Amgen, if you feel like you’re part of something bigger, it’s because you are. Our shared mission—to serve patients living with serious illnesses—drives all that we do. Since 1980, we’ve helped pioneer the world of biotech in our fight against the world’s toughest diseases. With our focus on four therapeutic areas –Oncology, Inflammation, General Medicine, and Rare Disease– we reach millions o…",
       "experience_years_min": 2,
       "salary": null,
       "is_new": true
     },
     {
-      "id": "senior-software-engineer-ai-platform-color-health-kfclyxpv",
-      "title": "Senior Software Engineer, AI Platform ",
-      "company": "color-health",
-      "location": "South San Francisco, California",
-      "work_mode": "onsite",
-      "posted_at": "2026-09-25T23:09:59Z",
-      "url": "https://jobs.ashbyhq.com/color-health/95471eaa-cf5d-4225-9971-c8eef10d7af3?utm_source=freehire.me",
-      "source": "ashby",
+      "id": "lead-software-engineer-java-python-ai-llm-jp-morgan-chase-gnkhia5a",
+      "title": "Lead Software Engineer - Java, Python, AI/LLM",
+      "company": "JP Morgan Chase",
+      "location": "Plano, TX, United States",
+      "work_mode": "not specified",
+      "posted_at": "2026-09-24T00:00:00Z",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210755650?utm_source=freehire.me",
+      "source": "oracle",
       "countries": [
         "us"
       ],
       "regions": [
         "north_america"
       ],
-      "family": "AI / ML Platform",
-      "score": 53,
+      "family": "GenAI / LLM",
+      "score": 65,
       "why": [
-        "Role match: ai platform",
-        "Core match: llm, rag, ai agent",
-        "Stack match: python",
+        "Role match: llm",
+        "Core match: generative ai, llm, rag",
+        "Stack match: python, pytorch, tensorflow, kubernetes, azure",
         "Target relocation market: TX, CA, or WA"
       ],
       "skills": [
         "agentic-ai",
+        "agile",
         "ai",
         "api",
-        "cloud",
-        "llm",
-        "model-evaluation",
-        "observability",
-        "prompt-engineering",
-        "python",
-        "react",
-        "risk-assessment",
-        "typescript",
-        "wifi"
-      ],
-      "description": "Color is revolutionizing cancer care with the nation’s first Virtual Cancer Clinic, delivering high-quality, physician-led multidisciplinary care across all 50 states. Our innovative, guideline-based approach spans cancer screening, risk assessment, prevention, diagnosis, treatment support, and survivorship. In addition to personalized direct medical care, our services include cancer genetics risk assessment, nutrition, mental health support and at-home cancer screening diagnostics. Using technology-driven, patient-centric solutions, Color is transforming how employers, unions, health plans, and governments address cancer. Color’s goal is to …",
-      "experience_years_min": 5,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "2026-senior-machine-learning-engineer-systems-embodied-ai-npcs-ml-platform-phd-early-career-roblox-vhgtupcd",
-      "title": "[2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career",
-      "company": "Roblox",
-      "location": "San Mateo, CA, United States",
-      "work_mode": "not specified",
-      "posted_at": "2026-09-25T16:11:53Z",
-      "url": "https://careers.roblox.com/jobs/8027588?gh_jid=8027588&utm_source=freehire.me",
-      "source": "greenhouse",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "AI / ML Platform",
-      "score": 50,
-      "why": [
-        "Role match: machine learning, ml platform",
-        "Stack match: kubernetes, azure, aws",
-        "Target relocation market: TX, CA, or WA"
-      ],
-      "skills": [
-        "agentic-ai",
-        "ai",
+        "automation",
         "aws",
         "azure",
+        "ci-cd",
         "cloud",
-        "data-pipelines",
-        "deep-learning",
-        "gcp",
-        "kubernetes",
-        "llm",
-        "machine-learning",
-        "quantization",
-        "statistics"
-      ],
-      "description": "Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences– all created by our global community of developers and creators. At Roblox, we’re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in the world, and on any device. ** We’re on a mission to connect a billion people with optimism and civility, and looking for amazing talent to help us get there. A career at Roblox means you’ll be working to shape the future of human …",
-      "experience_years_min": null,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "staff-software-engineer-agentic-ads-replit-syk3weac",
-      "title": " Staff Software Engineer, Agentic Ads ",
-      "company": "Replit",
-      "location": "Foster City, CA",
-      "work_mode": "hybrid",
-      "posted_at": "2026-09-25T21:51:41Z",
-      "url": "https://jobs.ashbyhq.com/replit/4df82fb0-0bcb-4034-89ce-09e679b00fe7?utm_source=freehire.me",
-      "source": "ashby",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "Agentic AI",
-      "score": 43,
-      "why": [
-        "Role match: agentic",
-        "Core match: llm",
-        "Stack match: distributed systems",
-        "Target relocation market: TX, CA, or WA"
-      ],
-      "skills": [
-        "agentic-ai",
-        "ai",
-        "ai-enablement",
-        "api",
-        "authentication",
-        "automation",
-        "data-modeling",
-        "data-quality",
+        "cloud-native",
         "distributed-systems",
-        "llm",
-        "machine-learning",
-        "marketing-automation",
-        "observability",
-        "recommendation-systems"
+        "docker",
+        "ecs",
+        "eks",
+        "event-driven-architecture",
+        "gcp",
+        "generative-ai",
+        "helm",
+        "huggingface",
+        "java"
       ],
-      "description": "Replit is the agentic software creation platform that enables anyone to build applications using natural language. With millions of users worldwide, Replit is democratizing software development by removing traditional barriers to application creation. ---------------- *About the role:* ---------------- Help turn “I built a business” into “I have customers.” As a Staff Software Engineer on Replit’s Money team, you’ll help shape Agentic Ads: an emerging area focused on using AI to make customer acquisition more accessible to businesses built on Replit. This role focuses on intelligent, advertiser-facing software—not ad-serving infrastructure, a…",
-      "experience_years_min": null,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "principal-machine-learning-engineer-bjakcareer-wnmmv6wj",
-      "title": "Principal Machine Learning Engineer",
-      "company": "bjakcareer",
-      "location": "China",
-      "work_mode": "remote",
-      "posted_at": "2026-09-25T02:11:21Z",
-      "url": "https://jobs.ashbyhq.com/bjakcareer/ead64d32-bc8a-43da-8b1a-93019cd2725f?utm_source=freehire.me",
-      "source": "ashby",
-      "countries": [
-        "cn",
-        "gb",
-        "id",
-        "kr",
-        "sg",
-        "us"
-      ],
-      "regions": [
-        "apac",
-        "north_america",
-        "uk"
-      ],
-      "family": "Machine Learning",
-      "score": 42,
-      "why": [
-        "Role match: machine learning",
-        "Stack match: python, pytorch, fine-tuning",
-        "Remote US/North America — verify eligibility"
-      ],
-      "skills": [
-        "ai",
-        "data-pipelines",
-        "fine-tuning",
-        "jax",
-        "machine-learning",
-        "python",
-        "pytorch"
-      ],
-      "description": "---------------- *About the Role* ---------------- There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting. Our product focuses on achieving high reliability for long-running workflows, persistent context, and real-world task completion. We believe products will greatly reduce hallucinations Our objective is to organise anyone's life, allowing us all to spen…",
-      "experience_years_min": null,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "senior-machine-learning-engineer-bjakcareer-6xdc5s4s",
-      "title": "Senior Machine Learning Engineer",
-      "company": "bjakcareer",
-      "location": "United States",
-      "work_mode": "remote",
-      "posted_at": "2026-09-25T02:24:26Z",
-      "url": "https://jobs.ashbyhq.com/bjakcareer/2fddb7f2-3231-4c6f-b21c-3d69c3f353a7?utm_source=freehire.me",
-      "source": "ashby",
-      "countries": [
-        "ch",
-        "cn",
-        "de",
-        "es",
-        "gb",
-        "ie",
-        "kr",
-        "pl",
-        "pt",
-        "se",
-        "sg",
-        "us"
-      ],
-      "regions": [
-        "apac",
-        "eu",
-        "north_america",
-        "uk"
-      ],
-      "family": "Machine Learning",
-      "score": 40,
-      "why": [
-        "Role match: machine learning",
-        "Stack match: python, pytorch",
-        "Remote US/North America — verify eligibility"
-      ],
-      "skills": [
-        "ai",
-        "data-pipelines",
-        "jax",
-        "machine-learning",
-        "python",
-        "pytorch"
-      ],
-      "description": "*About ActAI* ------------- There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting. Our product focuses on achieving high reliability for long-running workflows, persistent context, and real-world task completion. We believe products will greatly reduce hallucinations. Our objective is to organise anyone's life, allowing us all to spend time on valuable and…",
-      "experience_years_min": null,
+      "description": "We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible. As a Lead Software Engineer at JPMorganChase within the Consumer & Community Banking, you are an integral part of an agile team that works to enhance, build, and deliver trusted market-leading technology products in a secure, stable, and scalable way. As a core technical contributor, you are responsible for conducting critical technology solutions across multiple technical areas within various business functions in support of the firm’s business objectives. *Job responsibilities:* * Design and develop creative full-stack sof…",
+      "experience_years_min": 5,
       "salary": null,
       "is_new": true
     }
