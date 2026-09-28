@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-27T01:28:40+00:00",
+  "generated_at": "2026-09-28T01:41:19+00:00",
   "source": "freehire.me public API",
-  "count": 103,
-  "new_count": 2,
+  "count": 104,
+  "new_count": 6,
   "warnings": [],
   "jobs": [
     {
-      "id": "principal-machine-learning-engineer-amgen-rswnxeel",
-      "title": "Principal Machine Learning Engineer",
-      "company": "Amgen",
-      "location": "United States - Remote",
+      "id": "lead-ai-ml-engineer-slate-auto-bidzrgs5",
+      "title": "Lead AI/ML Engineer",
+      "company": "Slate Auto",
+      "location": "Remote",
       "work_mode": "remote",
       "posted_at": "2026-09-25T00:00:00Z",
-      "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Principal-Machine-Learning-Engineer_R-256661?utm_source=freehire.me",
+      "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Remote/Senior-AI-ML-Engineer_JR101394?utm_source=freehire.me",
       "source": "workday",
       "countries": [
         "us"
@@ -20,88 +20,244 @@
       "regions": [
         "north_america"
       ],
-      "family": "GenAI / LLM",
-      "score": 72,
+      "family": "Agentic AI",
+      "score": 73,
       "why": [
-        "Role match: machine learning",
-        "Core match: generative ai, genai, llm, rag, langchain",
-        "Stack match: python, azure, aws",
+        "Role match: ml engineer",
+        "Core match: generative ai, genai, llm, rag, embeddings",
+        "Stack match: python, pytorch, azure, aws, fine-tuning",
         "Remote US/North America — verify eligibility"
       ],
       "skills": [
-        "agile",
+        "agentic-ai",
         "ai",
+        "anthropic",
         "api",
         "aws",
         "azure",
         "cloud",
-        "containerization",
-        "data-ingestion",
-        "data-quality",
-        "data-science",
-        "deep-learning",
-        "devops",
-        "docker",
-        "feature-engineering",
+        "computer-vision",
+        "data-pipelines",
+        "embeddings",
+        "fine-tuning",
         "gcp",
         "generative-ai",
-        "github",
-        "github-actions",
-        "java",
-        "kubeflow"
+        "huggingface",
+        "jax",
+        "llm",
+        "machine-learning",
+        "mlops",
+        "nlp",
+        "openai"
       ],
-      "description": "----------------- *Career Category* ----------------- Information Systems ----------------- *Job Description* ----------------- ---------------------------------------- Join Amgen’s Mission of Serving Patients ---------------------------------------- At Amgen, if you feel like you’re part of something bigger, it’s because you are. Our shared mission—to serve patients living with serious illnesses—drives all that we do. Since 1980, we’ve helped pioneer the world of biotech in our fight against the world’s toughest diseases. With our focus on four therapeutic areas –Oncology, Inflammation, General Medicine, and Rare Disease– we reach millions o…",
-      "experience_years_min": 2,
+      "description": "*ABOUT SLATE* At Slate, we’re building safe, reliable vehicles that people can afford, personalize and love—and doing it here in the USA as part of our commitment to reindustrialization. The spirit of DIY and customization runs throughout every element of a Slate, because people should have control over how their trucks look, feel, and represent them. ------------------- *Position Overview* ------------------- Slate Automotive is building an AI-native vehicle platform from the ground up. This role is for an engineer ready to work on real AI/ML problems in production: GenAI features, data pipelines, and AI applied to manufacturing and supply c…",
+      "experience_years_min": 5,
       "salary": null,
       "is_new": true
     },
     {
-      "id": "lead-software-engineer-java-python-ai-llm-jp-morgan-chase-gnkhia5a",
-      "title": "Lead Software Engineer - Java, Python, AI/LLM",
-      "company": "JP Morgan Chase",
-      "location": "Plano, TX, United States",
-      "work_mode": "not specified",
-      "posted_at": "2026-09-24T00:00:00Z",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210755650?utm_source=freehire.me",
-      "source": "oracle",
+      "id": "lead-ai-ml-engineer-remote-unitedhealth-group-ub6vf7wm",
+      "title": "Lead AI/ML Engineer - Remote",
+      "company": "UnitedHealth Group",
+      "location": "Eden Prairie, Minnesota, United States",
+      "work_mode": "remote",
+      "posted_at": "2026-09-22T00:00:00Z",
+      "url": "https://careers.unitedhealthgroup.com/job/eden-prairie/lead-ai-ml-engineer-remote/34088/100404887648?utm_source=freehire.me",
+      "source": "radancy",
       "countries": [
         "us"
       ],
       "regions": [
         "north_america"
       ],
-      "family": "GenAI / LLM",
-      "score": 65,
+      "family": "Agentic AI",
+      "score": 55,
       "why": [
-        "Role match: llm",
-        "Core match: generative ai, llm, rag",
-        "Stack match: python, pytorch, tensorflow, kubernetes, azure",
+        "Role match: ml engineer",
+        "Core match: generative ai, agentic ai, langgraph",
+        "Stack match: python, distributed systems",
+        "Remote US/North America — verify eligibility"
+      ],
+      "skills": [
+        "agentic-ai",
+        "ai",
+        "analytics",
+        "angular",
+        "api",
+        "automation",
+        "cloud",
+        "cloud-native",
+        "cybersecurity",
+        "data-analytics",
+        "data-pipelines",
+        "distributed-systems",
+        "event-driven-architecture",
+        "generative-ai",
+        "java",
+        "kafka",
+        "langgraph",
+        "llm",
+        "machine-learning",
+        "mlops"
+      ],
+      "description": "Optum Tech is a global leader in health care innovation. Our teams develop cutting-edge solutions that help people live healthier lives and help make the health system work better for everyone. From advanced data analytics and AI to cybersecurity, we use innovative approaches to solve some of health care's most complex challenges. Your contributions here have the potential to change lives. Ready to build the next breakthrough? Join us to start *Caring. Connecting. Growing together.* ** We are seeking a highly experienced and innovative Lead AI/ML Engineer to lead the design, development, and evolution of next-generation AI, Machine Learning, …",
+      "experience_years_min": 4,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "staff-machine-learning-engineer-unity-x3zj5jxl",
+      "title": "Staff Machine Learning Engineer",
+      "company": "Unity",
+      "location": "Mountain View, CA, USA",
+      "work_mode": "not specified",
+      "posted_at": "2026-09-25T00:00:00Z",
+      "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Mountain-View-CA-USA/Senior-Machine-Learning-Engineer_JOBREQ-2616280?utm_source=freehire.me",
+      "source": "workday",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Agentic AI",
+      "score": 50,
+      "why": [
+        "Role match: machine learning",
+        "Core match: llm, multi-agent",
+        "Stack match: python, multimodal",
         "Target relocation market: TX, CA, or WA"
       ],
       "skills": [
         "agentic-ai",
-        "agile",
         "ai",
-        "api",
-        "automation",
-        "aws",
-        "azure",
-        "ci-cd",
-        "cloud",
-        "cloud-native",
-        "distributed-systems",
-        "docker",
-        "ecs",
-        "eks",
-        "event-driven-architecture",
-        "gcp",
-        "generative-ai",
-        "helm",
-        "huggingface",
-        "java"
+        "analytics",
+        "bigquery",
+        "causal-inference",
+        "clickhouse",
+        "data-ingestion",
+        "kafka",
+        "llm",
+        "machine-learning",
+        "pgvector",
+        "postgresql",
+        "python",
+        "time-series",
+        "unity"
       ],
-      "description": "We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible. As a Lead Software Engineer at JPMorganChase within the Consumer & Community Banking, you are an integral part of an agile team that works to enhance, build, and deliver trusted market-leading technology products in a secure, stable, and scalable way. As a core technical contributor, you are responsible for conducting critical technology solutions across multiple technical areas within various business functions in support of the firm’s business objectives. *Job responsibilities:* * Design and develop creative full-stack sof…",
-      "experience_years_min": 5,
+      "description": "----------------- *The opportunity* ----------------- Unity is building next-generation intelligence systems for gaming: systems that help AI-native teams understand the market and get the most out of the frontier models. We are hiring a Staff Machine Learning Engineer to lead this effort. You will own the end-to-end architecture, build pipelines, systems, and models, and scale a cross-disciplinary team of engine developers, game developers, and machine learning engineers. The work spans market forecasting, outcome prediction, multimodal content understanding, evaluation, and agentic systems. ---------------------- *What you'll be doing* ----…",
+      "experience_years_min": null,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "senior-machine-learning-engineer-ads-modeling-unity-5jh3tacl",
+      "title": "Senior Machine Learning Engineer, Ads Modeling",
+      "company": "Unity",
+      "location": "Mountain View, CA, USA",
+      "work_mode": "not specified",
+      "posted_at": "2026-09-25T00:00:00Z",
+      "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Mountain-View-CA-USA/Senior-Machine-Learning-Engineer--Ads-Modeling_JOBREQ-2616599?utm_source=freehire.me",
+      "source": "workday",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Machine Learning",
+      "score": 40,
+      "why": [
+        "Role match: machine learning",
+        "Stack match: python, pytorch",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "ai",
+        "analytics",
+        "deep-learning",
+        "distributed-computing",
+        "machine-learning",
+        "python",
+        "pytorch",
+        "unity"
+      ],
+      "description": "*The Opportunity* Unity Vector represents the next generation of our AI-powered advertising ecosystem, a forward-looking evolution of our machine learning infrastructure and models. We are seeking a Senior Machine Learning Engineer to join our Vector Ads Modeling team. In this role, you will work with a high-performing high-impact team to advance ads recommendation algorithms to deliver personalized ads experience. *What you’ll be doing* * Understand ads business, including product offering, advertisers goals, ads serving funnel, and rich real-time and dynamic user interaction data. * Drive foundational research for new models and paradigms. …",
+      "experience_years_min": null,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "principal-machine-learning-engineer-ads-modeling-unity-zgrihxii",
+      "title": "Principal Machine Learning Engineer, Ads Modeling",
+      "company": "Unity",
+      "location": "Mountain View, CA, USA",
+      "work_mode": "not specified",
+      "posted_at": "2026-09-25T00:00:00Z",
+      "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Mountain-View-CA-USA/Principal-Machine-Learning-Engineer--Ads-Modeling_JOBREQ-2616596?utm_source=freehire.me",
+      "source": "workday",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Machine Learning",
+      "score": 40,
+      "why": [
+        "Role match: machine learning",
+        "Stack match: python, pytorch",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "ai",
+        "analytics",
+        "deep-learning",
+        "distributed-computing",
+        "machine-learning",
+        "python",
+        "pytorch",
+        "unity"
+      ],
+      "description": "*The Opportunity* Unity Vector represents the next generation of our AI-powered advertising ecosystem, a forward-looking evolution of our machine learning infrastructure and models. We are seeking a Principal Machine Learning Engineer to join our Vector Ads Modeling team. In this role, you will work with a high-performing high-impact team to advance ads recommendation algorithms to deliver personalized ads experience. *What you’ll be doing* * Identity opportunities and design modeling roadmap that addresses customer needs. * Drive foundational research for new models and paradigms. * Leverage rich user data and large-scale compute to validate…",
+      "experience_years_min": null,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "staff-machine-learning-engineer-ads-modeling-unity-sl3ir3kp",
+      "title": "Staff Machine Learning Engineer, Ads Modeling",
+      "company": "Unity",
+      "location": "Mountain View, CA, USA",
+      "work_mode": "not specified",
+      "posted_at": "2026-09-25T00:00:00Z",
+      "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Mountain-View-CA-USA/Staff-Machine-Learning-Engineer--Ads-Modeling_JOBREQ-2616598?utm_source=freehire.me",
+      "source": "workday",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Machine Learning",
+      "score": 40,
+      "why": [
+        "Role match: machine learning",
+        "Stack match: python, pytorch",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "ai",
+        "analytics",
+        "deep-learning",
+        "distributed-computing",
+        "machine-learning",
+        "python",
+        "pytorch",
+        "unity"
+      ],
+      "description": "*The Opportunity* Unity Vector represents the next generation of our AI-powered advertising ecosystem, a forward-looking evolution of our machine learning infrastructure and models. We are seeking a Staff Machine Learning Engineer to join our Vector Ads Modeling team. In this role, you will work with a high-performing high-impact team to advance ads recommendation algorithms to deliver personalized ads experience. *What you’ll be doing* * Identity opportunities and design modeling roadmap that addresses customer needs. * Drive foundational research for new models and paradigms. * Leverage rich user data and large-scale compute to validate mod…",
+      "experience_years_min": null,
       "salary": null,
       "is_new": true
     }
