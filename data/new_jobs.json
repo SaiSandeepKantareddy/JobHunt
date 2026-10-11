@@ -1,158 +1,19 @@
 {
-  "generated_at": "2026-10-10T02:21:23+00:00",
+  "generated_at": "2026-10-11T01:55:35+00:00",
   "source": "freehire.me public API",
-  "count": 124,
-  "new_count": 8,
+  "count": 123,
+  "new_count": 2,
   "warnings": [],
   "jobs": [
     {
-      "id": "senior-engineering-manager-generative-ai-engineering-consumer-technology-wells-fargo-ksok52ok",
-      "title": "Senior Engineering Manager, Generative AI Engineering – Consumer Technology",
-      "company": "Wells Fargo",
-      "location": "CONCORD, CA",
+      "id": "sr-machine-learning-engineer-hybrid-schedule-10-12-onsite-a-month-in-los-angeles-energy-jobline-zr-42xesctt",
+      "title": "Sr. Machine Learning Engineer - Hybrid schedule (10-12 onsite a month) in Los Angeles",
+      "company": "Energy Jobline ZR",
+      "location": "Los Angeles, US",
       "work_mode": "hybrid",
-      "posted_at": "2026-10-09T00:00:00Z",
-      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CONCORD-CA/Senior-Engineering-Manager--Generative-AI-Engineering---Consumer-Technology_R-580799?utm_source=freehire.me",
-      "source": "workday",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "RAG & Retrieval",
-      "score": 74,
-      "why": [
-        "Role match: generative ai",
-        "Core match: generative ai, genai, llm, rag, retrieval augmented generation",
-        "Stack match: kubernetes, azure, aws",
-        "Target relocation market: TX, CA, or WA"
-      ],
-      "skills": [
-        "agentic-ai",
-        "ai",
-        "api",
-        "aws",
-        "azure",
-        "cloud",
-        "cybersecurity",
-        "data-governance",
-        "gcp",
-        "generative-ai",
-        "kubernetes",
-        "langgraph",
-        "llm",
-        "llmops",
-        "mcp",
-        "microservices",
-        "observability",
-        "openshift",
-        "prompt-engineering",
-        "prototyping"
-      ],
-      "description": "*About this role:* Wells Fargo is seeking a Senior Engineering Manager to lead Generative AI Engineering for Consumer Technology. You will build the GenAI platform and reusable capabilities that allow Consumer Technology teams to deliver AI-powered experiences safely and at scale, and you will lead a team of Forward Deployed Engineers (FDEs) who embed with business and product partners to take high-value GenAI use cases from discovery to production. You will also drive GenAI adoption and measurable developer productivity gains across Consumer Technology engineering. Reporting to Vivek Pooyath, Technology Executive, this is a hands-on leadersh…",
-      "experience_years_min": 3,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "senior-ai-engineer-futurefitai-p4vtgt5n",
-      "title": "Senior AI Engineer",
-      "company": "futurefitai",
-      "location": "Remote (North America)",
-      "work_mode": "remote",
-      "posted_at": "2026-10-09T17:41:43Z",
-      "url": "https://jobs.ashbyhq.com/futurefitai/dd73b48c-c680-4949-996d-8027890ca4c6?utm_source=freehire.me",
-      "source": "ashby",
-      "countries": [],
-      "regions": [
-        "north_america"
-      ],
-      "family": "Agentic AI",
-      "score": 72,
-      "why": [
-        "Role match: ai engineer",
-        "Core match: llm, rag, retrieval augmented generation, vector search, langchain",
-        "Stack match: python, aws, nlp",
-        "Remote US/North America — verify eligibility"
-      ],
-      "skills": [
-        "agentic-ai",
-        "ai",
-        "airflow",
-        "api",
-        "aws",
-        "cad",
-        "cloud",
-        "data-engineering",
-        "dbt",
-        "langchain",
-        "langgraph",
-        "llm",
-        "looker",
-        "machine-learning",
-        "mongodb",
-        "nlp",
-        "postgresql",
-        "prompt-engineering",
-        "python",
-        "rag"
-      ],
-      "description": "-------------------------- *Come join our Data team!* -------------------------- *High velocity, high trust, and high impact with a will to win.* If that resonates deeply with you, this could be your next career move. We're seeking someone who leads with humility, pursues audacious goals, and is motivated by meaningful impact on people and the world. At FutureFit AI, our core mission is to help more people get to better jobs faster and cheaper, with a specific focus on those facing barriers to opportunity. Our work helps resolve the growing issue of economic inequality, ensuring that no one is left behind in the future of work. Our AI-powered…",
-      "experience_years_min": 5,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "principal-ai-engineer-qualified-health-pbc-rrhxwu2n",
-      "title": "Principal AI Engineer",
-      "company": "qualified-health-pbc",
-      "location": "Palo Alto - Hybrid",
-      "work_mode": "hybrid",
-      "posted_at": "2026-10-09T22:05:02Z",
-      "url": "https://jobs.ashbyhq.com/qualified-health-pbc/13170679-e4fb-4233-be9e-77a2cd14dc95?utm_source=freehire.me",
-      "source": "ashby",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "Agentic AI",
-      "score": 53,
-      "why": [
-        "Role match: ai engineer",
-        "Core match: generative ai, llm, agentic ai",
-        "Stack match: python",
-        "Target relocation market: TX, CA, or WA"
-      ],
-      "skills": [
-        "agentic-ai",
-        "ai",
-        "anthropic",
-        "automation",
-        "generative-ai",
-        "llm",
-        "mistral",
-        "mlops",
-        "model-deployment",
-        "openai",
-        "python"
-      ],
-      "description": "------------------------------- *Transform healthcare with us.* ------------------------------- At Qualified Health, we're redefining what's possible with Generative AI in healthcare. Our infrastructure provides the guardrails for safe AI governance, healthcare-specific agent creation, and real-time algorithm monitoring—working alongside leading health systems to drive real change. This is more than just a job. It's an opportunity to build the future of AI in healthcare, solve complex challenges, and make a lasting impact on patient care. If you're ambitious, innovative, and ready to move fast, we'd love to have you on board. Join us in shapi…",
-      "experience_years_min": 4,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "senior-machine-learning-engineer-care-access-iw4b6zsz",
-      "title": "Senior Machine Learning Engineer",
-      "company": "Care Access",
-      "location": "USA Remote",
-      "work_mode": "remote",
-      "posted_at": "2026-10-09T20:21:24Z",
-      "url": "https://job-boards.greenhouse.io/careaccess/jobs/4443967009?utm_source=freehire.me",
-      "source": "greenhouse",
+      "posted_at": "2026-10-05T00:00:00Z",
+      "url": "https://www.energyjobline.com/job/sr-machine-learning-engineer-hybrid-schedule-los-angeles-31519003?utm_source=freehire.me",
+      "source": "energyjobline",
       "countries": [
         "us"
       ],
@@ -160,173 +21,46 @@
         "north_america"
       ],
       "family": "GenAI / LLM",
-      "score": 53,
+      "score": 65,
       "why": [
         "Role match: machine learning",
-        "Core match: llm",
-        "Stack match: python, pytorch, tensorflow, aws, model serving",
-        "Remote US/North America — verify eligibility"
-      ],
-      "skills": [
-        "ai",
-        "athena",
-        "automation",
-        "aws",
-        "ci-cd",
-        "clojure",
-        "cloud",
-        "containerization",
-        "data-ingestion",
-        "data-pipelines",
-        "dbt",
-        "docker",
-        "feature-engineering",
-        "llm",
-        "machine-learning",
-        "mlops",
-        "nlp",
-        "pandas",
-        "prefect",
-        "python"
-      ],
-      "description": "*About Care Access* Care Access is working to make the future of health better for all. *With hundreds of research locations, mobile clinics, and clinicians across the globe, we bring world-class research and health services directly to communities that often face barriers to care.* We are dedicated to ensuring that every person has the opportunity to understand their health, access the care they need, *and contribute to the medical breakthroughs of tomorrow.* With programs like Future of Medicine , which makes advanced health screenings and research opportunities accessible to communities worldwide, and Difference Makers , which supports loc…",
-      "experience_years_min": 5,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "principal-machine-learning-engineer-matching-recommendations-bumble-inc-a65utqnd",
-      "title": "Principal Machine Learning Engineer, Matching & Recommendations",
-      "company": "Bumble Inc.",
-      "location": "US TX Austin",
-      "work_mode": "onsite",
-      "posted_at": "2026-10-07T18:42:59Z",
-      "url": "https://jobs.ashbyhq.com/bumbleinc/4719095b-048c-4770-a8c8-16a8bd54f953?utm_source=freehire.me",
-      "source": "ashby",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "RAG & Retrieval",
-      "score": 53,
-      "why": [
-        "Role match: machine learning",
-        "Core match: mcp",
-        "Stack match: python, pytorch, tensorflow, fine-tuning, nlp",
+        "Core match: generative ai, genai, langchain",
+        "Stack match: python, pytorch, tensorflow, model serving, fine-tuning",
         "Target relocation market: TX, CA, or WA"
       ],
       "skills": [
-        "ab-testing",
-        "agentic-ai",
         "agile",
         "ai",
-        "airflow",
-        "analytics",
-        "candidate-experience",
+        "ci-cd",
         "data-science",
-        "distributed-systems",
+        "devops",
         "fine-tuning",
-        "llm",
+        "generative-ai",
+        "langchain",
         "machine-learning",
-        "mcp",
+        "model-deployment",
         "nlp",
+        "onnx",
         "python",
         "pytorch",
-        "recommendation-systems",
-        "spark",
-        "tensorflow"
+        "quantization",
+        "scikit-learn",
+        "tensorflow",
+        "triton"
       ],
-      "description": "At Bumble, we’re building the Love Company — a place where healthy, equitable relationships and friendships can start and grow. Machine Learning sits at the heart of that mission, helping us understand what makes a meaningful connection and powering the matching, recommendation, and personalization experiences that bring people together. As our *Principal Machine Learning Engineer, Matching & Recommendations* , you’ll help define the technical and ML strategy behind the next generation of Bumble’s recommendation systems. You’ll remain hands-on while tackling complex problems across *retrieval, ranking, personalization, experimentation, and tw…",
-      "experience_years_min": 10,
+      "description": "Job DescriptionJob DescriptionWe are hiring Sr. Machine Learning Engineer - Hybrid schedule (10-12 onsite a month) for a Full Time position in Los Angeles or NYC, CA Sr. Machine Learning Engineer About the Role The Senior Machine Learning Engineer is an integral part of the Technology & Information Services team. This role will be responsible for the design, deployment, and optimization of custom workflows using classical machine learning (ML), Natural Processing (NLP), and Generative AI techniques to enhance legal and business processes, while designing, building, and optimizing custom machine learning models and workflows to optimize legal …",
+      "experience_years_min": null,
       "salary": null,
       "is_new": true
     },
     {
-      "id": "senior-applied-ai-engineer-clera-d7divgxw",
-      "title": "Senior Applied AI Engineer",
-      "company": "clera",
-      "location": "San Francisco",
-      "work_mode": "onsite",
-      "posted_at": "2026-10-10T00:43:36Z",
-      "url": "https://jobs.ashbyhq.com/clera/91213155-438e-4c9e-b8b7-4cffcfa02248?utm_source=freehire.me",
-      "source": "ashby",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "RAG & Retrieval",
-      "score": 51,
-      "why": [
-        "Role match: ai engineer, applied ai",
-        "Core match: llm",
-        "Stack match: python",
-        "Target relocation market: TX, CA, or WA"
-      ],
-      "skills": [
-        "ai",
-        "llm",
-        "python"
-      ],
-      "description": "About the Role -------------- Own the agent infrastructure that helps AI systems execute tasks reliably, retain context, and involve people when needed. You will build and ship production systems, using real-world feedback to improve how agents plan, recover, and perform. What You'll Do -------------- * Build and maintain infrastructure for reliable agent execution across long-running, multi-step tasks. * Design memory and retrieval systems that work with messy operational data and preserve useful context over time. * Develop evaluation harnesses that teams can trust when deciding whether to deploy LLM systems. * Measure, test, debug, and imp…",
-      "experience_years_min": 3,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "sr-staff-machine-learning-systems-engineer-hims-038-hers-mxtd2xga",
-      "title": "Sr. Staff Machine Learning Systems Engineer",
-      "company": "hims &#038; hers",
-      "location": "USA",
+      "id": "principal-machine-learning-engineer-remote-amgen-a63rqbdm",
+      "title": "Principal Machine Learning Engineer - Remote",
+      "company": "Amgen",
+      "location": "United States - Remote",
       "work_mode": "remote",
-      "posted_at": "2026-10-09T13:31:15Z",
-      "url": "https://jobicy.com/jobs/154909-sr-staff-machine-learning-systems-engineer?utm_source=freehire.me",
-      "source": "jobicy",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "Machine Learning",
-      "score": 47,
-      "why": [
-        "Role match: machine learning",
-        "Core match: llm",
-        "Stack match: python, databricks, mlflow",
-        "Remote US/North America — verify eligibility"
-      ],
-      "skills": [
-        "ai",
-        "data-engineering",
-        "data-ingestion",
-        "data-pipelines",
-        "data-science",
-        "databricks",
-        "fintech",
-        "llm",
-        "machine-learning",
-        "mlflow",
-        "python",
-        "slack",
-        "unity"
-      ],
-      "description": "Hims & Hers is the leading health and wellness platform, on a mission to help the world feel great through the power of better health. We are redefining healthcare by putting the customer first and delivering access to care that is affordable, accessible, and personal, from diagnosis to treatment to delivery. No two people are the same, so we provide access to personalized care designed for results. By normalizing health & wellness challenges and innovating on their solutions, we’re making better health outcomes easier to achieve. Hims & Hers is a public company, traded on the NYSE under the ticker symbol “HIMS.” To learn more about the brand…",
-      "experience_years_min": 10,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "principal-machine-learning-engineer-aiswp-hybrid-cisco-yqxokvwn",
-      "title": "Principal Machine Learning Engineer,  AISWP (Hybrid)",
-      "company": "Cisco",
-      "location": "San Jose, California, US",
-      "work_mode": "not specified",
       "posted_at": "2026-10-08T00:00:00Z",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Principal-Machine-Learning-Engineer---AISWP--Hybrid-_2027863?utm_source=freehire.me",
+      "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Principal-Machine-Learning-Engineer---Remote_R-257061?utm_source=freehire.me",
       "source": "workday",
       "countries": [
         "us"
@@ -334,24 +68,38 @@
       "regions": [
         "north_america"
       ],
-      "family": "AI / ML Platform",
-      "score": 36,
+      "family": "Machine Learning",
+      "score": 50,
       "why": [
         "Role match: machine learning",
-        "Target relocation market: TX, CA, or WA"
+        "Core match: generative ai, retrieval augmented generation",
+        "Stack match: python, aws",
+        "Remote US/North America — verify eligibility"
       ],
       "skills": [
+        "agentic-ai",
         "ai",
         "api",
-        "cisco",
+        "aws",
+        "ci-cd",
         "cloud",
-        "networking",
+        "cloud-native",
+        "data-pipelines",
+        "devops",
+        "generative-ai",
+        "infrastructure-as-code",
+        "llm",
+        "machine-learning",
         "observability",
-        "rbac",
-        "saas"
+        "proof-of-concept",
+        "python",
+        "rag",
+        "terraform",
+        "test-automation",
+        "version-control"
       ],
-      "description": "The application window is expected to close on: 10/18/2026 ------------- Meet the Team ------------- AI Platform Group Office of the CTO: We are the Forward Deployed Engineering team for Cisco’s AI-native portfolio. Our mission is to accelerate the adoption of Cloud Control, AI Canvas, AI Studio, and AI Defense through a high-velocity, customer-led \"skunkworks\" model. We operate as Product Market Fit (PMF) Pathfinders. We embed with customers, understanding how they operate and what they actually use rather than mearly hypothesize. We are experimentalists, prototype builders, and trailblazers who ship, measure, and prove value through direct,…",
-      "experience_years_min": 8,
+      "description": "----------------- *Career Category* ----------------- Engineering ----------------- *Job Description* ----------------- ---------------------------------------- Join Amgen’s Mission of Serving Patients ---------------------------------------- At Amgen, if you feel like you’re part of something bigger, it’s because you are. Our shared mission—to serve patients living with serious illnesses—drives all that we do. Since 1980, we’ve helped pioneer the world of biotech in our fight against the world’s toughest diseases. Amgen is advancing a broad and deep pipeline and portfolio of medicines to treat heart disease, obesity and obesity-related condi…",
+      "experience_years_min": 2,
       "salary": null,
       "is_new": true
     }
