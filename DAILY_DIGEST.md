@@ -1,19 +1,29 @@
 # Daily AI/ML job shortlist
 
-Generated: 2026-10-11T01:55:35+00:00
-Matches: **123** · New since last run: **2**
+Generated: 2026-10-12T02:25:21+00:00
+Matches: **122** · New since last run: **4**
 
 Open `index.html` through a web server for filters and private browser-only tracking.
 
 ## Best new matches
 
-### 65 · [Sr. Machine Learning Engineer - Hybrid schedule (10-12 onsite a month) in Los Angeles](https://www.energyjobline.com/job/sr-machine-learning-engineer-hybrid-schedule-los-angeles-31519003?utm_source=freehire.me) — Energy Jobline ZR
+### 48 · [Sr. Machine Learning Engineer](https://unitytech.wd1.myworkdayjobs.com/Unity/job/Mountain-View-CA-USA/Sr-Machine-Learning-Engineer_JOBREQ-2616680?utm_source=freehire.me) — Unity
 
-Los Angeles, US · GenAI / LLM · 2026-10-05T00:00:00Z  
-Role match: machine learning; Core match: generative ai, genai, langchain
+Mountain View, CA, USA · AI / ML Platform · 2026-10-09T00:00:00Z  
+Role match: machine learning; Stack match: python, pytorch, kubernetes, aws, model serving
 
-### 50 · [Principal Machine Learning Engineer - Remote](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Principal-Machine-Learning-Engineer---Remote_R-257061?utm_source=freehire.me) — Amgen
+### 42 · [Principal Machine Learning Engineer (EO/IR Image Analysis)](https://job-boards.greenhouse.io/rocketlab/jobs/8025563003?utm_source=freehire.me) — Rocket Lab
 
-United States - Remote · Machine Learning · 2026-10-08T00:00:00Z  
-Role match: machine learning; Core match: generative ai, retrieval augmented generation
+Long Beach, CA · Machine Learning · 2026-10-11T23:37:52Z  
+Role match: machine learning; Stack match: python, pytorch, tensorflow
+
+### 42 · [Principal Machine Learning Engineer, Platform Integrity Engineering, Level 7](https://wd1.myworkdaysite.com/recruiting/snapchat/sourced/job/Bellevue-Washington/Principal-Machine-Learning-Engineer--Platform-Integrity-Engineering--Level-7_R0047141?utm_source=freehire.me) — snapchat
+
+Bellevue, Washington · Machine Learning · 2026-10-09T00:00:00Z  
+Role match: machine learning; Stack match: pytorch, tensorflow, multimodal
+
+### 42 · [Principal Machine Learning Engineer, Platform Integrity Engineering, Level 7](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Bellevue-Washington/Principal-Machine-Learning-Engineer--Platform-Integrity-Engineering--Level-7_R0047141-1?utm_source=freehire.me) — Snap
+
+Bellevue, Washington · Machine Learning · 2026-10-09T00:00:00Z  
+Role match: machine learning; Stack match: pytorch, tensorflow, multimodal
 
