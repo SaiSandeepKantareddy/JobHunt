@@ -1,94 +1,69 @@
 # Daily AI/ML job shortlist
 
-Generated: 2026-10-19T01:17:33+00:00
-Matches: **116** · New since last run: **17**
+Generated: 2026-10-20T01:51:13+00:00
+Matches: **121** · New since last run: **12**
 
 Open `index.html` through a web server for filters and private browser-only tracking.
 
 ## Best new matches
 
-### 74 · [Sr. Machine Learning Engineer](https://startup.jobs/sr-machine-learning-engineer-revionics-llc-8418256?utm_source=freehire.me) — Revionics LLC
+### 65 · [Lead AI Solutions Architect (Lead AI Engineer)](https://schoolsfirstfcu.wd115.myworkdayjobs.com/Careers/job/Sacramento-CA/Lead-AI-Solutions-Architect--Lead-AI-Engineer-_JR106410?utm_source=freehire.me) — schoolsfirstfcu
 
-United States · Agentic AI · 2026-10-18T11:10:57Z  
-Role match: machine learning; Core match: generative ai, llm, agentic ai, multi-agent, langchain
+Sacramento, CA · Agentic AI · 2026-10-19T00:00:00Z  
+Role match: ai engineer; Core match: generative ai, rag, retrieval augmented generation, agentic ai, ai agent
 
-### 63 · [Staff Machine Learning Engineer - Leasing](https://startup.jobs/staff-machine-learning-engineer-leasing-open-roles-appfolio-9985708?utm_source=freehire.me) — Open Roles | AppFolio
+### 62 · [Senior AI Engineer](https://schoolsfirstfcu.wd115.myworkdayjobs.com/Careers/job/Sacramento-CA/Senior-AI-Engineer_JR106409?utm_source=freehire.me) — schoolsfirstfcu
 
-Washington, United States · Agentic AI · 2026-10-17T02:02:10Z  
-Role match: machine learning; Core match: llm, rag, ai agent, langchain, langgraph
+Sacramento, CA · Agentic AI · 2026-10-19T00:00:00Z  
+Role match: ai engineer; Core match: generative ai, rag, retrieval augmented generation, agentic ai
 
-### 60 · [Sr. AI Engineer](https://startup.jobs/sr-ai-engineer-uniphore-technologies-north--8492709?utm_source=freehire.me) — Uniphore Technologies North America Inc
+### 58 · [AI Engineer](https://jobs.ashbyhq.com/powerline/5c22ada4-da96-42c3-bd2a-ae013d128c7c?utm_source=freehire.me) — powerline
 
-Palo Alto, United States · GenAI / LLM · 2026-10-17T16:06:06Z  
-Role match: ai engineer; Core match: generative ai, genai
+Palo Alto · Agentic AI · 2026-10-19T23:11:15Z  
+Role match: ai engineer; Core match: llm, rag, agentic ai, langchain
 
-### 56 · [Sr Staff Machine Learning Engineer, Adobe Firefly Services](https://startup.jobs/sr-staff-machine-learning-engineer-adobe-firefly-services-aleu-adobe-systems-europe-li-10502125?utm_source=freehire.me) — ALEU-Adobe Systems Europe Limited
+### 54 · [Senior Software Engineer - AI Platform](https://jobs.ashbyhq.com/rivianvw.tech/27e77f92-ed52-473e-8c5e-8a75973f84cf?utm_source=freehire.me) — Rivian and Volkswagen Group Technologies
 
-Seattle, United States · GenAI / LLM · 2026-10-17T10:01:32Z  
-Role match: machine learning; Core match: generative ai, genai
+Irvine, California · Agentic AI · 2026-10-19T13:55:53Z  
+Role match: ai platform; Core match: genai, llm
 
-### 54 · [Sr. Principal Software and AI Engineer](https://startup.jobs/sr-principal-software-and-ai-engineer-beone-medicines-usa-inc-10502116?utm_source=freehire.me) — BeOne Medicines USA, Inc.
+### 51 · [Senior AI Engineer- Imaging](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-AI-Engineer--Imaging_202610-126098?utm_source=freehire.me) — Roche
 
-United States · Agentic AI · 2026-10-17T10:01:32Z  
-Role match: ai engineer; Core match: multi-agent, mcp
+South San Francisco · AI / ML Platform · 2026-10-19T00:00:00Z  
+Role match: ai engineer; Core match: genai
 
-### 54 · [Sr. Principal Software and AI Engineer](https://beigene.wd5.myworkdayjobs.com/BeiGene/job/Remote-US/Sr-Principal-Software-and-AI-Engineer_R37288?utm_source=freehire.me) — BeOne
+### 48 · [Senior AI Engineer](https://startup.jobs/senior-ai-engineer-pulley-7170026?utm_source=freehire.me) — Pulley
 
-Remote (US) · Agentic AI · 2026-10-16T00:00:00Z  
-Role match: ai engineer; Core match: multi-agent, mcp
+Seattle, United States · Agentic AI · 2026-10-19T20:45:40Z  
+Role match: ai engineer; Core match: llm, retrieval augmented generation
 
-### 53 · [Senior Software Engineer, AI Products (Python / Agentic AI)](https://torre.ai/post/8wDa9z9d-go-get-data-consultancy-senior-software-engineer-ai-products-python-agentic-ai?utm_source=freehire.me) — Go-Get Data Consultancy
+### 42 · [Staff Machine Learning Engineer, TLM , Labeling Automation](https://careers.withwaymo.com/jobs?gh_jid=7719332&utm_source=freehire.me) — waymo
 
-Remote, United States · Agentic AI · 2026-10-13T14:22:28Z  
-Role match: agentic; Core match: llm, agentic ai, multi-agent
+Mountain View, CA, USA · Machine Learning · 2026-10-19T19:41:21Z  
+Role match: machine learning; Stack match: python, pytorch, tensorflow
 
-### 46 · [Senior/Staff Machine Learning Engineer (Tech Lead, Model Dev)](https://startup.jobs/senior-staff-machine-learning-engineer-tech-lead-model-dev-arteranet-10133392?utm_source=freehire.me) — Artera.net
+### 42 · [Machine Learning Engineer, Driver Refinement & Validation, Perception](https://careers.withwaymo.com/jobs?gh_jid=8212478&utm_source=freehire.me) — waymo
 
-United States · Machine Learning · 2026-10-18T00:13:14Z  
-Role match: machine learning; Stack match: pytorch, tensorflow, kubernetes, aws, multimodal
+Mountain View, CA, USA; San Francisco, CA, USA · Machine Learning · 2026-10-19T18:56:32Z  
+Role match: machine learning; Stack match: python, pytorch, fine-tuning
 
-### 46 · [Sr. AI Engineer, CX](https://startup.jobs/sr-ai-engineer-cx-gametime-united-10134193?utm_source=freehire.me) — Gametime United
+### 40 · [Senior Machine Learning Engineer](https://seasats.breezy.hr/p/a7eb03400529-senior-machine-learning-engineer?utm_source=freehire.me) — Seasats
 
-United States · Agentic AI · 2026-10-18T00:13:09Z  
-Role match: ai engineer; Core match: llm, rag
+San Diego, United States · AI / ML Platform · 2026-10-19T19:50:33Z  
+Role match: machine learning; Stack match: python, pytorch
 
-### 46 · [Senior AI Engineer](https://apply.workable.com/j/1CD7359A61?utm_source=freehire.me) — Raydar
+### 40 · [Senior Machine Learning Engineer, Maneuvering Tech](https://careers.withwaymo.com/jobs?gh_jid=7456936&utm_source=freehire.me) — waymo
 
-Redwood City, California, United States · Agentic AI · 2026-10-15T00:00:00Z  
-Role match: ai engineer; Core match: llm, ai agent
+Mountain View, CA, USA; San Francisco, CA, USA; Pittsburgh, PA, USA · Machine Learning · 2026-10-19T18:56:32Z  
+Role match: machine learning; Stack match: python, pytorch
 
-### 45 · [Senior Staff Applied AI Inference Engineer](https://jobs.ashbyhq.com/Crusoe/cdca4752-d6b5-4df4-b121-57826b41d4b5?utm_source=freehire.me) — Crusoe Energy Systems
+### 40 · [Staff Machine Learning Engineer, Maneuvering Tech](https://careers.withwaymo.com/jobs?gh_jid=8001059&utm_source=freehire.me) — waymo
 
-San Francisco, United States · Machine Learning · 2026-10-14T00:08:41Z  
-Role match: applied ai; Core match: llm
+Mountain View, CA, USA; San Francisco, CA, USA; Pittsburgh, PA, USA · Machine Learning · 2026-10-19T18:56:32Z  
+Role match: machine learning; Stack match: python, pytorch
 
-### 44 · [Senior Software Engineer, Machine Learning](https://himalayas.app/companies/canadascout/jobs/senior-software-engineer-machine-learning?utm_source=freehire.me) — Canadascout
+### 38 · [Technical Lead Manager, Machine Learning, Maneuvering Tech](https://careers.withwaymo.com/jobs?gh_jid=7460470&utm_source=freehire.me) — waymo
 
-United States · Machine Learning · 2026-10-17T08:28:54Z  
-Role match: machine learning; Stack match: pytorch, tensorflow, fine-tuning, nlp
-
-### 43 · [Staff AI Engineer](https://apply.workable.com/j/C7492D0665?utm_source=freehire.me) — Raydar
-
-United States · GenAI / LLM · 2026-10-16T00:00:00Z  
-Role match: ai engineer; Core match: llm
-
-### 43 · [Staff Machine Learning Engineer - Ad Platform](https://jobs.gem.com/fetch/am9icG9zdDqoOwy1Shh9MfSe4aM4xTkS?utm_source=freehire.me) — fetch
-
-CAN · GenAI / LLM · 2026-10-15T15:49:42Z  
-Role match: machine learning; Core match: llm
-
-### 41 · [AI Engineer (Early Career)](https://startup.jobs/ai-engineer-early-career-embedding-vc-9769901?utm_source=freehire.me) — Embedding VC
-
-San Francisco, United States · Agentic AI · 2026-10-18T08:58:21Z  
-Role match: ai engineer; Core match: ai agent
-
-### 40 · [Senior Machine Learning Operations Engineer](https://startup.jobs/senior-machine-learning-operations-engineer-mercury-banking-for-startups-9983099?utm_source=freehire.me) — Mercury - Banking for Startups
-
-San Francisco, United States · AI / ML Platform · 2026-10-17T02:02:20Z  
-Role match: machine learning; Stack match: python, fastapi
-
-### 36 · [Staff Software Engineer (Agentic Pipeline Generation)](https://jobs.ashbyhq.com/Lightfield/913e3f3a-6c16-44a7-ba7f-09159f9df620?utm_source=freehire.me) — Tome
-
-San Francisco, United States · Agentic AI · 2026-10-17T00:14:59Z  
-Role match: agentic; Target relocation market: TX, CA, or WA
+Mountain View, California, USA; San Francisco, California, USA · Machine Learning · 2026-10-19T18:56:32Z  
+Role match: machine learning; Stack match: python
 
