@@ -1,69 +1,59 @@
 # Daily AI/ML job shortlist
 
-Generated: 2026-10-20T01:51:13+00:00
-Matches: **121** · New since last run: **12**
+Generated: 2026-10-21T01:36:39+00:00
+Matches: **122** · New since last run: **10**
 
 Open `index.html` through a web server for filters and private browser-only tracking.
 
 ## Best new matches
 
-### 65 · [Lead AI Solutions Architect (Lead AI Engineer)](https://schoolsfirstfcu.wd115.myworkdayjobs.com/Careers/job/Sacramento-CA/Lead-AI-Solutions-Architect--Lead-AI-Engineer-_JR106410?utm_source=freehire.me) — schoolsfirstfcu
+### 72 · [Principal AI Engineer, Media Pipelines](https://jobs.lever.co/jobgether/65479e27-7dea-49dd-8c19-d08e199d007b?utm_source=freehire.me) — jobgether
 
-Sacramento, CA · Agentic AI · 2026-10-19T00:00:00Z  
-Role match: ai engineer; Core match: generative ai, rag, retrieval augmented generation, agentic ai, ai agent
+US · Machine Learning · 2026-10-20T04:29:41Z  
+Role match: ai engineer; Core match: generative ai, llm, rag, retrieval augmented generation, vector search
 
-### 62 · [Senior AI Engineer](https://schoolsfirstfcu.wd115.myworkdayjobs.com/Careers/job/Sacramento-CA/Senior-AI-Engineer_JR106409?utm_source=freehire.me) — schoolsfirstfcu
+### 66 · [Senior AI Engineer - Core](https://startup.jobs/senior-ai-engineer-core-hilberts-ai-10061177?utm_source=freehire.me) — Hilbert's AI
 
-Sacramento, CA · Agentic AI · 2026-10-19T00:00:00Z  
-Role match: ai engineer; Core match: generative ai, rag, retrieval augmented generation, agentic ai
+San Francisco, United States · Agentic AI · 2026-10-20T11:55:11Z  
+Role match: ai engineer; Core match: llm, rag, retrieval augmented generation, langchain, langgraph
 
-### 58 · [AI Engineer](https://jobs.ashbyhq.com/powerline/5c22ada4-da96-42c3-bd2a-ae013d128c7c?utm_source=freehire.me) — powerline
+### 58 · [Principal Product Manager, Edge AI, LLM & Agentic Workflows](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Palo-Alto-California-United-States-of-America/Principal-Product-Manager--Edge-AI--LLM---Agentic-Workflows_3170139?utm_source=freehire.me) — Hewlett Packard (HP)
 
-Palo Alto · Agentic AI · 2026-10-19T23:11:15Z  
-Role match: ai engineer; Core match: llm, rag, agentic ai, langchain
+Palo Alto, California, United States of America · Agentic AI · 2026-10-20T00:00:00Z  
+Role match: llm, agentic; Core match: llm, retrieval augmented generation
 
-### 54 · [Senior Software Engineer - AI Platform](https://jobs.ashbyhq.com/rivianvw.tech/27e77f92-ed52-473e-8c5e-8a75973f84cf?utm_source=freehire.me) — Rivian and Volkswagen Group Technologies
+### 55 · [Senior Machine Learning Engineer, Government (IL5)](https://job-boards.greenhouse.io/uareai/jobs/4459531009?utm_source=freehire.me) — uareai
 
-Irvine, California · Agentic AI · 2026-10-19T13:55:53Z  
-Role match: ai platform; Core match: genai, llm
+San Francisco or Los Altos, CA · RAG & Retrieval · 2026-10-20T19:49:14Z  
+Role match: machine learning; Core match: llm, rag, vector search
 
-### 51 · [Senior AI Engineer- Imaging](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-AI-Engineer--Imaging_202610-126098?utm_source=freehire.me) — Roche
+### 52 · [Machine Learning Engineer Simulation](https://careers.withwaymo.com/jobs/machine-learning-engineer-simulation-mountain-view-california-united-states?utm_source=freehire.me) — Waymo
 
-South San Francisco · AI / ML Platform · 2026-10-19T00:00:00Z  
-Role match: ai engineer; Core match: genai
+Mountain View, California, United States · GenAI / LLM · 2026-10-20T00:00:00Z  
+Role match: machine learning; Core match: generative ai, genai
 
-### 48 · [Senior AI Engineer](https://startup.jobs/senior-ai-engineer-pulley-7170026?utm_source=freehire.me) — Pulley
+### 49 · [Senior Software Engineer II- AI Platform](https://jobs.lever.co/aledade/4436a7c6-cb76-486c-af61-c924b6cbf80f?utm_source=freehire.me) — Aledade
 
-Seattle, United States · Agentic AI · 2026-10-19T20:45:40Z  
-Role match: ai engineer; Core match: llm, retrieval augmented generation
+Remote, United States · GenAI / LLM · 2026-10-20T16:40:05Z  
+Role match: ai platform; Core match: llm
 
-### 42 · [Staff Machine Learning Engineer, TLM , Labeling Automation](https://careers.withwaymo.com/jobs?gh_jid=7719332&utm_source=freehire.me) — waymo
+### 44 · [Staff Machine Learning Engineer, Home Surfaces](https://jobs.lever.co/jobgether/64917abd-9a33-4df6-ab70-fe161b9ce026?utm_source=freehire.me) — jobgether
 
-Mountain View, CA, USA · Machine Learning · 2026-10-19T19:41:21Z  
-Role match: machine learning; Stack match: python, pytorch, tensorflow
+US · Agentic AI · 2026-10-20T10:01:33Z  
+Role match: machine learning; Stack match: python, pytorch, fine-tuning, lora
 
-### 42 · [Machine Learning Engineer, Driver Refinement & Validation, Perception](https://careers.withwaymo.com/jobs?gh_jid=8212478&utm_source=freehire.me) — waymo
+### 43 · [Senior Machine Learning Engineer, Recommendation](https://jobs.ashbyhq.com/sekai/512cc777-ad6b-4924-8fef-fa5325811483?utm_source=freehire.me) — sekai
 
-Mountain View, CA, USA; San Francisco, CA, USA · Machine Learning · 2026-10-19T18:56:32Z  
-Role match: machine learning; Stack match: python, pytorch, fine-tuning
+San Francisco, USA · RAG & Retrieval · 2026-10-20T23:42:25Z  
+Role match: machine learning; Core match: llm
 
-### 40 · [Senior Machine Learning Engineer](https://seasats.breezy.hr/p/a7eb03400529-senior-machine-learning-engineer?utm_source=freehire.me) — Seasats
+### 43 · [Senior AI Engineer](https://coreweave.com/careers/job?4658801006=&board=coreweave&gh_jid=4658801006&utm_source=freehire.me) — CoreWeave
 
-San Diego, United States · AI / ML Platform · 2026-10-19T19:50:33Z  
-Role match: machine learning; Stack match: python, pytorch
+Bellevue, WA / Sunnyvale, CA · GenAI / LLM · 2026-10-20T20:22:36Z  
+Role match: ai engineer; Core match: llm
 
-### 40 · [Senior Machine Learning Engineer, Maneuvering Tech](https://careers.withwaymo.com/jobs?gh_jid=7456936&utm_source=freehire.me) — waymo
+### 41 · [Staff Forward Deployed Engineer - Applied AI (Remote)](https://jobs.ashbyhq.com/rula/5e096733-d677-41f2-ab52-1d215352fe46?utm_source=freehire.me) — rula
 
-Mountain View, CA, USA; San Francisco, CA, USA; Pittsburgh, PA, USA · Machine Learning · 2026-10-19T18:56:32Z  
-Role match: machine learning; Stack match: python, pytorch
-
-### 40 · [Staff Machine Learning Engineer, Maneuvering Tech](https://careers.withwaymo.com/jobs?gh_jid=8001059&utm_source=freehire.me) — waymo
-
-Mountain View, CA, USA; San Francisco, CA, USA; Pittsburgh, PA, USA · Machine Learning · 2026-10-19T18:56:32Z  
-Role match: machine learning; Stack match: python, pytorch
-
-### 38 · [Technical Lead Manager, Machine Learning, Maneuvering Tech](https://careers.withwaymo.com/jobs?gh_jid=7460470&utm_source=freehire.me) — waymo
-
-Mountain View, California, USA; San Francisco, California, USA · Machine Learning · 2026-10-19T18:56:32Z  
-Role match: machine learning; Stack match: python
+Remote - United States · GenAI / LLM · 2026-10-20T18:28:43Z  
+Role match: applied ai; Core match: llm
 
