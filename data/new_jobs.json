@@ -1,19 +1,112 @@
 {
-  "generated_at": "2026-10-23T01:32:36+00:00",
+  "generated_at": "2026-10-24T01:36:09+00:00",
   "source": "freehire.me public API",
-  "count": 113,
-  "new_count": 7,
+  "count": 121,
+  "new_count": 17,
   "warnings": [],
   "jobs": [
     {
-      "id": "senior-lead-software-engineer-agentic-ai-java-python-jpmc-fa-oraclecloud-com-cx-nvyyvdrj",
-      "title": "Senior Lead Software Engineer - Agentic AI/Java/Python",
-      "company": "jpmc.fa.oraclecloud.com/CX",
-      "location": "Plano, TX, United States",
-      "work_mode": "not specified",
-      "posted_at": "2026-10-21T00:00:00Z",
-      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210794186?utm_source=freehire.me",
-      "source": "oracle",
+      "id": "senior-ai-engineer-agentic-systems-llm-applications-t-mapp-jobs-ybpukdy2",
+      "title": "Senior AI Engineer – Agentic Systems & LLM Applications",
+      "company": "T-mapp Jobs",
+      "location": "Location not listed",
+      "work_mode": "remote",
+      "posted_at": "2026-10-23T17:56:08Z",
+      "url": "https://www.careers-page.com/tmapp-jobs/job/V6393V7R?utm_source=freehire.me",
+      "source": "manatal",
+      "countries": [
+        "in",
+        "us"
+      ],
+      "regions": [
+        "apac",
+        "eu",
+        "north_america"
+      ],
+      "family": "Agentic AI",
+      "score": 79,
+      "why": [
+        "Role match: ai engineer, llm, agentic",
+        "Core match: llm, rag, retrieval augmented generation, multi-agent, langchain",
+        "Stack match: python, fine-tuning",
+        "Remote US/North America — verify eligibility"
+      ],
+      "skills": [
+        "agentic-ai",
+        "ai",
+        "anthropic",
+        "data-pipelines",
+        "fine-tuning",
+        "langchain",
+        "llamaindex",
+        "llm",
+        "machine-learning",
+        "milvus",
+        "nodejs",
+        "observability",
+        "openai",
+        "pinecone",
+        "python",
+        "rag",
+        "typescript",
+        "vector-databases",
+        "weaviate"
+      ],
+      "description": "We are building the next generation of AI-native products, moving beyond simple chat interfaces into the realm of *autonomous agents* and advanced foundation model applications. We are looking for an AI Engineer who operates at the intersection of product engineering and frontier AI research to design, build, and scale our agentic infrastructure. As a core member of our AI team, you will be responsible for crafting the systems that allow LLMs to reason, act, and solve complex, non-deterministic workflows in production environments. *Key Responsibilities* ---------------------- * *Agentic Systems Development:* Design and implement autonomous a…",
+      "experience_years_min": null,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "copy-of-senior-ai-engineer-with-python-langgraph-langchain-miratech-t64yang7",
+      "title": "Copy of Senior AI Engineer (with Python, LangGraph & LangChain)",
+      "company": "Miratech",
+      "location": "Toronto, ca",
+      "work_mode": "remote",
+      "posted_at": "2026-10-23T17:44:54Z",
+      "url": "https://jobs.smartrecruiters.com/Miratech1/744000157537284-copy-of-senior-ai-engineer-with-python-langgraph-langchain-?utm_source=freehire.me",
+      "source": "smartrecruiters",
+      "countries": [
+        "ca",
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Agentic AI",
+      "score": 68,
+      "why": [
+        "Role match: ai engineer",
+        "Core match: llm, agentic ai, langchain, langgraph, model context protocol",
+        "Stack match: python",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "agentic-ai",
+        "ai",
+        "api",
+        "conversational-ai",
+        "langchain",
+        "langgraph",
+        "llm",
+        "mcp",
+        "observability",
+        "python"
+      ],
+      "description": "We are looking for a highly skilled, hands-on *Senior AI Engineer with Python, LangGraph & LangChain* to join our client's enterprise AI initiative. You will work closely with the existing engineering team to enhance a centralized AI orchestration platform that supports intelligent workflows, AI-powered chat and proactive assistance across multiple business use cases. This role suits an engineer with strong practical experience in Python, LangGraph and LangChain, and a solid understanding of agentic AI architectures, integration patterns and AI observability. You will contribute directly to design, development, integration and delivery to acc…",
+      "experience_years_min": null,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "senior-ai-engineer-with-python-langgraph-langchain-miratech-k2szkxna",
+      "title": "Senior AI Engineer (with Python, LangGraph & LangChain)",
+      "company": "Miratech",
+      "location": "US, US, us",
+      "work_mode": "remote",
+      "posted_at": "2026-10-23T17:44:24Z",
+      "url": "https://jobs.smartrecruiters.com/Miratech1/744000157538208-senior-ai-engineer-with-python-langgraph-langchain-?utm_source=freehire.me",
+      "source": "smartrecruiters",
       "countries": [
         "us"
       ],
@@ -21,49 +114,39 @@
         "north_america"
       ],
       "family": "Agentic AI",
-      "score": 62,
+      "score": 68,
       "why": [
-        "Role match: agentic",
-        "Core match: llm, rag, agentic ai, mcp",
-        "Stack match: python, aws, fastapi",
-        "Target relocation market: TX, CA, or WA"
+        "Role match: ai engineer",
+        "Core match: llm, agentic ai, langchain, langgraph, model context protocol",
+        "Stack match: python",
+        "Remote US/North America — verify eligibility"
       ],
       "skills": [
-        "ab-testing",
         "agentic-ai",
-        "agile",
         "ai",
         "api",
-        "api-design",
-        "automation",
-        "aws",
-        "ci-cd",
-        "cloud",
-        "cloudwatch",
-        "containerization",
-        "docker",
-        "ecs",
-        "eks",
-        "fastapi",
-        "flask",
-        "github",
-        "github-actions",
-        "grafana"
+        "conversational-ai",
+        "langchain",
+        "langgraph",
+        "llm",
+        "mcp",
+        "observability",
+        "python"
       ],
-      "description": "Be an integral part of an agile team that's constantly pushing the envelope to enhance, build, and deliver top-notch technology products. As a Senior Lead Software Engineer at JPMorganChase within the Consumer & Community Banking, Digital Technology, you will design and build critical technology solutions across Chase AI components, including Chase Agent, Agent Operating Memory, Domain Agents, Agentic Experience Service, and Assurance. *Job responsibilities:* * Executes software solutions, design, development, and technical troubleshooting, thinking beyond routine approaches to solve complex problems. * Creates secure, high-quality production…",
-      "experience_years_min": 2,
+      "description": "We are looking for a highly skilled, hands-on *Senior AI Engineer with Python, LangGraph & LangChain* to join our client's enterprise AI initiative. You will work closely with the existing engineering team to enhance a centralized AI orchestration platform that supports intelligent workflows, AI-powered chat and proactive assistance across multiple business use cases. This role suits an engineer with strong practical experience in Python, LangGraph and LangChain, and a solid understanding of agentic AI architectures, integration patterns and AI observability. You will contribute directly to design, development, integration and delivery to acc…",
+      "experience_years_min": null,
       "salary": null,
       "is_new": true
     },
     {
-      "id": "product-operations-lead-generative-ai-scale-ai-cupnabnp",
-      "title": "Product Operations Lead, Generative AI ",
-      "company": "Scale AI",
-      "location": "San Francisco, CA; New York, NY",
-      "work_mode": "not specified",
-      "posted_at": "2026-10-12T21:06:11Z",
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4740039005?utm_source=freehire.me",
-      "source": "greenhouse",
+      "id": "staff-machine-learning-engineer-platform-mlops-credit-acceptance-careers-3xeh7b2l",
+      "title": "Staff Machine Learning Engineer, Platform (MLOPS)",
+      "company": "Credit Acceptance Careers",
+      "location": "California - San Francisco Bay Area Hybrid",
+      "work_mode": "hybrid",
+      "posted_at": "2026-10-23T00:00:00Z",
+      "url": "https://creditacceptance.wd5.myworkdayjobs.com/Credit_Acceptance/job/California---San-Francisco-Bay-Area-Hybrid/Staff-Machine-Learning-Engineer--Platform--MLOPS-_R13963?utm_source=freehire.me",
+      "source": "workday",
       "countries": [
         "us"
       ],
@@ -71,135 +154,190 @@
         "north_america"
       ],
       "family": "GenAI / LLM",
-      "score": 48,
+      "score": 68,
       "why": [
-        "Role match: generative ai",
-        "Core match: generative ai, genai",
-        "Stack match: python",
+        "Role match: machine learning",
+        "Core match: genai, llm, model context protocol, mcp",
+        "Stack match: python, databricks, mlflow, aws, model serving",
         "Target relocation market: TX, CA, or WA"
       ],
       "skills": [
+        "agentic-ai",
         "ai",
-        "analytics",
-        "data-analytics",
-        "data-pipelines",
+        "aws",
+        "aws-bedrock",
+        "ccpa",
+        "ci-cd",
+        "cloud",
+        "containerization",
+        "corrective-action",
+        "data-engineering",
+        "data-governance",
+        "databricks",
+        "dynatrace",
+        "fine-tuning",
         "generative-ai",
-        "program-management",
-        "python",
-        "sql"
+        "gpu",
+        "infrastructure-as-code",
+        "lakehouse",
+        "llm",
+        "machine-learning"
       ],
-      "description": "Scale's Generative AI business unit is at the front of the industry, fueling the development of frontier AI models. As a Product Operations Manager, you will build and support the critical processes and platforms that drive our daily operations. This multi-faceted role requires a unique blend of product, operations, and analytics as we architect the future of the business. Success in this role requires the ability to translate complex requirements between technical teams and operational stakeholders, and to earn the trust of both to influence the direction of Scale’s products. You will own the ops <> product connection and lead our highest pr…",
+      "description": "At Credit Acceptance, we are building on the foundation of a successful business while investing in the future through technology, data, AI, and continuous improvement. As we continue to evolve, our Team Members play an active role in improving experiences, driving meaningful change, and shaping the future of our business. We foster an environment where people are empowered to contribute ideas, develop their careers, make an impact, and help lead our continued transformation. Our Engineering teams are helping shape the future of Credit Acceptance through innovation. Team Members collaborate across the organization to solve complex challenges,…",
+      "experience_years_min": 5,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "staff-machine-learning-engineer-generative-ai-services-adobe-creative-marketing-and-document-management-solutions-djvia2y5",
+      "title": "Staff Machine Learning Engineer, Generative AI Services",
+      "company": "Adobe: Creative, marketing and document management solutions",
+      "location": "Seattle, WA, US",
+      "work_mode": "not specified",
+      "posted_at": "2026-10-23T09:53:22Z",
+      "url": "https://echojobs.io/job/adobe-creative-marketing-and-document-management-solutions-sr-staff-machine-learning-engineer-adobe-firefly-services-6dvwy?utm_source=freehire.me",
+      "source": "echojobs",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "GenAI / LLM",
+      "score": 64,
+      "why": [
+        "Role match: machine learning, generative ai",
+        "Core match: generative ai, genai",
+        "Stack match: python, pytorch, kubernetes, model serving, distributed systems",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "adobe-experience-manager",
+        "ai",
+        "api",
+        "cloud",
+        "cuda",
+        "distributed-systems",
+        "express",
+        "generative-ai",
+        "gpu",
+        "illustrator",
+        "kubernetes",
+        "machine-learning",
+        "mlops",
+        "photoshop",
+        "python",
+        "pytorch",
+        "tensorrt",
+        "transformers",
+        "triton"
+      ],
+      "description": "********************************************************** Sr Staff Machine Learning Engineer, Adobe Firefly Services ********************************************************** *Location:* Seattle, San Jose *Time Type:* Full time Job Description --------------- Adobe Firefly’s *Generative AI Services* team is seeking a *Senior* *Staff* *Machine Learning Engineer* for our GenAI Services area. In this high-impact role, you will work with a team of talented engineers in building scalable, high-performance generative AI systems—powering features across Adobe products like Firefly, Photoshop, Illustrator, Express, Stock, and Premiere. You will des…",
+      "experience_years_min": 3,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "senior-agentic-ai-engineer-developer-centene-2dcczplx",
+      "title": "Senior Agentic AI Engineer/Developer",
+      "company": "Centene",
+      "location": "Remote-MO",
+      "work_mode": "remote",
+      "posted_at": "2026-10-23T00:00:00Z",
+      "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Agentic-AI-Engineer-Developer_1671567?utm_source=freehire.me",
+      "source": "workday",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Agentic AI",
+      "score": 63,
+      "why": [
+        "Role match: ai engineer, agentic",
+        "Core match: llm, agentic ai, ai agent",
+        "Stack match: python, aws",
+        "Remote US/North America — verify eligibility"
+      ],
+      "skills": [
+        "agentic-ai",
+        "ai",
+        "api",
+        "automation",
+        "aws",
+        "ci-cd",
+        "git",
+        "llm",
+        "python",
+        "sdlc",
+        "statistics",
+        "threat-modeling"
+      ],
+      "description": "*Position Purpose:* Design, build, secure, and operate governed agentic AI capabilities that reduce repetitive security engineering work and create reusable automation patterns for Security Defense Technologies. The role combines software engineering, AI-agent development, application security, platform integration, and production operational discipline. *Key Details:* Must be authorized to work in the U.S. without the need for employment-based visa sponsorship now or in the future. Sponsorship and future sponsorship are not available for this opportunity, including employment-based visa types H-1B, L-1, O-1, H-1B1, F-1, J -1, OPT, or CPT. * …",
       "experience_years_min": 4,
       "salary": null,
       "is_new": true
     },
     {
-      "id": "consultant-machine-learning-knowledge-graph-engineer-dell-vnu5sgga",
-      "title": "Consultant Machine Learning Engineer & AI Product Lead r",
-      "company": "Dell",
-      "location": "Round Rock, TX, United States",
-      "work_mode": "onsite",
-      "posted_at": "2026-10-21T00:00:00Z",
-      "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/293104?utm_source=freehire.me",
-      "source": "oracle",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "RAG & Retrieval",
-      "score": 44,
-      "why": [
-        "Role match: machine learning",
-        "Stack match: python, kubernetes, azure, aws",
-        "Target relocation market: TX, CA, or WA"
-      ],
-      "skills": [
-        "agile",
-        "ai",
-        "airflow",
-        "automation",
-        "aws",
-        "azure",
-        "bash",
-        "big-data",
-        "ci-cd",
-        "cloud",
-        "cloud-native",
-        "containerization",
-        "data-engineering",
-        "data-science",
-        "docker",
-        "gcp",
-        "kubeflow",
-        "kubernetes",
-        "machine-learning",
-        "mlops"
-      ],
-      "description": "*Consultant Machine Learning Engineer & AI Product Lead* Data Science is all about breaking new ground to enable businesses to answer their most urgent questions. Pioneering massively parallel data-intensive analytic processing, our mission is to develop a whole new approach to generating meaning and value from petabyte-scale data sets and shape brand-new methodologies, tools, statistical methods, and models. What’s more, we are in collaboration with leading academics, industry experts, and highly skilled engineers to equip our customers to generate sophisticated new insights from the biggest of big data. *Join us* to do the best work of your…",
-      "experience_years_min": 10,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "consultant-machine-learning-knowledge-graph-engineer-dell-technologies-svxpndhx",
-      "title": "Consultant Machine Learning Engineer & AI Product Lead r",
-      "company": "Dell Technologies",
-      "location": "Round Rock, TX, United States",
-      "work_mode": "onsite",
-      "posted_at": "2026-10-21T00:00:00Z",
-      "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/293104?utm_source=freehire.me",
-      "source": "oracle",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "RAG & Retrieval",
-      "score": 44,
-      "why": [
-        "Role match: machine learning",
-        "Stack match: python, kubernetes, azure, aws",
-        "Target relocation market: TX, CA, or WA"
-      ],
-      "skills": [
-        "agile",
-        "ai",
-        "airflow",
-        "automation",
-        "aws",
-        "azure",
-        "bash",
-        "big-data",
-        "ci-cd",
-        "cloud",
-        "cloud-native",
-        "containerization",
-        "data-engineering",
-        "data-science",
-        "docker",
-        "gcp",
-        "kubeflow",
-        "kubernetes",
-        "machine-learning",
-        "mlops"
-      ],
-      "description": "*Consultant Machine Learning Engineer & AI Product Lead* Data Science is all about breaking new ground to enable businesses to answer their most urgent questions. Pioneering massively parallel data-intensive analytic processing, our mission is to develop a whole new approach to generating meaning and value from petabyte-scale data sets and shape brand-new methodologies, tools, statistical methods, and models. What’s more, we are in collaboration with leading academics, industry experts, and highly skilled engineers to equip our customers to generate sophisticated new insights from the biggest of big data. *Join us* to do the best work of your…",
-      "experience_years_min": 10,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "staff-ai-ml-engineer-chime-financial-ego627z2",
-      "title": "Staff AI/ML Engineer",
-      "company": "Chime Financial",
-      "location": "San Francisco, California",
+      "id": "machine-learning-engineer-senior-manager-credit-acceptance-careers-djyyemlb",
+      "title": "Machine Learning Engineer, Senior Manager",
+      "company": "Credit Acceptance Careers",
+      "location": "California - San Francisco Bay Area Hybrid",
       "work_mode": "hybrid",
-      "posted_at": "2026-10-17T07:58:05Z",
-      "url": "https://www.adzuna.com/details/5932147118?utm_medium=api&utm_source=freehire.me",
-      "source": "adzuna",
+      "posted_at": "2026-10-23T00:00:00Z",
+      "url": "https://creditacceptance.wd5.myworkdayjobs.com/Credit_Acceptance/job/California---San-Francisco-Bay-Area-Hybrid/Machine-Learning-Engineer--Senior-Manager_R13713?utm_source=freehire.me",
+      "source": "workday",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "AI / ML Platform",
+      "score": 54,
+      "why": [
+        "Role match: machine learning",
+        "Core match: genai, llm",
+        "Stack match: databricks, mlflow, model serving, fine-tuning",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "ai",
+        "airflow",
+        "automation",
+        "ccpa",
+        "data-science",
+        "databricks",
+        "deep-learning",
+        "fine-tuning",
+        "flink",
+        "generative-ai",
+        "graphql",
+        "grpc",
+        "kafka",
+        "kinesis",
+        "kubeflow",
+        "llm",
+        "machine-learning",
+        "microservices",
+        "mlflow",
+        "neural-networks"
+      ],
+      "description": "At Credit Acceptance, we are building on the foundation of a successful business while investing in the future through technology, data, AI, and continuous improvement. As we continue to evolve, our Team Members play an active role in improving experiences, driving meaningful change, and shaping the future of our business. We foster an environment where people are empowered to contribute ideas, develop their careers, make an impact, and help lead our continued transformation. Our Engineering teams are helping shape the future of Credit Acceptance through innovation. Team Members collaborate across the organization to solve complex challenges,…",
+      "experience_years_min": 8,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "machine-learning-engineer-4-machine-learning-experiences-mlx-capital-one-sa7shgv6",
+      "title": "Machine Learning Engineer 4 - Machine Learning Experiences (MLX)",
+      "company": "Capital One",
+      "location": "San Jose, CA",
+      "work_mode": "not specified",
+      "posted_at": "2026-10-23T00:00:00Z",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Machine-Learning-Engineer-4---Machine-Learning-Experiences--MLX-_R1004237?utm_source=freehire.me",
+      "source": "workday",
       "countries": [
         "us"
       ],
@@ -207,92 +345,96 @@
         "north_america"
       ],
       "family": "Machine Learning",
-      "score": 42,
+      "score": 50,
       "why": [
-        "Role match: ml engineer",
-        "Stack match: python, pytorch, aws",
+        "Role match: machine learning",
+        "Stack match: python, pytorch, tensorflow, kubernetes, azure",
         "Target relocation market: TX, CA, or WA"
       ],
       "skills": [
+        "agile",
         "ai",
-        "airflow",
         "analytics",
+        "automation",
         "aws",
+        "azure",
+        "big-data",
+        "ci-cd",
+        "cloud",
+        "cpp",
+        "data-engineering",
+        "data-pipelines",
         "data-science",
-        "deep-learning",
-        "fintech",
-        "kafka",
+        "distributed-systems",
+        "gcp",
+        "go",
+        "java",
+        "kubernetes",
         "machine-learning",
-        "mlops",
-        "pyspark",
-        "python",
-        "pytorch",
-        "redis",
-        "sagemaker",
-        "snowflake",
-        "spark",
-        "sql"
+        "numpy"
       ],
-      "description": "---------------- *About the role* ---------------- Chime's Data Science & Machine Learning team builds the models, services, and platforms behind how millions of members manage and grow their financial lives. We're hiring a Staff AI/ML Engineer on our Lending and Cashflow team to lead the modeling behind cash flow underwriting and surface member insight: using members' transaction and deposit data to make fair, accurate credit decisions for people that traditional credit scores often miss. In this role, you'll build and deploy machine learning systems on some of the richest transactional and behavioral data in fintech, turning it into the cre…",
-      "experience_years_min": null,
+      "description": "Machine Learning Engineer 4 - Machine Learning Experiences (MLX) Do you love building and pioneering in the AI and technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors who love to solve real problems and meet real customer needs. We are seeking *Machine Learning Engineers* who are passionate about leveraging cutting-edge open source frameworks, advanced algorithms, and emerging technologies to join our team. As a Machine Learning Engineer, you’ll have the opportunity…",
+      "experience_years_min": 2,
       "salary": null,
       "is_new": true
     },
     {
-      "id": "sr-software-engineer-ml-platform-car-next-door-3e24wfao",
-      "title": "Sr Software Engineer - ML platform",
-      "company": "Car Next Door",
-      "location": "Sunnyvale, CA, United States",
+      "id": "machine-learning-engineer-4-machine-learning-foundations-mlx-capital-one-6jbvd3kw",
+      "title": "Machine Learning Engineer 4 - Machine Learning Foundations (MLX)",
+      "company": "Capital One",
+      "location": "San Jose, CA",
       "work_mode": "not specified",
-      "posted_at": "2026-10-21T00:00:00Z",
-      "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/UberCareers/job/303489?utm_source=freehire.me",
-      "source": "oracle",
+      "posted_at": "2026-10-23T00:00:00Z",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Machine-Learning-Engineer-4---Machine-Learning-Foundations--MLX-_R1004240-1?utm_source=freehire.me",
+      "source": "workday",
       "countries": [
         "us"
       ],
       "regions": [
         "north_america"
       ],
-      "family": "RAG & Retrieval",
-      "score": 40,
+      "family": "Machine Learning",
+      "score": 50,
       "why": [
-        "Role match: ml platform",
-        "Stack match: python, distributed systems",
+        "Role match: machine learning",
+        "Stack match: python, pytorch, tensorflow, kubernetes, azure",
         "Target relocation market: TX, CA, or WA"
       ],
       "skills": [
+        "agile",
         "ai",
-        "api",
-        "api-design",
-        "cassandra",
+        "analytics",
+        "automation",
+        "aws",
+        "azure",
+        "big-data",
+        "ci-cd",
+        "cloud",
         "cpp",
-        "data-modeling",
+        "data-engineering",
+        "data-pipelines",
+        "data-science",
         "distributed-systems",
-        "dynamodb",
-        "event-driven-architecture",
-        "feature-engineering",
-        "flink",
+        "gcp",
+        "go",
         "java",
-        "kafka",
+        "kubernetes",
         "machine-learning",
-        "nosql",
-        "observability",
-        "python",
-        "redis"
+        "numpy"
       ],
-      "description": "*Job Title:* Senior Software Engineer – AI Platform (Michelangelo Feature Store) *About the Team* The Michelangelo team builds and maintains the core Machine Learning platform that scales AI solutions across the enterprise. Within Michelangelo, the Feature Store team is responsible for the critical infrastructure that bridges data and real-time machine learning predictions. We build the high-performance feature serving layer that enables product teams and data scientists to deploy production-grade AI seamlessly, ensuring production systems have access to the right signals at exactly the right time. *Role Overview* As a Senior Software Enginee…",
-      "experience_years_min": 5,
+      "description": "Machine Learning Engineer 4 - Machine Learning Foundations (MLX) Do you love building and pioneering in the AI and technology space? Do you enjoy solving complex business problems in a fast-paced, collaborative, inclusive, and iterative delivery environment? At Capital One, you'll be part of a big group of makers, breakers, doers and disruptors who love to solve real problems and meet real customer needs. We are seeking *Machine Learning Engineers* who are passionate about leveraging cutting-edge open source frameworks, advanced algorithms, and emerging technologies to join our team. As a Machine Learning Engineer, you’ll have the opportunity…",
+      "experience_years_min": 2,
       "salary": null,
       "is_new": true
     },
     {
-      "id": "staff-machine-learning-engineer-data-curation-dataset-strategy-wayve-2qdp44ua",
-      "title": "Staff Machine Learning Engineer, Data Curation & Dataset Strategy",
-      "company": "wayve",
-      "location": "Sunnyvale, California USA",
-      "work_mode": "hybrid",
-      "posted_at": "2026-10-22T08:34:54Z",
-      "url": "https://jobs.ashbyhq.com/wayve/7ccefb0d-8264-4c72-9ddb-898ef56d3db5?utm_source=freehire.me",
+      "id": "senior-applied-ai-engineer-i-juniper-square-7vpkbwlk",
+      "title": "Senior Applied AI Engineer I",
+      "company": "Juniper Square",
+      "location": "USA",
+      "work_mode": "remote",
+      "posted_at": "2026-10-23T17:59:07Z",
+      "url": "https://jobs.ashbyhq.com/junipersquare/6ce970a4-5400-47b3-aa2a-c6f5e8dac35e?utm_source=freehire.me",
       "source": "ashby",
       "countries": [
         "us"
@@ -300,26 +442,331 @@
       "regions": [
         "north_america"
       ],
-      "family": "RAG & Retrieval",
-      "score": 38,
+      "family": "Agentic AI",
+      "score": 49,
+      "why": [
+        "Role match: ai engineer, applied ai",
+        "Core match: mcp",
+        "Remote US/North America — verify eligibility"
+      ],
+      "skills": [
+        "acceptance-criteria",
+        "agentic-ai",
+        "ai",
+        "ci-cd",
+        "cloud",
+        "event-driven-architecture",
+        "infrastructure-as-code",
+        "mcp",
+        "observability",
+        "soc-2"
+      ],
+      "description": "---------------------- *About Juniper Square* ---------------------- Private markets are one of the largest, most complex, and most underserved corners of global finance. Our mission at Juniper Square is to unlock their full potential. We’re the Operations Partner trusted by 2,300+ GPs, unifying technology, data, and fund administration services into a single platform that helps GPs move faster, make better decisions, and scale with precision. With $300B+ under administration and 700,000+ LPs on platform, we’ve built the scale to match our ambition. And with JunieAI, our purpose-built AI platform, we’re reimagining how private markets operate…",
+      "experience_years_min": 5,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "senior-software-engineer-applied-ai-athelas-nm5g4zuy",
+      "title": "Senior Software Engineer, Applied AI",
+      "company": "Athelas",
+      "location": "Mountain View, CA, US",
+      "work_mode": "not specified",
+      "posted_at": "2026-10-23T09:41:23Z",
+      "url": "https://echojobs.io/job/athelas-senior-software-engineer-applied-ai-rcm-envl7?utm_source=freehire.me",
+      "source": "echojobs",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "GenAI / LLM",
+      "score": 49,
+      "why": [
+        "Role match: applied ai",
+        "Core match: llm",
+        "Stack match: python, kubernetes, aws, nlp",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "ai",
+        "aws",
+        "cpp",
+        "css",
+        "docker",
+        "gcp",
+        "git",
+        "html",
+        "javascript",
+        "kubernetes",
+        "llm",
+        "nlp",
+        "observability",
+        "python"
+      ],
+      "description": "****************************************** Senior Software Engineer, Applied AI (RCM) ****************************************** *Department:* Engineering *Location:* Mountain View, CA, Los Angeles, CA, New York City, NY, San Francisco, CA *Compensation:* $180K – $230K • Offers Equity *Employment Type:* FullTime At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and auton…",
+      "experience_years_min": 5,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "senior-machine-learning-engineer-inference-inworld-ai-6dbft6bi",
+      "title": "Senior Machine Learning Engineer, Inference",
+      "company": "inworld-ai",
+      "location": "Mountain View, California, USA",
+      "work_mode": "not specified",
+      "posted_at": "2026-10-23T03:04:34Z",
+      "url": "https://jobs.ashbyhq.com/inworld-ai/3a41edaf-6075-486f-ba1a-0fc504b8ce84?utm_source=freehire.me",
+      "source": "ashby",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Agentic AI",
+      "score": 49,
       "why": [
         "Role match: machine learning",
+        "Core match: llm",
+        "Stack match: python, kubernetes, multimodal, distributed systems",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "agentic-ai",
+        "ai",
+        "api",
+        "cpp",
+        "cuda",
+        "distributed-systems",
+        "gpu",
+        "kubernetes",
+        "llm",
+        "machine-learning",
+        "python",
+        "quantization",
+        "rust",
+        "vllm"
+      ],
+      "description": "*About Inworld* Inworld is a research lab and inference provider focused on realtime AI for consumer-facing applications. We build first-party speech models, serve LLMs, and run the inference behind modular APIs designed for high-volume, realtime workloads. Hundreds of millions of users interact with Inworld powered apps every day and we serve over 10 trillion LLM tokens per month. Our models and infrastructure support consumer applications across companions, healthcare, fitness, education, media, and more. Our work spans model research, realtime inference, large-scale serving infrastructure, and the APIs developers use to bring these capabil…",
+      "experience_years_min": null,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "senior-software-engineer-applied-ai-rcm-commure-oks3obtt",
+      "title": "Senior Software Engineer, Applied AI (RCM)",
+      "company": "Commure",
+      "location": "Mountain View, CA",
+      "work_mode": "hybrid",
+      "posted_at": "2026-10-22T19:04:36Z",
+      "url": "https://jobs.ashbyhq.com/commure/ad72cee4-6a9e-47ef-a959-91bb7847c263?utm_source=freehire.me",
+      "source": "ashby",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "GenAI / LLM",
+      "score": 49,
+      "why": [
+        "Role match: applied ai",
+        "Core match: llm",
+        "Stack match: python, kubernetes, aws, nlp",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "ai",
+        "aws",
+        "cpp",
+        "css",
+        "docker",
+        "gcp",
+        "git",
+        "html",
+        "javascript",
+        "kubernetes",
+        "llm",
+        "nlp",
+        "observability",
+        "python"
+      ],
+      "description": "At Commure, we're building the AI Operating System for healthcare, the foundation that defines how care is delivered, documented, and financed. Our platform spans the full care journey: Ambient AI and Dictation eliminating documentation burden at the point of care, intelligent Agents automating patient and revenue workflows, and autonomous RCM processing billions in claims, all on a single AI-native platform integrated with 60+ EHRs. Healthcare carries a $1 trillion administrative burden and we're at the center of transforming it. Today, 500,000+ clinicians across 500+ healthcare organizations nationwide trust Commure to handle $25B+ in annua…",
+      "experience_years_min": 5,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "sr-machine-learning-engineer-delivery-marketplace-car-next-door-4oklaju5",
+      "title": "Sr Machine Learning Engineer- Delivery Marketplace",
+      "company": "Car Next Door",
+      "location": "Sunnyvale, CA, United States",
+      "work_mode": "not specified",
+      "posted_at": "2026-10-22T00:00:00Z",
+      "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/UberCareers/job/303999?utm_source=freehire.me",
+      "source": "oracle",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "AI / ML Platform",
+      "score": 47,
+      "why": [
+        "Role match: machine learning",
+        "Core match: embeddings",
+        "Stack match: python, fine-tuning, distributed systems",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "deep-learning",
+        "distributed-systems",
+        "embeddings",
+        "fine-tuning",
+        "flink",
+        "java",
+        "machine-learning",
+        "microservices",
+        "mlops",
+        "python",
+        "reinforcement-learning",
+        "scala",
+        "spark"
+      ],
+      "description": "-------------- About the Role -------------- Delivery Marketplace is a central pillar of Uber’s delivery products, serving as the \"brain\" of the operation. We drive every decision that enables orders to go from point A to point B — from Uber Eats & Grocery, to newer verticals like Uber Direct and Connect. We’re responsible for everything: from dispatch decisions, predicting food ready time, delivery times, and optimizing pickup times, to ensuring we deliver the most efficient and impactful solutions for Uber’s most critical business goals. Engineers on the team work on cutting-edge marketplace ML problems and real-time multi-objective optimiz…",
+      "experience_years_min": 3,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "sr-machine-learning-engineer-paypal-bmw5676k",
+      "title": "Sr Machine Learning Engineer",
+      "company": "PayPal",
+      "location": "San Jose, California, United States of America",
+      "work_mode": "hybrid",
+      "posted_at": "2026-10-23T00:00:00Z",
+      "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0138536-1?utm_source=freehire.me",
+      "source": "workday",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Machine Learning",
+      "score": 44,
+      "why": [
+        "Role match: machine learning",
+        "Stack match: pytorch, tensorflow, azure, aws",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "ai",
+        "aws",
+        "azure",
+        "cloud",
+        "cryptocurrency",
+        "data-quality",
+        "gcp",
+        "machine-learning",
+        "model-deployment",
+        "pytorch",
+        "scikit-learn",
+        "tensorflow"
+      ],
+      "description": "*The Company* PayPal has been revolutionizing commerce globally for more than 25 years. Creating innovative experiences that make moving money, selling, and shopping simple, personalized, and secure, PayPal empowers consumers and businesses in approximately 200 markets to join and thrive in the global economy. We operate a global, two-sided network at scale that connects hundreds of millions of merchants and consumers. We help merchants and consumers connect, transact, and complete payments, whether they are online or in person. PayPal is more than a connection to third-party payment networks. We provide proprietary payment solutions accepted…",
+      "experience_years_min": 3,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "staff-machine-learning-engineer-car-next-door-fqxyl5lq",
+      "title": "Staff Machine Learning Engineer",
+      "company": "Car Next Door",
+      "location": "Sunnyvale, CA, United States",
+      "work_mode": "not specified",
+      "posted_at": "2026-10-23T00:00:00Z",
+      "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/UberCareers/job/301980?utm_source=freehire.me",
+      "source": "oracle",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "GenAI / LLM",
+      "score": 43,
+      "why": [
+        "Role match: machine learning",
+        "Core match: generative ai",
         "Stack match: python",
         "Target relocation market: TX, CA, or WA"
       ],
       "skills": [
         "ai",
-        "automation",
-        "cloud",
-        "computer-vision",
-        "data-quality",
-        "iot",
+        "cpp",
+        "data-science",
+        "deep-learning",
+        "generative-ai",
+        "hive",
+        "java",
         "machine-learning",
         "python",
+        "reinforcement-learning",
         "spark"
       ],
-      "description": "Before the detail, here's the challenge you'd help us solve. We build the embodied intelligence that moves real vehicles safely, and the ecosystem a billion machines will run on in the future. Very few people in AI can say this. Every role here, whatever the team, plugs into that. Here’s what this particular role covers. *🛠️ About our datasets Team* Wayve's datasets team own the driving data that our AI Driver learns from, covering ingestion, annotation, retrieval and data quality. As our data grows from hundreds of petabytes towards exabyte scale, deciding what we keep, and where, is one of the biggest levers on both model quality and cost. …",
-      "experience_years_min": null,
+      "description": "*About the Role* ---------------- Uber Marketplace is at the heart of Uber’s business, with Rider Pricing playing a critical role by setting prices and targeting promotions for Uber riders. Our team’s mission is to drive revenue growth, ridership growth and Uber’s profitability through advanced machine learning and data science. We build reliable, scalable platforms that optimize rider pricing in both real-time and offline systems, including baseline trip pricing and targeted discounts. The Rider Pricing team is a fast-moving, high-opportunity space where you’ll have the chance to make a significant impact on the business. On this team, your …",
+      "experience_years_min": 7,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "senior-applied-scientist-ai-ml-calibration-optimization-kla-sv264q6c",
+      "title": "Senior Applied Scientist – AI/ML Calibration & Optimization",
+      "company": "KLA",
+      "location": "Milpitas, CA",
+      "work_mode": "not specified",
+      "posted_at": "2026-10-23T00:00:00Z",
+      "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Senior-Applied-Scientist---AI-ML-Calibration---Optimization_2642706?utm_source=freehire.me",
+      "source": "workday",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Applied Science",
+      "score": 42,
+      "why": [
+        "Role match: applied scientist",
+        "Stack match: python, pytorch, tensorflow",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "ai",
+        "analytics",
+        "anomaly-detection",
+        "cpp",
+        "data-analytics",
+        "data-science",
+        "design-of-experiments",
+        "hpc",
+        "jax",
+        "machine-learning",
+        "neural-networks",
+        "python",
+        "pytorch",
+        "scikit-learn",
+        "scipy",
+        "statistics",
+        "tensorflow",
+        "time-series"
+      ],
+      "description": "To make electronics, you need chips, wafers, transistors, reticles, and... To make these, you must see, test and manufacture them at scale—faster and better than ever before. That's where KLA comes in. Whether you're early in your career or an experienced professional, you'll solve complex challenges, work alongside brilliant minds and help shape the future of technology. *Group/Division* The Semiconductor Products and Customers (Semi PC) business unit designs, builds and sells KLA’s product portfolio to help chip manufacturers meet high-quality standards for technologies like AI, data centers, automotive and electronic devices. Our inspectio…",
+      "experience_years_min": 0,
       "salary": null,
       "is_new": true
     }
