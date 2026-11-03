@@ -1,44 +1,70 @@
 # Daily AI/ML job shortlist
 
-Generated: 2026-11-02T02:32:46+00:00
-Matches: **117** · New since last run: **7**
+Generated: 2026-11-03T03:58:04+00:00
+Matches: **65** · New since last run: **11**
 
 Open `index.html` through a web server for filters and private browser-only tracking.
 
 ## Best new matches
 
-### 61 · [Principal AI Platform Engineer, Applied AI](https://snowplow.careers.hibob.com/jobs/d7bbceff-c3ac-48a2-8661-e6b069619793?utm_source=freehire.me) — Snowplow
+### 84 · [Senior AI Engineer - Agentic Systems and LLM](https://jobs.lever.co/jobgether/6e8d4755-71b1-4c80-b882-af830e03a2a2?utm_source=freehire.me) — Jobgether
 
-Massachusetts, United States · Agentic AI · 2026-10-30T19:08:08Z  
-Role match: applied ai, ai platform; Core match: llm, ai agent, mcp
+US · Agentic AI · 2026-11-02T17:10:47Z  
+Role match: ai engineer, llm, agentic; Core match: llm, rag, retrieval augmented generation, agentic ai, embeddings
 
-### 57 · [Generative AI Engineer (Remote)](https://arc.dev/remote-jobs/j/torentify-generative-ai-engineer-remote-pthlb5jhrb?utm_source=freehire.me) — Torentify
+### 61 · [Staff Software Engineer - Agentic Automation](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Staff-Software-Engineer---Agentic-Automation_JR2028169?utm_source=freehire.me) — NVIDIA
 
-Location not listed · GenAI / LLM · 2026-10-21T13:23:28Z  
-Role match: ai engineer, generative ai; Core match: generative ai
+US, CA, Santa Clara · Agentic AI · 2026-11-02T00:00:00Z  
+Role match: agentic; Core match: llm, rag, agentic ai, multi-agent, mcp
 
-### 54 · [Senior ML / AI Engineer](https://jobs.ashbyhq.com/true-talent-solutions-partners/55c999e2-07e9-49bf-8d0d-0752f38643d3?utm_source=freehire.me) — True Talent Solutions Partners
+### 60 · [Senior AI Engineer, Forward Deployed Engineering](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Engineer--Forward-Deployed-Engineering_JR2029041?utm_source=freehire.me) — NVIDIA
 
-San Francisco · RAG & Retrieval · 2026-11-01T17:52:30Z  
-Role match: ai engineer; Core match: retrieval augmented generation, embeddings
+US, CA, Santa Clara · Machine Learning · 2026-11-02T00:00:00Z  
+Role match: ai engineer; Core match: llm, rag, multi-agent, vector search
 
-### 47 · [Senior/Staff Product Engineer, Applied AI and Agents](https://jobs.ashbyhq.com/true-talent-solutions-partners/fc00edf5-50f2-46d3-8e90-4af6d3e3132a?utm_source=freehire.me) — True Talent Solutions Partners
+### 58 · [Machine Learning Engineering Technical Leader](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineering-Technical-Leader_2026432?utm_source=freehire.me) — Cisco
 
-San Francisco · Agentic AI · 2026-11-01T00:48:25Z  
-Role match: applied ai; Core match: ai agent
+San Jose, California, US · Agentic AI · 2026-10-30T00:00:00Z  
+Role match: machine learning; Core match: agentic ai, langchain, langgraph, mcp
 
-### 45 · [Staff Software Engineer, Applied AI](https://jobs.ashbyhq.com/whirlai/6824bda9-7af1-400f-ac3f-1f7f29e34508?utm_source=freehire.me) — Whirl AI
+### 55 · [Sr. AI Engineer - IT](https://www.logicmonitor.com/career/?gh_jid=8334569&utm_source=freehire.me) — LogicMonitor
 
-San Francisco · Agentic AI · 2026-10-23T17:43:40Z  
-Role match: applied ai; Core match: multi-agent
+Austin, TX · Machine Learning · 2026-11-02T16:16:37Z  
+Role match: ai engineer; Core match: llm, model context protocol, mcp
 
-### 42 · [Senior Machine Learning Engineer, Scenes, Traffic Controls](https://careers.withwaymo.com/jobs?gh_jid=8212626&utm_source=freehire.me) — waymo
+### 55 · [Lead Software Engineer - Agentic Data Quality Platform](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210804817?utm_source=freehire.me) — JPMorganChase
 
-Mountain View, California, United States, San Francisco, California, United States · Machine Learning · 2026-10-28T20:32:51Z  
-Role match: machine learning; Stack match: python, pytorch, tensorflow
+Plano, TX, United States · Agentic AI · 2026-11-02T00:00:00Z  
+Role match: agentic; Core match: rag, embeddings, mcp
 
-### 40 · [Senior/Staff Product Engineer, Applied AI](https://jobs.ashbyhq.com/true-talent-solutions-partners/061ce257-91b1-46dc-bdc0-b8831fe53770?utm_source=freehire.me) — True Talent Solutions Partners
+### 55 · [Lead Software Engineer - Agentic Data Quality Platform](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/210804817?utm_source=freehire.me) — JPMC
 
-San Francisco · Agentic AI · 2026-11-02T01:17:11Z  
-Role match: applied ai; Stack match: python, distributed systems
+Plano, TX, United States · Agentic AI · 2026-11-02T00:00:00Z  
+Role match: agentic; Core match: rag, embeddings, mcp
+
+### 55 · [Lead Software Engineer - Agentic Data Quality Platform](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/210804817?utm_source=freehire.me) — Nextmind Solutions Private Limited
+
+Plano, TX, United States · Agentic AI · 2026-11-02T00:00:00Z  
+Role match: agentic; Core match: rag, embeddings, mcp
+
+### 47 · [Senior Staff Machine Learning Engineer_Voice AI](https://jobs.smartrecruiters.com/ServiceNow/744000159237889-senior-staff-machine-learning-engineer-voice-ai-?utm_source=freehire.me) — ServiceNow
+
+San Diego, CALIFORNIA, us · GenAI / LLM · 2026-11-02T20:51:08Z  
+Role match: machine learning; Core match: llm
+
+### 47 · [Staff Machine Learning Engineer_Voice AI](https://jobs.smartrecruiters.com/ServiceNow/744000159236509-staff-machine-learning-engineer-voice-ai-?utm_source=freehire.me) — ServiceNow
+
+San Diego, CALIFORNIA, us · GenAI / LLM · 2026-11-02T20:42:15Z  
+Role match: machine learning; Core match: llm
+
+### 44 · [Staff Software Engineer ML Platform (6244)](https://jobs.lever.co/shieldai/82e0ffd1-3887-4253-b458-00f39e0a387f?utm_source=freehire.me) — Shield AI
+
+San Diego, California · AI / ML Platform · 2026-11-02T22:20:42Z  
+Role match: ml platform; Stack match: python, mlflow, kubernetes, distributed systems
+
+## Source warnings
+
+- machine learning engineer: The read operation timed out
+- RAG retrieval engineer: The read operation timed out
+- applied scientist: The read operation timed out
 
