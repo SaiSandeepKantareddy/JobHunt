@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-07T02:49:35+00:00",
+  "generated_at": "2026-11-08T02:30:11+00:00",
   "source": "freehire.me public API",
-  "count": 114,
-  "new_count": 8,
+  "count": 113,
+  "new_count": 12,
   "warnings": [],
   "jobs": [
     {
-      "id": "senior-applied-ai-data-scientist-nr-consulting-bnjk2jfc",
-      "title": "Senior Applied AI & Data Scientist",
-      "company": "NR Consulting",
-      "location": "Location not listed",
-      "work_mode": "remote",
-      "posted_at": "2026-11-05T00:35:54Z",
-      "url": "https://arc.dev/remote-jobs/j/nr-consulting-senior-applied-ai-data-scientist-px8fw0a485?utm_source=freehire.me",
-      "source": "arc",
+      "id": "principal-software-engineer-agentic-ai-simulation-automation-caterpillar-inc-vtcvp4h4",
+      "title": "Principal Software Engineer - Agentic AI & Simulation Automation",
+      "company": "Caterpillar Inc.",
+      "location": "Irving, Texas",
+      "work_mode": "not specified",
+      "posted_at": "2026-11-06T00:00:00Z",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Principal-Software-Engineer---Agentic-AI---Simulation-Automation_R0000404257?utm_source=freehire.me",
+      "source": "workday",
       "countries": [
         "us"
       ],
@@ -21,97 +21,320 @@
         "north_america"
       ],
       "family": "Agentic AI",
-      "score": 78,
+      "score": 74,
       "why": [
-        "Role match: applied ai",
-        "Core match: generative ai, genai, llm, rag, agentic ai",
-        "Stack match: python, pytorch, tensorflow, mlflow, fastapi",
-        "Remote US/North America — verify eligibility"
+        "Role match: agentic",
+        "Core match: generative ai, rag, agentic ai, multi-agent, vector search",
+        "Stack match: python, kubernetes, multimodal, distributed systems",
+        "Target relocation market: TX, CA, or WA"
       ],
       "skills": [
         "agentic-ai",
         "ai",
-        "analytics",
         "api",
+        "automation",
         "ci-cd",
         "cloud",
-        "data-science",
-        "db2",
+        "cloud-native",
+        "cpp",
+        "csharp",
+        "cuda",
+        "distributed-systems",
         "docker",
         "embeddings",
-        "fastapi",
-        "flask",
+        "event-driven-architecture",
         "generative-ai",
-        "llm",
-        "machine-learning",
-        "mlflow",
-        "model-evaluation",
-        "postgresql",
-        "python",
-        "pytorch"
+        "github",
+        "github-copilot",
+        "gpu",
+        "java",
+        "kubernetes"
       ],
-      "description": "*Senior Applied AI & Data Scientist* *Location: Prefer hybrid at New Haven, CT office but open to 100% remote* *Employment Type: Direct Hire / Full-Time* *Role Overview:* Seeking a Senior Applied AI & Data Scientist to design, develop, and deploy enterprise AI, Machine Learning, and Generative AI solutions. The role focuses on building production-ready LLM, RAG, and Agentic AI applications, advanced analytics, and predictive models to support Life Insurance, Investments, Membership, and Charitable business functions. Key Responsibilities: * Lead end-to-end AI/ML solution development, from data analysis to production deployment. * Build LLM, G…",
-      "experience_years_min": 2,
+      "description": "*Career Area:* Technology, Digital and Data *Job Description:* *Your Work Shapes the World at Caterpillar Inc.* When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it. *Summary* At Caterpillar, technology has a purpose: to solve our customers' toughest challenges. Co…",
+      "experience_years_min": null,
       "salary": null,
       "is_new": true
     },
     {
-      "id": "senior-data-scientist-ml-engineer-with-aws-arkhya-tech-inc-awsdlv65",
-      "title": "Senior Data Scientist / ML Engineer with AWS",
-      "company": "Arkhya Tech Inc.",
-      "location": "Location not listed",
+      "id": "senior-machine-learning-engineer-agentic-context-retrieval-and-search-nova-iterable-tkkrw7tz",
+      "title": "Senior Machine Learning Engineer, Agentic Context Retrieval and Search (Nova)",
+      "company": "Iterable",
+      "location": "REMOTE - US",
       "work_mode": "remote",
-      "posted_at": "2026-11-05T00:11:43Z",
-      "url": "https://arc.dev/remote-jobs/j/arkhya-tech-inc-senior-data-scientist-ml-engineer-with-aws-px8gg4zz0y?utm_source=freehire.me",
-      "source": "arc",
+      "posted_at": "2026-11-06T23:23:22Z",
+      "url": "https://jobs.ashbyhq.com/iterable/6cfb63d2-b119-4ef3-b1d7-466111fd5606?utm_source=freehire.me",
+      "source": "ashby",
       "countries": [
         "us"
       ],
       "regions": [
         "north_america"
       ],
-      "family": "GenAI / LLM",
-      "score": 49,
+      "family": "Agentic AI",
+      "score": 70,
       "why": [
-        "Role match: ml engineer",
-        "Core match: llm",
-        "Stack match: pytorch, aws, fine-tuning, lora",
+        "Role match: machine learning, retrieval, agentic",
+        "Core match: llm, rag, embeddings, reranking",
         "Remote US/North America — verify eligibility"
       ],
       "skills": [
+        "ab-testing",
         "ai",
-        "aws",
-        "aws-bedrock",
-        "deep-learning",
-        "distributed-training",
-        "fine-tuning",
-        "hadoop",
-        "hive",
-        "iam",
+        "anthropic",
+        "api",
+        "automation",
+        "elasticsearch",
+        "embeddings",
         "llm",
         "machine-learning",
-        "pyspark",
-        "pytorch",
-        "quantization",
-        "reinforcement-learning",
-        "sagemaker",
-        "spark",
-        "vllm"
+        "marketing-automation",
+        "openai",
+        "opensearch",
+        "rag",
+        "recommendation-systems",
+        "snowflake",
+        "sql"
       ],
-      "description": "*Role: Senior Data Scientist / ML Engineer with AWS* *Location: Remote, prefer San Jose if possible* *Duration: Long-Term* *Summary* : Works on data to build, train and deploy next-generation LLM-based recommender systems. The role covers the full path from raw customer data to a deployed model. *Responsibilities:* * Data to training sets: turn unstructured and structured traveler and catalog data into narrative text documents and synthetic data, at a scale of tens of millions of documents. * Feature and context engineering: decide what information goes into each document and how to express it, such as market-relative price, tier and trip con…",
+      "description": "Iterable is the AI customer engagement platform, built for enterprise scale, loved by teams, and trusted by global brands like Redfin, SeatGeek, Priceline, Calm, and Box. Our platform empowers organizations to activate customer data from any source, design seamless cross-channel experiences, and optimize engagement with Nova Intelligence, the AI layer of our platform, all with enterprise-grade security and compliance. Today, nearly 1,200 brands across 50+ countries rely on Iterable to drive growth, deepen customer relationships, and deliver joyful customer experiences. Our success is powered by extraordinary people who bring our core values t…",
+      "experience_years_min": 5,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "staff-machine-learning-engineer-servicenow-ydjbpq3v",
+      "title": "Staff Machine Learning Engineer",
+      "company": "ServiceNow",
+      "location": "Santa Clara, California, us",
+      "work_mode": "not specified",
+      "posted_at": "2026-11-06T17:56:54Z",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000160270669-staff-machine-learning-engineer?utm_source=freehire.me",
+      "source": "smartrecruiters",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Agentic AI",
+      "score": 70,
+      "why": [
+        "Role match: machine learning",
+        "Core match: generative ai, llm, agentic ai, multi-agent, langchain",
+        "Stack match: python, distributed systems",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "agentic-ai",
+        "ai",
+        "ai-enablement",
+        "api",
+        "api-design",
+        "cloud",
+        "cloud-native",
+        "conversational-ai",
+        "design-patterns",
+        "distributed-systems",
+        "generative-ai",
+        "kubeflow",
+        "langchain",
+        "llamaindex",
+        "llm",
+        "mcp",
+        "observability",
+        "prompt-engineering",
+        "python",
+        "sagemaker"
+      ],
+      "description": "*About the Team* The Agentic Engineering organization at ServiceNow is the customer-obsessed engineering group that builds a conversational AI experience that turns enterprise intent into completed work. We advance how enterprise AI reasons, remembers, and executes. The Agent Orchestration team — the team you'll join — owns the execution core: the agent harness, orchestration runtime, multi-agent coordination, memory management, and the evaluation frameworks that ensure agents behave correctly in production. Every autonomous action Otto promises depends on what this team ships. By joining our team, you’ll be at the forefront of our AI transfo…",
+      "experience_years_min": 7,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "senior-ai-ml-engineer-true-talent-solutions-partners-j4gik75z",
+      "title": "Senior AI/ML Engineer",
+      "company": "True Talent Solutions Partners",
+      "location": "San Francisco",
+      "work_mode": "onsite",
+      "posted_at": "2026-11-07T17:56:29Z",
+      "url": "https://jobs.ashbyhq.com/true-talent-solutions-partners/1397abc6-0a06-4049-80fb-73c646ee664c?utm_source=freehire.me",
+      "source": "ashby",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "RAG & Retrieval",
+      "score": 60,
+      "why": [
+        "Role match: ml engineer",
+        "Core match: llm, rag, embeddings, reranking",
+        "Stack match: python, multimodal",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "ai",
+        "anthropic",
+        "api",
+        "ci-cd",
+        "cohere",
+        "datadog",
+        "docker",
+        "embeddings",
+        "gcp",
+        "llm",
+        "machine-learning",
+        "openai",
+        "postgresql",
+        "python",
+        "rag",
+        "react",
+        "redis",
+        "terraform",
+        "typescript"
+      ],
+      "description": "About the Role -------------- Join an applied AI team building the production systems behind an enterprise process intelligence platform. You will turn complex customer data into reliable, useful product experiences powered by hosted frontier models. What You'll Do -------------- * Own customer-facing AI features end to end, from technical design and implementation through deployment, monitoring, and ongoing improvement. * Build Python services and pipelines for retrieval, context construction, model and provider selection, structured extraction, orchestration, and monitoring. * Develop evaluations, representative datasets, benchmarks, regres…",
       "experience_years_min": null,
       "salary": null,
       "is_new": true
     },
     {
-      "id": "senior-machine-learning-engineer-jobgether-x3fb26jn",
-      "title": "Senior Machine Learning Engineer",
-      "company": "Jobgether",
-      "location": "US",
+      "id": "senior-ml-ai-engineer-true-talent-solutions-partners-fusojanz",
+      "title": "Senior ML / AI Engineer",
+      "company": "True Talent Solutions Partners",
+      "location": "San Francisco",
+      "work_mode": "onsite",
+      "posted_at": "2026-11-07T17:37:59Z",
+      "url": "https://jobs.ashbyhq.com/true-talent-solutions-partners/7cacf886-f8e7-4fc9-9e64-91c246fe24ae?utm_source=freehire.me",
+      "source": "ashby",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "RAG & Retrieval",
+      "score": 54,
+      "why": [
+        "Role match: ai engineer",
+        "Core match: rag, embeddings",
+        "Stack match: python, fine-tuning, nlp, fastapi",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "ai",
+        "data-pipelines",
+        "embeddings",
+        "fastapi",
+        "fine-tuning",
+        "llm",
+        "machine-learning",
+        "nlp",
+        "postgresql",
+        "python",
+        "rag",
+        "vector-databases"
+      ],
+      "description": "About the Role -------------- Join a small, senior engineering team building the ML systems behind consumer-facing products. You will shape the data pipelines, models, retrieval systems, and inference infrastructure that make intelligent product features useful and intuitive. What You'll Do -------------- * Architect and build machine learning and retrieval systems for core product experiences. * Design data pipelines to ingest, classify, enrich, and summarize user data. * Develop scalable inference infrastructure for real-time and batch workloads. * Guide model selection, fine-tuning, embeddings, RAG pipelines, evaluation frameworks, and qua…",
+      "experience_years_min": 5,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "senior-machine-learning-engineer-agentic-evals-and-self-improvement-nova-iterable-xobavcgh",
+      "title": "Senior Machine Learning Engineer, Agentic Evals and Self-Improvement (Nova)",
+      "company": "Iterable",
+      "location": "REMOTE - US",
       "work_mode": "remote",
-      "posted_at": "2026-11-06T10:41:33Z",
-      "url": "https://jobs.lever.co/jobgether/92b1a8c3-363b-463b-ae59-5d83db0b132c?utm_source=freehire.me",
-      "source": "lever",
+      "posted_at": "2026-11-06T23:23:16Z",
+      "url": "https://jobs.ashbyhq.com/iterable/ce6e144e-ce82-43ec-b2e8-a2c5f9b57766?utm_source=freehire.me",
+      "source": "ashby",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Agentic AI",
+      "score": 51,
+      "why": [
+        "Role match: machine learning, agentic",
+        "Core match: llm",
+        "Stack match: python",
+        "Remote US/North America — verify eligibility"
+      ],
+      "skills": [
+        "ai",
+        "anthropic",
+        "api",
+        "automation",
+        "data-pipelines",
+        "llm",
+        "machine-learning",
+        "marketing-automation",
+        "openai",
+        "python",
+        "reinforcement-learning",
+        "snowflake"
+      ],
+      "description": "Iterable is the AI customer engagement platform, built for enterprise scale, loved by teams, and trusted by global brands like Redfin, SeatGeek, Priceline, Calm, and Box. Our platform empowers organizations to activate customer data from any source, design seamless cross-channel experiences, and optimize engagement with Nova Intelligence, the AI layer of our platform, all with enterprise-grade security and compliance. Today, nearly 1,200 brands across 50+ countries rely on Iterable to drive growth, deepen customer relationships, and deliver joyful customer experiences. Our success is powered by extraordinary people who bring our core values t…",
+      "experience_years_min": 5,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "senior-machine-learning-data-pipeline-engineer-nvidia-lx7vrhj2",
+      "title": "Senior Machine Learning Data Pipeline Engineer",
+      "company": "NVIDIA",
+      "location": "US, CA, Santa Clara",
+      "work_mode": "not specified",
+      "posted_at": "2026-11-06T00:00:00Z",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Machine-Learning-Data-Pipeline-Engineer_JR2029192?utm_source=freehire.me",
+      "source": "workday",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "Agentic AI",
+      "score": 50,
+      "why": [
+        "Role match: machine learning",
+        "Core match: llm, embeddings",
+        "Stack match: python, multimodal",
+        "Target relocation market: TX, CA, or WA"
+      ],
+      "skills": [
+        "acceptance-criteria",
+        "agentic-ai",
+        "ai",
+        "api",
+        "data-engineering",
+        "data-pipelines",
+        "deep-learning",
+        "embeddings",
+        "llm",
+        "machine-learning",
+        "python",
+        "sql",
+        "workflow-orchestration"
+      ],
+      "description": "We are hiring a Senior Machine Learning Data Pipeline Engineer to invent and build the next generation of data pipelines for end-to-end autonomous driving foundation models. You will develop scalable pipelines and agentic workflows that help DNN teams proactively identify data gaps and efficiently discover, prepare, and deliver the right training data. You will convert model limitations and data needs into reusable engineering solutions, integrating data infrastructure with LLMs, vision-language models, and retrieval techniques to automate data solutions. *What you'll be doing:* * Design, build, and own scalable data pipelines that automate d…",
+      "experience_years_min": 5,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "senior-machine-learning-engineer-nova-intelligence-iterable-vs3yqyqr",
+      "title": "Senior Machine Learning Engineer, Nova Intelligence",
+      "company": "Iterable",
+      "location": "REMOTE - US",
+      "work_mode": "remote",
+      "posted_at": "2026-11-06T23:23:06Z",
+      "url": "https://jobs.ashbyhq.com/iterable/8ac0f284-3b6f-4edd-b0b0-55f96f75046b?utm_source=freehire.me",
+      "source": "ashby",
       "countries": [
         "us"
       ],
@@ -119,48 +342,90 @@
         "north_america"
       ],
       "family": "Machine Learning",
-      "score": 48,
+      "score": 46,
       "why": [
         "Role match: machine learning",
-        "Stack match: python, pytorch, kubernetes, fine-tuning, lora",
+        "Stack match: python, databricks, kubernetes, aws, model serving",
         "Remote US/North America — verify eligibility"
       ],
       "skills": [
         "ai",
-        "cloud",
-        "computer-vision",
-        "containerization",
+        "automation",
+        "aws",
         "data-pipelines",
-        "data-science",
-        "datadog",
-        "docker",
-        "fine-tuning",
-        "gcp",
-        "gdpr",
-        "github",
-        "github-actions",
-        "huggingface",
-        "image-processing",
-        "java",
-        "kotlin",
+        "databricks",
+        "deep-learning",
+        "distributed-training",
+        "feature-engineering",
+        "infrastructure-as-code",
         "kubernetes",
         "machine-learning",
-        "opencv"
+        "marketing-automation",
+        "microservices",
+        "observability",
+        "pulumi",
+        "python",
+        "recommendation-systems",
+        "scala",
+        "snowflake",
+        "spark"
       ],
-      "description": "*This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Machine Learning Engineer based in the United States.* The Senior Machine Learning Engineer will develop and scale advanced machine learning solutions that transform complex operational data into accurate, reliable customer experiences. In this role, you will lead the development of computer vision and multimodal models, taking innovative approaches from experimentation through production deployment. You will fine-tune models, build robust data pipelines, and establish evaluation frameworks to continuously …",
-      "experience_years_min": 3,
+      "description": "Iterable is the AI customer engagement platform, built for enterprise scale, loved by teams, and trusted by global brands like Redfin, SeatGeek, Priceline, Calm, and Box. Our platform empowers organizations to activate customer data from any source, design seamless cross-channel experiences, and optimize engagement with Nova Intelligence, the AI layer of our platform, all with enterprise-grade security and compliance. Today, nearly 1,200 brands across 50+ countries rely on Iterable to drive growth, deepen customer relationships, and deliver joyful customer experiences. Our success is powered by extraordinary people who bring our core values t…",
+      "experience_years_min": 5,
       "salary": null,
       "is_new": true
     },
     {
-      "id": "staff-ml-engineer-embodied-ai-scaling-foundations-general-motors-a3z653fh",
-      "title": "Staff ML Engineer - Embodied AI Scaling Foundations",
-      "company": "General Motors",
-      "location": "Sunnyvale, California, United States of America",
-      "work_mode": "not specified",
-      "posted_at": "2026-11-05T00:00:00Z",
-      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Staff-ML-Engineer---Embodied-AI-Scaling-Foundations_JR-202622758?utm_source=freehire.me",
-      "source": "workday",
+      "id": "senior-ai-ml-engineer-absentia-labs-ribejfc7",
+      "title": "Senior AI/ML Engineer",
+      "company": "Absentia Labs",
+      "location": "Boston",
+      "work_mode": "remote",
+      "posted_at": "2026-11-06T00:30:50Z",
+      "url": "https://jobs.ashbyhq.com/absentia-labs/a586e72a-6bdc-4131-9b14-0585db85d2f2?utm_source=freehire.me",
+      "source": "ashby",
+      "countries": [
+        "us"
+      ],
+      "regions": [
+        "north_america"
+      ],
+      "family": "AI / ML Platform",
+      "score": 44,
+      "why": [
+        "Role match: ml engineer",
+        "Stack match: pytorch, model serving, fine-tuning, multimodal",
+        "Remote US/North America — verify eligibility"
+      ],
+      "skills": [
+        "ai",
+        "data-pipelines",
+        "deep-learning",
+        "distributed-training",
+        "fine-tuning",
+        "github",
+        "llm",
+        "machine-learning",
+        "model-evaluation",
+        "neural-networks",
+        "pytorch",
+        "reinforcement-learning",
+        "rlhf"
+      ],
+      "description": "------------------- About Absentia Labs ------------------- Absentia Labs is building intelligent systems that sit at the intersection of AI, biology, chemistry, and large-scale engineering. Our goal is to translate complex scientific data into machine intelligence capable of reasoning, generalizing, and driving discovery. Biomedical data is fragmented, noisy, and deeply interconnected. Turning it into a useful signal requires not only strong data foundations but also carefully designed learning systems that can scale across modalities, tasks, and uncertainty regimes. This role focuses on building and training those systems. -------- The Role…",
+      "experience_years_min": 5,
+      "salary": null,
+      "is_new": true
+    },
+    {
+      "id": "machine-learning-senior-software-engineer-akamai-technologies-bdb4kjer",
+      "title": "Machine Learning Senior Software Engineer",
+      "company": "Akamai Technologies",
+      "location": "United States",
+      "work_mode": "remote",
+      "posted_at": "2026-11-06T00:00:00Z",
+      "url": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2647?utm_source=freehire.me",
+      "source": "oracle",
       "countries": [
         "us"
       ],
@@ -170,72 +435,38 @@
       "family": "Machine Learning",
       "score": 44,
       "why": [
-        "Role match: ml engineer",
-        "Stack match: python, pytorch, fine-tuning, multimodal",
-        "Target relocation market: TX, CA, or WA"
-      ],
-      "skills": [
-        "ai",
-        "data-quality",
-        "fine-tuning",
-        "gpu",
-        "machine-learning",
-        "numpy",
-        "pandas",
-        "python",
-        "pytorch",
-        "reinforcement-learning",
-        "spark",
-        "sql"
-      ],
-      "description": "*Job Description* At General Motors, we're turning today's impossible into tomorrow's standard. Our vehicles already move millions of people every day, and we're building the autonomy that will drive them - L2 through L4, on real roads, at real scale. Making self-driving safe at that scale is one of the hardest AI problems there is. The Data Scaling team owns the data flywheel for AV foundation model pre-training and SFT. We determine what data the AV needs in order to learn driving behaviors at scale, and we define what data quality means across the loop. The team delivers ML models that move the product up the data scaling curves, turning b…",
-      "experience_years_min": null,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "senior-integration-engineer-data-ml-engineer-product-lead-odette-technologies-tl7ckmsx",
-      "title": "Senior Integration Engineer, Data/ML Engineer, Product Lead",
-      "company": "Odette Technologies",
-      "location": "HYBRID (NC) / REMOTE",
-      "work_mode": "hybrid",
-      "posted_at": "2026-11-05T21:57:35Z",
-      "url": "https://odettetechnologies.com?utm_source=freehire.me",
-      "source": "hackernews",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "GenAI / LLM",
-      "score": 43,
-      "why": [
-        "Role match: ml engineer",
-        "Core match: llm",
-        "Stack match: python",
+        "Role match: machine learning",
+        "Stack match: python, pytorch, tensorflow, fine-tuning",
         "Remote US/North America — verify eligibility"
       ],
       "skills": [
         "ai",
+        "ci-cd",
+        "cloud",
+        "fine-tuning",
+        "jax",
         "llm",
         "machine-learning",
-        "python"
+        "model-evaluation",
+        "python",
+        "pytorch",
+        "quantization",
+        "tensorflow"
       ],
-      "description": "Odette Technologies | Senior Integration Engineer, Data/ML Engineer, Product Lead | HYBRID (NC) / REMOTE | Full-time | US citizens, clearable, East Coast-based | https://odettetechnologies.com We're building an AI-powered situational awareness platform for intelligence and information operations teams, helping analysts and decision-makers make sense of overwhelming open and closed source data. Small, operator-founded team. All three are first hires in their function. You'll work on hard problems: entity resolution across messy multilingual text, taking prototypes to production, and building product for defense and intel users. Python and LLM …",
-      "experience_years_min": null,
+      "description": "*Do you want to shape how AI models are validated, optimized, and deployed at global scale?* *Are you passionate about building the systems that ensure AI models perform reliably and responsibly in production* *Join the Akamai Inference Cloud Team!* The Akamai Inference Cloud (AIC) team is part of Akamai's Cloud Technology Group. We design and operate AI platforms enabling customers to run models with unmatched performance, compliance, and economics. This team owns the end-to-end model lifecyclefrom validation and security scanning through quantization, optimization, and monitoring. We ensure every model meets rigorous standards for quality, …",
+      "experience_years_min": 5,
       "salary": null,
       "is_new": true
     },
     {
-      "id": "senior-machine-learning-engineer-recruitingfromscratch-amela5du",
-      "title": "Senior Machine Learning Engineer",
-      "company": "recruitingfromscratch",
-      "location": "San Francisco, CA, Onsite",
-      "work_mode": "onsite",
-      "posted_at": "2026-11-05T19:01:07Z",
-      "url": "https://recruiterflow.com/recruitingfromscratch/jobs/6009?utm_source=freehire.me",
-      "source": "recruiterflow",
+      "id": "machine-learning-senior-software-engineer-fa-extu-saasfaprod1-fa-ocs-oraclecloud-com-cx-vs24f77m",
+      "title": "Machine Learning Senior Software Engineer",
+      "company": "Akamai",
+      "location": "United States",
+      "work_mode": "remote",
+      "posted_at": "2026-11-06T00:00:00Z",
+      "url": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2647?utm_source=freehire.me",
+      "source": "oracle",
       "countries": [
         "us"
       ],
@@ -243,41 +474,40 @@
         "north_america"
       ],
       "family": "Machine Learning",
-      "score": 42,
+      "score": 44,
       "why": [
         "Role match: machine learning",
-        "Stack match: python, nlp, distributed systems",
-        "Target relocation market: TX, CA, or WA"
+        "Stack match: python, pytorch, tensorflow, fine-tuning",
+        "Remote US/North America — verify eligibility"
       ],
       "skills": [
         "ai",
-        "anomaly-detection",
-        "cybersecurity",
-        "data-pipelines",
-        "distributed-systems",
-        "feature-engineering",
+        "ci-cd",
+        "cloud",
+        "fine-tuning",
+        "jax",
+        "llm",
         "machine-learning",
-        "nlp",
-        "nodejs",
+        "model-evaluation",
         "python",
-        "react",
-        "statistics",
-        "typescript"
+        "pytorch",
+        "quantization",
+        "tensorflow"
       ],
-      "description": "*Who is Recruiting from Scratch:* Recruiting from Scratch is a premier talent firm that focuses on placing the best product managers, software, and hardware talent at innovative companies. Our team is 100% remote and we work with teams across the United States to help them hire. ******************************** Senior Machine Learning Engineer ******************************** *Location:* San Francisco, CA *Work Arrangement:* On-site, 5 days per week *Employment Type:* Full-time *Experience:* 3–8 years *Base Salary:* $250,000–$300,000 *Equity:* Competitive equity *Visa Sponsorship:* Not available — US citizens and Green Card holders only -----…",
-      "experience_years_min": 3,
+      "description": "*Do you want to shape how AI models are validated, optimized, and deployed at global scale?* *Are you passionate about building the systems that ensure AI models perform reliably and responsibly in production* *Join the Akamai Inference Cloud Team!* The Akamai Inference Cloud (AIC) team is part of Akamai's Cloud Technology Group. We design and operate AI platforms enabling customers to run models with unmatched performance, compliance, and economics. This team owns the end-to-end model lifecyclefrom validation and security scanning through quantization, optimization, and monitoring. We ensure every model meets rigorous standards for quality, …",
+      "experience_years_min": 5,
       "salary": null,
       "is_new": true
     },
     {
-      "id": "staff-software-engineer-engineer-car-next-door-zrupeptg",
-      "title": "Staff ML Engineer (Optimization)",
-      "company": "Car Next Door",
-      "location": "San Francisco, CA, United States",
-      "work_mode": "not specified",
-      "posted_at": "2026-11-05T00:00:00Z",
-      "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/UberCareers/job/301985?utm_source=freehire.me",
-      "source": "oracle",
+      "id": "senior-ai-engineer-recruitingfromscratch-2o6cx5xc",
+      "title": "Senior AI Engineer",
+      "company": "recruitingfromscratch",
+      "location": "San Francisco, CA, Onsite",
+      "work_mode": "onsite",
+      "posted_at": "2026-11-06T16:05:56Z",
+      "url": "https://recruiterflow.com/recruitingfromscratch/jobs/6016?utm_source=freehire.me",
+      "source": "recruiterflow",
       "countries": [
         "us"
       ],
@@ -287,59 +517,16 @@
       "family": "Agentic AI",
       "score": 41,
       "why": [
-        "Role match: ml engineer",
-        "Core match: multi-agent",
+        "Role match: ai engineer",
+        "Core match: agentic ai",
         "Target relocation market: TX, CA, or WA"
       ],
       "skills": [
-        "causal-inference",
-        "deep-learning",
-        "machine-learning",
-        "recommendation-systems",
-        "reinforcement-learning",
-        "statistics"
+        "agentic-ai",
+        "ai"
       ],
-      "description": "*About the role and team* Uber's Marketplace Matching team builds the real-time decision systems that determine how riders and drivers are matched across a global, two-sided marketplace. These decisions happen under uncertainty, at massive scale, and with competing short- and long-term objectives across marketplace efficiency, reliability, sustainable growth, user value, and quality of experience. We are looking for a Staff Machine Learning Engineer to help define and build the next generation of matching optimization systems. This role sits at the intersection of machine learning, sequential decision-making, optimization, control, and market…",
-      "experience_years_min": 6,
-      "salary": null,
-      "is_new": true
-    },
-    {
-      "id": "staff-software-engineer-applied-ai-gridunity-lu2hntjb",
-      "title": "Staff Software Engineer, Applied AI",
-      "company": "GridUnity",
-      "location": "Remote",
-      "work_mode": "remote",
-      "posted_at": "2026-11-06T00:44:14Z",
-      "url": "https://jobs.ashbyhq.com/gridunity/264963d7-e733-4d65-9703-b65df55d1e8b?utm_source=freehire.me",
-      "source": "ashby",
-      "countries": [
-        "us"
-      ],
-      "regions": [
-        "north_america"
-      ],
-      "family": "RAG & Retrieval",
-      "score": 38,
-      "why": [
-        "Role match: applied ai",
-        "Stack match: aws",
-        "Remote US/North America — verify eligibility"
-      ],
-      "skills": [
-        "ai",
-        "api",
-        "aws",
-        "cloud",
-        "nodejs",
-        "observability",
-        "postgresql",
-        "react",
-        "typescript",
-        "workflow-orchestration"
-      ],
-      "description": "*WHO WE ARE* GridUnity is the industry leader in interconnection life cycle management, delivering cutting-edge software solutions that eliminate bottlenecks in the interconnection process and accelerate the transition to a more affordable, sustainable, and resilient energy future. *Our Mission* We unite all grid interconnection stakeholders on a single platform that converts centralized data into actionable intelligence and accelerates the transition to a reliable, sustainable, and cost-efficient electric grid. GridUnity is a trusted partner to leading utilities, grid operators, and policymakers. Our technology solutions tackle the interconn…",
-      "experience_years_min": null,
+      "description": "*Who is Recruiting from Scratch:* Recruiting from Scratch is a premier talent firm that focuses on placing the best product managers, software, and hardware talent at innovative companies. Our team is 100% remote and we work with teams across the United States to help them hire. ****************** Senior AI Engineer ****************** *Location:* San Francisco, CA *Compensation:* $180K–$275K base + competitive equity *Visa:* Open to visa transfers, including OPT and H-1B transfers *Experience:* 4–8 years *Office Type:* On-site, 5 days per week *Employment Type:* Full-time *Hiring Count:* Not specified ******************* Company Description *…",
+      "experience_years_min": 4,
       "salary": null,
       "is_new": true
     }
